@@ -2,10 +2,7 @@
 id: 23
 title: 'Google&#8217;s new favicon.'
 date: 2009-01-14T14:49:29+00:00
-author: mark
 layout: post
-guid: http://www.sallonoroff.co.uk/blog/?p=23
-permalink: /2009/01/googles-new-favicon/
 categories:
   - Uncategorized
 tags:
