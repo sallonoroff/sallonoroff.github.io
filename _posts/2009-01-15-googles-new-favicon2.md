@@ -1,6 +1,6 @@
 ---
-id: 23
-title: 'Google's new favicon. A repeat.'
+id: 23000
+title: 'Google new favicon. A repeat.'
 date: 2009-01-15T14:49:29+00:00
 layout: post
 categories:
