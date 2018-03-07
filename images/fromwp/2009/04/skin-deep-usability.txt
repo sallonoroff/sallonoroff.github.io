@@ -1,0 +1,66 @@
+Skin Deep Usability
+Published April 16, 2009
+
+By Gordon Miller
+
+I approach usability problems like Vlad the Impaler approached adversaries – as a personal affront to me and my ancestors, best dealt with using a rusty iron spear and a sense of righteous vindication. It’s not that I expect perfection from every product, web site or service, but I do at least expect some evidence of thought and logic given to what the end user will experience. With that as background, you can better appreciate my tale.
+
+We recently purchased a Microsoft Surface unit on behalf of our Coldwell Banker® client, having been sold on “the power, magic & possibilities of tabletop touch screen computing”. And when the sleek and gorgeously-crafted machine arrived at our office, we were like kids on Christmas morning.
+
+But that’s when the sad music began to play.
+
+We unpacked the unit, put the three manuals (titled “Quick Reference”, “Start Here” and “Warranty & Maintenance”) aside, had a quick chuckle at the included wireless keyboard and mouse set (“Why would they send us these for a touch-screen computer!?! Maybe it’s a freebie - nice!”), grabbed the power cord and got ready to take a look at the future.
+
+“Ummmm…anyone see where we plug this thing in?”
+
+[Usability Frustration Test #1: “Quick Reference” or “Start Here” - which one do you open if you're looking for where it plugs in?]
+
+After a couple of bemused minutes looking in, around and even under the unit, somebody grabbed the “Start Here” manual. On page 3 or so it made a reference to keeping the power cord safe and out of the way, but no mention of where it attaches to the machine.
+
+We consulted “Quick Reference”, only to learn about the Status Lights – “Blue when the unit is turning off, Red when there is a problem, and Rhodamine (pink) when the unit is first turned on” – but maddeningly no mention about how to get the unit on in the first place.
+
+[Usability Frustration Test #2: When describing the color of status lights, which is clearer - “Rhodamine” or “Pink”?]
+
+Now, it’s not like the good folks at Microsoft didn’t roll their sleeves up to provide detail in these documents – for example, in “Quick Reference” two of the manual’s three written pages implore you to keep the unit clean to “ensure a rewarding customer experience”.
+
+Here’s some sample instruction:
+“Do not vacuum under a Surface unit…clean using dishwashing liquid soap, such as Ultra Dawn® or Ultra Joy® with Antibacterial 0.1% Triclosan” - and my personal favorite - “Do not use automatic dishwasher soap.”
+
+[Usability Frustration Test #3: If 66% of a document’s content is about cleaning, should it be titled ‘Quick Reference’ or ‘Care & Cleaning’?]
+
+After :20 full minutes of looking and reading, the three of us (each with a 4-year college degree) finally punted and called the help desk. We described our plight, took some relief in her courteous assurance that she could help us out, and then waited for her to look thru her documentation…several minutes later, “well, you know what, I don’t see that either – but I have a unit here so let me see where we plug it in.”
+
+[Usability Frustration Test #4: Should plugging the power in require ½ hour, four people and a call to the help desk?]
+
+So, let’s flip past the next 8-10 minutes (Help Desk insists it is in the bottom left, turns out it was on the exact opposite end, etc.) to where we get the power on . Hoorayyyyyy!
+
+Basking in the glow from our brand-new tabletop touch screen computer, we are greeted with…. not a glossy “welcome” montage, but a standard, legal disclaimer that asks if we accept the terms & conditions. Ugh – like having a lawyer jump in front of you on your way to the presents under the tree, asking for a waiver of rights in case of pine-cone accident, but it’s the times we live in. OK, I eagerly start pushing the check box with my finger, but no response. I try again, still no response. My two colleagues each approach, each trying the exact same thing, with the same result. Silly, no doubt - but remember the whole thing about the Surface, as Microsoft reminds you in all of their literature, is that it is a touch computer.
+
+[Usability Frustration Test #5: Should the input mechanism for a touch screen computer always be, well, a touch?]
+
+OK, let’s look at the “Start Here” guide for some guidance. Here’s what it has to say:
+
+“Imagine a world where you can literally touch the digital information you use every day…Now, imagine a new kind of computer that doesn’t look or feel like a computer at all. There’s no keyboard. No mouse, either. Just a surface that’s alive with brilliant colors and all kinds of images and information in motion. A surface that responds naturally to your touch and gestures.”
+
+What follows are 6 more pages of similar stuff (including another appearance of “rhodamine”), and the document closed out with two more pages of detailed cleaning instructions (”never use automatic dishwasher soap”).
+
+[Usability Frustration Test #6: Should a document title “Start Here” actually instruct users on how to get started?]
+
+Approximately 32 impotent touches later, somebody cries out “Hey – what if the ‘free’ keyboard & mouse aren’t just freebies?”. So, ignoring the propaganda in the “Start Here” document (”There’s no keyboard. No mouse, either.”), we open up the wireless keyboard and mouse, insert the external USB Bluetooth adapter,  and voila – our new touch screen computer responds the old-fashioned way.
+
+[Usability Frustration Test #7: Shouldn’t $17,000 at least get you built-in bluetooth?]
+
+We still had an hour or so to go before we could call it a day – time filled with other mind-bogglingly frustrating usability issues – but in the end, we did get it working. And we did deploy a truly dynamic and stunning user experience on the Surface, which our client is extremely happy with. And we’re still very excited to do more development on this platform. But for all the good experiences I’m going to get from interacting with this machine down the road, I’ll always remember feeling like a character in a The Davinci Code on that first day just to try to get the status lights to turn pink…excuse me, rhodamine.
+
+And the shame is that it didn’t have to be this way.
+
+No doubt it took a lot of very smart people a very long time to bring this machine to market. It’s obvious that this represents the dedicated labor and craft of programmers, artists, designers, engineers and more, and I honor their work. But it’s a shame that Microsoft failed to with even the most basic usability review, which would have turned up the issue of the power cord. Even a simple, final walk-thru of the most common Use Case - that of a customer who buys and receives a new Surface unit - would’ve revealed the fact that there is no instruction, anywhere, to open up the keyboard and mouse and use it to launch the software.
+
+The whole experience was probably best summed up by Amanda who, when asked why it was taking us so long to get the machine up and running, and why we all looked so unhappy, replied “Oh, it’s just so…Microsofty.”
+
+That’s the true cost of a poor approach to usability – it gets you a reputation that’s hard to shake.
+
+
+
+---
+http://kinesismomentum.wordpress.com/
