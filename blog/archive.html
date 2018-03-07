@@ -4,7 +4,7 @@ title: Archive
 ---
 <section id="archive">
   <!-- <h3>This year's posts</h3> -->
-  <h3>{{ post.date | date: '%Y' }}</h3>
+  <h3>Hello! {{ post.date | date: '%Y' }}</h3>
   <ul>
   {%for post in site.posts %}
     <!-- {% unless post.next %}
