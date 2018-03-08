@@ -1,8 +1,8 @@
 # sallonoroff.github.io
 
-Hello! I'm in the process of moving my blog from WP to Jekyll on GitHub Pages. Here's a list of pages that have helped along the way.  
+Hello! I'm in the process of moving my blog (sallonoroff.co.uk) from WP to Jekyll on GitHub Pages. Here's a list of pages that have helped along the way.  
   
-Guides
+Guides  
 http://jmcglone.com/guides/github-pages/  
 https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/  
 http://joshualande.com/jekyll-github-pages-poole  
