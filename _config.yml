@@ -1,5 +1,36 @@
-name: sallonoroff website
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-plugins:
-  - jekyll-sitemap
+
+# Permalinks
+permalink:           pretty
+#permalink: /blog/:year/:month/:day/:title
+
+# Setup
+title:               sallonoroff
+tagline:             Some thoughts on things made with ones and noughts
+url:                 http://www.sallonoroff.co.uk/
+paginate:            5
+baseurl:             "/blog"
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Mark Wainwright
+  url:               https://twitter.com/sallonoroff
+  email:             mail@sallonoroff.co.uk
+
+# Custom vars
+version:             
+github:
+  repo:              
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  #- jekyll-sitemap
