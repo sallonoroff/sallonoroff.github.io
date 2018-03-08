@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<<<<<<< HEAD
 <html lang="en">
 
   {% include head.html %}
@@ -35,4 +36,33 @@
      </script>
     {% endif %}
   </body>
+=======
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">sallonoroff</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/blog">Blog</a></li>
+			<li><a href="/blog/archive">Archive</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+      
+      {{ content }}
+      
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:probablyafakeemailaddress@gmail.con">email</a></li>
+        		<li><a href="https://github.com/sallonoroff">github.com/sallonoroff</a></li>
+			</ul>
+		</footer>
+	</body>
+>>>>>>> 85ff232fe3207013856c127fd2abf700223d81c6
 </html>
