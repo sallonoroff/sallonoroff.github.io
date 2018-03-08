@@ -9,7 +9,7 @@ http://joshualande.com/jekyll-github-pages-poole
   
 Plus inspiration taken from...  
 https://github.com/dyutibarma/monochrome  
-https://github.com/chrishouse/chris-dot-house
+https://github.com/chrishouse/chris-dot-house  
 https://github.com/poole/poole (especially Poole - this site is basically Poole, with modifications)  
   
 Cheat sheets  
