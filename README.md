@@ -28,3 +28,6 @@ http://chris.house/blog/building-a-simple-archive-page-with-jekyll/
 Fixing pagination in Poole when your posts are at /blog  
 https://stackoverflow.com/questions/24717458/creating-a-website-with-jekyll-that-has-a-subdirectory-for-the-blog-with-paginat  
 https://github.com/bpatra/jekyllsiteblogpaginated  
+  
+Improving 'related pages'?  
+https://blog.webjeda.com/jekyll-related-posts/  
