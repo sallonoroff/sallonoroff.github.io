@@ -7,6 +7,7 @@ title:               sallonoroff
 tagline:             Some thoughts on things made with ones and noughts
 url:                 http://www.sallonoroff.co.uk/
 paginate:            5
+paginate_path:       "/blog/page:num"
 baseurl:             ""
 
 # Assets
