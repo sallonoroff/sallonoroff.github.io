@@ -1,15 +1,15 @@
 markdown: kramdown
 
 # Permalinks
-permalink:           pretty
-#permalink:           /blog/:year/:month/:day/:title
+#permalink:           pretty
+permalink:           /blog/:year/:month/:day/:title
 
 # Setup
 title:               sallonoroff
 tagline:             Some thoughts on things made with ones and noughts
 url:                 http://www.sallonoroff.co.uk/
 paginate:            5
-baseurl:             "/blog"
+baseurl:             ""
 
 # Assets
 #
