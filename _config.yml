@@ -1,13 +1,14 @@
 # Permalinks
 #permalink:           pretty
-permalink:           /blog/:year/:month/:day/:title
+permalink:           /blog/:year/:month/:day/:title #changed from Poole's default to this.
 
 # Setup
 title:               sallonoroff
 tagline:             Some thoughts on things made with ones and noughts
-url:                 http://www.sallonoroff.co.uk/
+description:         Some thoughts on things made with ones and noughts
+url:                 www.sallonoroff.co.uk
 paginate:            5
-paginate_path:       "/blog/page:num"
+paginate_path:       "/blog/page:num" #added to fix pagination issue with using /blog
 baseurl:             ""
 
 # Assets
@@ -33,3 +34,6 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   #- jekyll-sitemap
+
+# This is the list of pages to incldue in the header of the website for navigation
+pages_list:          {'About':'/about','Archive':'/blog/archive','Tags':'/blog/tags'}
