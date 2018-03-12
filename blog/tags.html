@@ -4,15 +4,16 @@ title: Tags
 ---
 
 <div class="tags-expo">
+  There are {{site.tags.size}} differed tags used on this blog. Here they all are.
   <div class="tags-expo-list">
     {% assign sorted_tags = (site.tags | sort:0) %}
-    {% for tags in sorted_tags %}
-      <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    {% for tag in sorted_tags %}
+      <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }} <span>({{ site.tags[tag] | size }})</span></a>
     {% endfor %}
   </div>
   <hr/>
   <div class="tags-expo-section">
-    {% for tags in sorted_tags %}
+    {% for tag in sorted_tags %}
       <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
       <ul class="tags-expo-posts">
         {% for post in tag[1] %}
