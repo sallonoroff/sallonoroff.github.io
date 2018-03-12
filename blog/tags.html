@@ -8,7 +8,7 @@ title: Tags
   <div class="tags-expo-list">
     {% assign sorted_tags = (site.tags | sort:0) %}
     {% for tag in sorted_tags %}
-      <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }} <span>({{ site.tags[tag[0]].size }})</span></a>
+      <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }} <span>({{ site.tags[tag].size }})</span></a>
     {% endfor %}
   </div>
   <hr/>
