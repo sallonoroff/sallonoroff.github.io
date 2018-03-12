@@ -29,6 +29,7 @@ Tags
 https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/  
 https://www.yizehu.com/2017/06/19/sort-tags-in-jekyll  
 https://blog.lanyonm.org/articles/2013/11/21/alphabetize-jekyll-page-tags-pure-liquid.html  
+http://pavdmyt.com/how-to-implement-tags-at-jekyll-website/  
   
 Fixing pagination in Poole when your posts are at /blog  
 https://stackoverflow.com/questions/24717458/creating-a-website-with-jekyll-that-has-a-subdirectory-for-the-blog-with-paginat  
