@@ -7,7 +7,7 @@ layout: post
 tags:
   - batteries
   - media
-  - MIT
+  - mit
   - news
 ---
 Like me, you may well have read today (in several newspapers and websites) about some batteries developed by researchers at MIT that are super-quick to recharge. Yes?
