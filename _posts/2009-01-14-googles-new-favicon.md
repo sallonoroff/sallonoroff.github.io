@@ -13,8 +13,3 @@ tags:
 
 <p style="text-align: center;">
   <img class="size-full wp-image-24 aligncenter" title="googlefavicons" src="/images/fromwp/2009/01/googlefavicons.png" alt="google's favicons" width="80" height="31" />
-<<<<<<< HEAD
-</p>
-=======
-</p>
->>>>>>> a5fd9ca72ea8e418311e732233515362becf52d9
