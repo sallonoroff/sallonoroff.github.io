@@ -6,11 +6,6 @@
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  
-  br {
-    font-size: 25%;
-    letter-spacing: 0;
-  }
 }
 
 .masthead-title {
@@ -26,6 +21,11 @@
     font-size: 75%;
     font-weight: 400;
     //opacity: .5;
+    letter-spacing: 0;
+  }
+  
+   span.tagline {
+    font-size: 25%;
     letter-spacing: 0;
   }
 }
