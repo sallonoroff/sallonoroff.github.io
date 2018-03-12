@@ -25,6 +25,11 @@ Making an archive
 http://reyhan.org/2013/03/jekyll-archive-without-plugins.html  
 http://chris.house/blog/building-a-simple-archive-page-with-jekyll/  
   
+Tags  
+https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/  
+https://www.yizehu.com/2017/06/19/sort-tags-in-jekyll  
+https://blog.lanyonm.org/articles/2013/11/21/alphabetize-jekyll-page-tags-pure-liquid.html  
+  
 Fixing pagination in Poole when your posts are at /blog  
 https://stackoverflow.com/questions/24717458/creating-a-website-with-jekyll-that-has-a-subdirectory-for-the-blog-with-paginat  
 https://github.com/bpatra/jekyllsiteblogpaginated  
