@@ -9,6 +9,8 @@ layout: default
 </article>
 
 <aside class="related">
+  <h3>Related posts</h3>
+  <ul class="related-posts">
   {% assign maxRelated = 3 %}
   {% assign minCommonTags =  2 %}
   {% assign maxRelatedCounter = 0 %}
@@ -28,8 +30,6 @@ layout: default
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      <h3>Related posts</h3>
-      <ul class="related-posts">
       <li>
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
