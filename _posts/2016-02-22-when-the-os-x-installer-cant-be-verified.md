@@ -12,7 +12,7 @@ tags:
   - osx
   - installer
 ---
-So you've got an OS X installer app saved (or maybe you've [followed some instructions and made yourself a bootable USB drive for installing Mac OS X](http://www.sallonoroff.co.uk/blog/2015/11/make-a-bootable-usb-drive-with-createinstallmedia/)), used it a few times without any issue, forgotten about it, then some time later tried to use it again and run into an error message like this...;
+So you've got an OS X installer app saved (or maybe you've [followed some instructions and made yourself a bootable USB drive for installing Mac OS X](http://www.sallonoroff.co.uk/blog/2015/11/make-a-bootable-usb-drive-with-createinstallmedia/)), used it a few times without any issue, forgotten about it, then some time later tried to use it again and run into an error message like this...
 
 > This copy of the Install OS X El Capitan application can't be verified. It may have been corrupted or tampered with during downloading.
 
