@@ -21,8 +21,12 @@ sass:
 # About/contact
 author:
   name:              Mark Wainwright
-  url:               https://twitter.com/sallonoroff
+  url:               http://www.sallonoroff.co.uk/
   email:             mail@sallonoroff.co.uk
+  rss_link:          http://www.sallonoroff.co.uk/blog/atom.xml
+  twitter_link:      https://twitter.com/sallonoroff
+  flickr_link:       https://www.flickr.com/photos/sallonoroff
+  github_link:       https://github.com/sallonoroff
 
 # Custom vars
 version:             
