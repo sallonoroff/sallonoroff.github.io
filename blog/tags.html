@@ -4,11 +4,11 @@ title: Archives by Tag
 ---
 
 There are {{site.tags.size}} different tags applied to posts on the blog. They are all listed here in alphabetical order. Alternatively, you can view the <a href="/blog/archive">archives by date</a>.
-  
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tag_words = site_tags | split:',' | sort %}
 
-<div id="tags">
+<section id="archive">
+  {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+  {% assign tag_words = site_tags | split:',' | sort %}
+  
   <ul class="tag-box inline">
   {% for tag in tag_words %}
     <li><a href="#{{ tag | cgi_escape }}">{{ tag }} <span>{{ site.tags[tag] | size }}</span></a></li>
@@ -24,4 +24,4 @@ There are {{site.tags.size}} different tags applied to posts on the blog. They a
     {% endif %}{% endfor %}
   </ul>
   {% endunless %}{% endfor %}
-</div>
+</section>
