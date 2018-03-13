@@ -8,4 +8,4 @@ tags:
   - twitter
   - web
 ---
-I wonder how long it&#8217;ll be before someone suggests <a href="http://twitter.com" target="_blank">Twitter</a> to me?
+I wonder how long it'll be before someone suggests [Twitter](http://twitter.com) to me?
