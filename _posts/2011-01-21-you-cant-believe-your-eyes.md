@@ -12,8 +12,8 @@ tags:
 ---
 I think it's fair to say everyone expects that _one day_ films made using computer-generated imagery (CGI) will be indistinguishable from films of real life. Well, Alex Roman seems to have made _one day_ into _today_.
 
-This stuff is simply **INCREDIBLE**...
+This stuff is simply INCREDIBLE...
 
-<iframe src="https://player.vimeo.com/video/15630517?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/15630517?color=ffffff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/7809605?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
