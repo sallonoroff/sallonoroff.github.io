@@ -6,23 +6,14 @@ author: mark
 layout: post
 tags:
   - cgi
-  - graphics
+  - vfx
   - videos
+  - alex roman
 ---
-I think it&#8217;s fair to say everyone expects that _one day_ films made using computer-generated imagery (CGI) will be indistinguishable from films of real life. Well, Alex Roman seems to have made _one day_ into _today_.
+I think it's fair to say everyone expects that _one day_ films made using computer-generated imagery (CGI) will be indistinguishable from films of real life. Well, Alex Roman seems to have made _one day_ into _today_.
 
-This stuff is simply **INCREDIBLE**&#8230;
+This stuff is simply **INCREDIBLE**...
 
-<p style="text-align: center;">
-</p>
+<iframe src="https://player.vimeo.com/video/15630517?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p style="text-align: center;">
-  <a href="http://vimeo.com/15630517">Silestone &#8212; &#8216;Above Everything Else&#8217;</a> from <a href="http://vimeo.com/user1337612">Alex Roman</a> on <a href="http://vimeo.com">Vimeo</a>.
-</p>
-
-<p style="text-align: center;">
-</p>
-
-<p  style="text-align: center;">
-  <a href="http://vimeo.com/7809605">The Third &#038; The Seventh</a> from <a href="http://vimeo.com/user1337612">Alex Roman</a> on <a href="http://vimeo.com">Vimeo</a>.
-</p></p>
+<iframe src="https://player.vimeo.com/video/7809605?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
