@@ -7,6 +7,7 @@ layout: post
 tags:
   - apple
   - steve jobs
+  - woz
 ---
 Every man and his dog are still reporting on Steve Jobs&#8217; health. On the whole it&#8217;s just speculation or lazy copying of other people&#8217;s speculation but I thought <a href="http://www.theinquirer.net/inquirer/news/488/1050488/steve-jobs-road-golgotha" target="_blank">this</a> was quite a sensible piece. While I don&#8217;t really agree with the author&#8217;s stance on Jobs&#8217; privacy, it is an interesting point of view.
 
