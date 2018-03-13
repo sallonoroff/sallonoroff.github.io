@@ -8,4 +8,4 @@ tags:
   - first post
   - this blog
 ---
-This is my first-ever &#8220;blog&#8221; entry. And quite probably my last.
+This is my first-ever "blog" entry. And quite probably my last.
