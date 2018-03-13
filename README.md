@@ -1,6 +1,8 @@
 # sallonoroff.github.io
 
-Hello! I'm in the process of moving my blog (sallonoroff.co.uk) from WP to Jekyll on GitHub Pages. Here's a list of pages that have helped along the way.  
+Hello! I'm in the process of moving my blog (sallonoroff.co.uk) from WP to Jekyll on GitHub Pages. This site is largely based on [Poole](https://github.com/poole/poole) but has had numerous modifications, hacks and bodges applied.  
+  
+Here's a list of pages that have helped along the way.  
   
 Guides  
 http://jmcglone.com/guides/github-pages/  
@@ -8,9 +10,9 @@ https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 http://joshualande.com/jekyll-github-pages-poole  
   
 Plus inspiration taken from...  
+https://github.com/poole/poole  
 https://github.com/dyutibarma/monochrome  
 https://github.com/chrishouse/chris-dot-house  
-https://github.com/poole/poole (especially Poole - this site is basically Poole, with modifications)  
   
 Cheat sheets  
 https://learn.cloudcannon.com/jekyll-cheat-sheet/  
