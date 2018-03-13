@@ -4,29 +4,11 @@ layout: default
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }} {{ page.date | date: "%-d %B %Y" }}</time> {{ page.tags }} 
   {{ content }}
 </article>
 
-{% if site.related_posts != empty %}
-<!-- <aside class="related">
-  <h3>Related posts</h3>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</aside> -->
-{% endif %}
-
 <aside class="related">
-  <h3>Related posts</h3>
-  <ul class="related-posts">
   {% assign maxRelated = 3 %}
   {% assign minCommonTags =  2 %}
   {% assign maxRelatedCounter = 0 %}
@@ -46,14 +28,13 @@ layout: default
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      <!-- <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
-      </div> -->
-        <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>{{ commonTags }}</small>
-        </a>
+      <h3>Related posts</h3>
+      <ul class="related-posts">
+      <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+        <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>{{ commonTags }}</small>
+      </a>
       </li>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
@@ -61,9 +42,11 @@ layout: default
       {% endif %}
     {% endif %}
   {% endfor %}
-  
+  </ul>
   {% if site.related_posts != empty %}
     {% if maxRelatedCounter < 1 %}
+      <h3>Recent posts</h3>
+      <ul class="related-posts">
       {% for post in site.related_posts limit:3 %}
         <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
@@ -72,7 +55,7 @@ layout: default
         </a>
         </li>
       {% endfor %}
+      </ul>
     {% endif %}
   {% endif %}
-  </ul>
 </aside>
