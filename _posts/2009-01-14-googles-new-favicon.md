@@ -9,7 +9,6 @@ tags:
   - google
   - web
 ---
-<a href="http://googleblog.blogspot.com/2009/01/googles-new-favicon.html" target="_blank">Google has implemented a new favicon</a> which is gradually appearing on all their websites. Personally, i hate it. I &#8220;get&#8221; the idea but i think it just looks far too brash and gaudy. I prefer the old favicon &#8211; much more subtle than this new one and more elegant than the original capital G. But who cares what i think?
+[Google has implemented a new favicon](http://googleblog.blogspot.com/2009/01/googles-new-favicon.html) which is gradually appearing on all their websites. Personally, i hate it. I get the idea but i think it just looks far too brash and gaudy. I prefer the old favicon - much more subtle than this new one and more elegant than the original capital G. But who cares what i think?
 
-<p style="text-align: center;">
-  <img class="size-full wp-image-24 aligncenter" title="googlefavicons" src="/images/fromwp/2009/01/googlefavicons.png" alt="google's favicons" width="80" height="31" />
+![Google's favicons](/images/fromwp/2009/01/googlefavicons.png){:class="img-responsive"}
