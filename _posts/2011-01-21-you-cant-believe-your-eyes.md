@@ -14,6 +14,6 @@ I think it's fair to say everyone expects that _one day_ films made using compu
 
 This stuff is simply INCREDIBLE...
 
-<iframe src="https://player.vimeo.com/video/15630517?color=ffffff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/15630517?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/7809605?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
