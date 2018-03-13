@@ -40,4 +40,4 @@ gems:
   #- jekyll-sitemap
 
 # This is the list of pages to incldue in the header of the website for navigation
-pages_list:          {'About':'/about', 'Blog':'/blog', 'Archives':'/blog/archive'}
+pages_list:          {'/about':'/about', '/blog':'/blog', '/blog/archive':'/blog/archive'}
