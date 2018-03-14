@@ -1,11 +1,12 @@
 // Posts and pages
 //
-// Each post is wrapped in `.post` and is used on default and post layouts. Each
-// page is wrapped in `.page` and is only used on the page layout.
+// Each post is wrapped in `.post` and is used on default and post layouts.
+// Each page is wrapped in `.page` and is only used on the page layout.
 
 .page,
 .post {
   margin-bottom: 4em;
+  border-bottom: 1px solid #eee;
 
   li + li {
     margin-top: .25rem;
@@ -37,7 +38,7 @@
   padding-top: 2rem;
   padding-bottom: 2rem;
   margin-bottom: 2rem;
-  border-top: 1px solid #eee;
+  //border-top: 1px solid #eee;
   border-bottom: 1px solid #eee;
 }
 
