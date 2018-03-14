@@ -8,6 +8,7 @@ Guides
 http://jmcglone.com/guides/github-pages/  
 https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/  
 http://joshualande.com/jekyll-github-pages-poole  
+http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/  
   
 Plus inspiration taken from...  
 https://github.com/poole/poole  
