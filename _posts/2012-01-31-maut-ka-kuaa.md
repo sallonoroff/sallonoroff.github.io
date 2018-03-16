@@ -7,11 +7,10 @@ layout: post
 tags:
   - arbitrary
   - not so tech
-  - video
-  - web
+  - videos
 ---
-You&#8217;ve probably seen a Wall of Death before but have you ever seen a car ride in/on one? How about two cars?
+You've probably seen a Wall of Death before but have you ever seen a car ride in/on one? How about two cars?
 
-<span class="embed-youtube" style="text-align:center; display: block;"></span>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E_AqvWKjufM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Via [Neatorama](http://www.neatorama.com/2011/11/26/the-well-of-death/).
