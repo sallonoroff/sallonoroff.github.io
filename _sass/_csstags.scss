@@ -53,24 +53,28 @@
   -webkit-border-radius: 2px;
   border-radius: 2px;
   background: #fff;
-  -moz-box-shadow: -1px -1px 2px #004977;
-  -webkit-box-shadow: -1px -1px 2px #004977;
-  box-shadow: -1px -1px 2px #004977;
+  //-moz-box-shadow: -1px -1px 2px #004977;
+  //-webkit-box-shadow: -1px -1px 2px #004977;
+  //box-shadow: -1px -1px 2px #004977;
 }
 
-.csstags.ic li {
-  background: #003399;
+.csstags a {
+  color: #fff;
 }
 
-.csstags.ic li:before {
-  border-color: transparent #003399 transparent transparent;
-}
+//.csstags.ic li {
+  //background: #003399;
+//}
 
-.csstags:hover {
+//.csstags.ic li:before {
+  //border-color: transparent #003399 transparent transparent;
+//}
+
+.csstags a:hover {
   background-color: crimson;
   color: white;
 }
 
-.csstags:hover::after {
+.csstags a:hover::after {
    border-left-color: crimson; 
 }
