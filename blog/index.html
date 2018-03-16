@@ -11,9 +11,13 @@ title: Blog
         {{ post.title }}
       </a>
     </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%-d %B %Y" }}</time>
+    <time class="post-date">{{ post.date | date: "%-d %B %Y" }}</time>
     {{ post.tags }}
+    <ul class="taglist">
+      {% for tag in post.tags %}
+        <li><a href="#{{ tag | cgi_escape }}" class="csstag">{{ tag }} <span>({{ site.tags[tag] | size }})</span></a></li>
+      {% endfor %}
+    </ul>
 
     {{ post.content }}
   </article>
