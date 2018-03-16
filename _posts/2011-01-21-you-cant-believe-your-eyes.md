@@ -6,7 +6,6 @@ author: mark
 layout: post
 tags:
   - cgi
-  - vfx
   - videos
   - alex roman
 ---
@@ -14,7 +13,6 @@ I think it's fair to say everyone expects that _one day_ films made using compu
 
 This stuff is simply INCREDIBLE...
 
-<iframe src="https://player.vimeo.com/video/15630517?color=ffffff" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{% include vimeoembed.html id="15630517" %}
 
-
-<iframe src="https://player.vimeo.com/video/7809605?color=ffffff" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{% include vimeoembed.html id="7809605" %}
