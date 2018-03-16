@@ -48,13 +48,13 @@
 }
 
 .csstag:hover {
-  background-color: crimson;
+  background-color: $orange-pale;
   color: $orange;
   text-decoration: none;
 }
 
 .csstag:hover::after {
-   border-right-color: crimson; 
+   border-right-color: $orange-pale; 
 }
 
 
