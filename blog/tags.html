@@ -11,7 +11,7 @@ There are {{site.tags.size}} different tags applied to posts on the blog. They a
   
   <ul class="taglist"> <!-- <ul class="csstags inline"> -->
   {% for tag in tag_words %}
-    <li><a href="#{{ tag | cgi_escape }}" class="csstag">{{ tag }} <span>{{ site.tags[tag] | size }}</span></a></li>
+    <li><a href="#{{ tag | cgi_escape }}" class="csstag">{{ tag }} <span>({{ site.tags[tag] | size }})</span></a></li>
   {% endfor %}
   </ul>
 
