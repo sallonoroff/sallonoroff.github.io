@@ -14,7 +14,7 @@
 }
 
 .csstag {
-  background: $gray-6;
+  background: $gray-2; //colour of tag's main body
   border-radius: 3px 0 0 3px;
   font-size: 60%;
   color: $gray-4;
@@ -43,7 +43,7 @@
 .csstag::after {
   background: $body-bg;
   border-bottom: 13px solid transparent;
-  border-right: 10px solid $gray-6;
+  border-right: 10px solid $gray-2; //colour of tag's triangle
   border-top: 13px solid transparent;
   content: '';
   position: absolute;
