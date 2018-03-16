@@ -12,14 +12,8 @@ tags:
   - iphone
   - mobiles
   - motorola
-  - o2
-  - orange
   - samsung
   - sony
-  - t-mobile
-  - three
-  - virgin
-  - vodafone
 ---
 If you follow goings-on in consumer technology &#8211; which i&#8217;m guessing you do, since you&#8217;re reading this &#8211; then, like me, you must be quite bored with the &#8220;Android vs iPhone&#8221; headlines that journalists, bloggers and commenters seem insistent on producing and provoking.
 
