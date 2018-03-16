@@ -65,3 +65,12 @@
 .csstags.ic li:before {
   border-color: transparent #003399 transparent transparent;
 }
+
+.csstags:hover {
+  background-color: crimson;
+  color: white;
+}
+
+.csstags:hover::after {
+   border-left-color: crimson; 
+}
