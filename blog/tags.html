@@ -9,9 +9,9 @@ There are {{site.tags.size}} different tags applied to posts on the blog. They a
   {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
   {% assign tag_words = site_tags | split:',' | sort %}
   
-  <ul class="csstags"> <!-- <ul class="csstags inline"> -->
+  <ul class="taglist"> <!-- <ul class="csstags inline"> -->
   {% for tag in tag_words %}
-    <li><a href="#{{ tag | cgi_escape }}">{{ tag }} <span>{{ site.tags[tag] | size }}</span></a></li>
+    <li><a href="#{{ tag | cgi_escape }}" class="csstag">{{ tag }} <span>{{ site.tags[tag] | size }}</span></a></li>
   {% endfor %}
   </ul>
 
