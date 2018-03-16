@@ -8,6 +8,7 @@ tags:
   - this blog
   - videos
   - wordpress
+  - microsoft
 ---
 It seems a load of the videos i'd embedded here over the years were broken and/or reliant on Flash Player (same thing?), so i've just been through the site and updated the embed code used. We're now using WordPress' very simple [embed tag](http://codex.wordpress.org/Embeds) and hopefully you'll now be able to watch these clips on any device ([thanks to YouTube defaulting to HTML5 video](http://youtube-eng.blogspot.jp/2015/01/youtube-now-defaults-to-html5_27.html)). Let me know if you happen across any videos that are still broken.
 
