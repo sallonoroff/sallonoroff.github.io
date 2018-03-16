@@ -8,10 +8,11 @@ tags:
   - apple
   - design
   - mac
-  - video
+  - videos
+  - jonathan ive
 ---
 A very 90s Jonathan Ive talks about the design of the [Twentieth Anniversary Mac](http://www.everymac.com/systems/apple/20th_mac/index.html)&#8230;
 
-<span class="embed-youtube" style="text-align:center; display: block;"></span>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GTts8elSDeE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Via [Forkbombr](http://forkbombr.net/jonathan-ive-on-the-twentieth-anniversary-macintosh/).
