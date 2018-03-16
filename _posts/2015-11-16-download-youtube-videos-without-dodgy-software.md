@@ -6,8 +6,6 @@ author: mark
 layout: post
 tags:
   - hints
-  - tips
-  - video
   - videos
   - web
   - youtube
@@ -32,4 +30,4 @@ If the above looks too convoluted for you, then you might try [youtubeinmp4.com
 
 <span style="color: #999999;">&#8230;</span>
 
-Update: Alternatively, [saveitoffline.com](http://www.saveitoffline.com) looks like an even better website to try if you don&#8217;t fancy the VLC option. Just paste in the vid URL and you&#8217;re presented with links to all the various formats and qualities that YouTube has available for that clip. I&#8217;m not sure you could want for more.
+**Update:** Alternatively, [saveitoffline.com](http://www.saveitoffline.com) looks like an even better website to try if you don&#8217;t fancy the VLC option. Just paste in the vid URL and you&#8217;re presented with links to all the various formats and qualities that YouTube has available for that clip. I&#8217;m not sure you could want for more.
