@@ -8,7 +8,6 @@ tags:
   - apple
   - bono
   - design
-  - ive
   - jonathan ive
 ---
 I've usually no time for Bono but I was impressed by his bit on [Jonathan Ive in the 2013 TIME 100 listing](http://time100.time.com/2013/04/18/time-100/slide/jonathan-ive/).
@@ -17,4 +16,4 @@ I've usually no time for Bono but I was impressed by his bit on [Jonathan Ive in
 
 <span style="color: #c0c0c0;">&#8230;</span>
 
-PS. Yes, this is from April. I'm still catching up with lots of things i&#8217;d starred in Google Reader for later reading.
+**PS.** Yes, this is from April. I'm still catching up with lots of things i&#8217;d starred in Google Reader for later reading.
