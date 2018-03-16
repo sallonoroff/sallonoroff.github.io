@@ -9,14 +9,11 @@ tags:
   - convenience
   - cringely
   - dvd
-  - entertainment
-  - high definition
   - vhs
-  - video
 ---
 The other day i was trying to make space for some new DVDs in our living room cupboard but failing miserably. No matter how i re-arranged the boxes, i couldn&#8217;t squeeze more in there &#8211; not while those videos (yes, VHS video cassettes) were in there too. It was then i decided that since i watch videos even less often than DVDs (which is rarely) i really ought to throw them out. I could replacing those films i still like with the DVD version very cheaply these days and my storage woes would be solved (albeit temporarily).
 
-<img class="alignright size-full wp-image-580" title="VHS" src="/images/fromwp/2009/06/VHS.jpg" alt="VHS" width="280" height="173" srcset="/images/fromwp/2009/06/VHS.jpg 400w, /images/fromwp/2009/06/VHS-300x185.jpg 300w" sizes="(max-width: 280px) 100vw, 280px" />
+![A VHS tape](/images/fromwp/2009/06/VHS.jpg){:class="img-responsive"}
 
 Sat there amongst piles of plastic boxes, it was obvious that DVD didn&#8217;t replace VHS solely based on quality issues &#8211; the transition was also about convenience. Yes, DVD offers a better viewing experience, allows addition of &#8220;extras&#8221;* and is slightly more robust and reliable medium (no more tapes get chewed up) but in the real world it also offers great convenience &#8211; you don&#8217;t have to sit and wait for the thing to rewind and the discs take up far less of your home&#8217;s precious storage space. I was then struck by the realisation that this is where Blu-Ray falls down. Blu-Ray offers the superior viewing experience over DVD (though you need to buy a new HD telly to truly enjoy the improvements) but that&#8217;s about the only benefit. It&#8217;s no more reliable or robust, offers no space-savings and is generally no more convenient than DVD. Then of course there&#8217;s the reasonably high-price of Blu-Ray players and discs, somewhat exaggerated with the state of the economy at the mo. It is not difficult to see how easily Blu-Ray could fail.
 
