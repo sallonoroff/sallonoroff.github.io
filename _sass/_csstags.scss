@@ -17,7 +17,7 @@
   display: inline-block;
   height: 26px;
   line-height: 26px;
-  padding: 0 20px 0 23px;
+  padding: 0 10px 0 23px;
   position: relative;
   margin: 0 10px 10px 0;
   text-decoration: none;
@@ -49,12 +49,12 @@
 
 .csstag:hover {
   background-color: crimson;
-  color: white;
+  color: $orange;
   text-decoration: none;
 }
 
 .csstag:hover::after {
-   border-left-color: crimson; 
+   border-right-color: crimson; 
 }
 
 
