@@ -5,7 +5,7 @@ title: Archives by Date
 
 There are {{site.posts.size}} posts on the blog. They're all listed here in reverse chronological order. Alternatively, you can view the <a href="/blog/tags">archives by tag</a>.
 
-<section class="archivelist">
+<section id="archive" class="archivelist">
   {%for post in site.posts %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
