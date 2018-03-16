@@ -5,7 +5,6 @@ date: 2013-09-12T12:07:49+00:00
 author: mark
 layout: post
 tags:
-  - earphones
   - hardware
   - headphones
   - review
