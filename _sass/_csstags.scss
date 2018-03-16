@@ -1,4 +1,62 @@
-.csstags {
+.taglist {
+  list-style: none;
+  margin: 0;
+  overflow: hidden; 
+  padding: 0;
+}
+
+.taglist li {
+  float: left; 
+}
+
+.csstag {
+  background: #eee;
+  border-radius: 3px 0 0 3px;
+  color: #999;
+  display: inline-block;
+  height: 26px;
+  line-height: 26px;
+  padding: 0 20px 0 23px;
+  position: relative;
+  margin: 0 10px 10px 0;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+}
+
+.csstag::before {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+  content: '';
+  height: 6px;
+  left: 10px;
+  position: absolute;
+  width: 6px;
+  top: 10px;
+}
+
+.csstag::after {
+  background: #fff;
+  border-bottom: 13px solid transparent;
+  border-left: 10px solid #eee;
+  border-top: 13px solid transparent;
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.csstag:hover {
+  background-color: crimson;
+  color: white;
+}
+
+.csstag:hover::after {
+   border-left-color: crimson; 
+}
+
+
+/* .csstag {
   margin: 0;
   padding: 0;
   right: 24px;
@@ -6,7 +64,7 @@
   list-style: none;
 }
 
-.csstags li, .csstags li {
+.csstag li, .csstag li {
   float: left;
   height: 24px;
   line-height: 24px;
@@ -14,7 +72,7 @@
   font-size: 11px;
 }
 
-.csstags li {
+.csstag li {
   margin: 2px 5px 2px 12px;
   padding: 0 10px 0 12px;
   background: #0078d7;
@@ -28,7 +86,7 @@
   border-top-right-radius: 4px;
 }
 
-.csstags li:before {
+.csstag li:before {
   content: "";
   float: left;
   position: absolute;
@@ -41,7 +99,7 @@
   border-width: 12px 12px 12px 0;
 }
 
-.csstags li:after {
+.csstag li:after {
   content: "";
   position: absolute;
   top: 10px;
@@ -58,23 +116,23 @@
   //box-shadow: -1px -1px 2px #004977;
 }
 
-.csstags a {
+.csstag a {
   color: #fff;
 }
 
-//.csstags.ic li {
+//.csstag.ic li {
   //background: #003399;
 //}
 
-//.csstags.ic li:before {
+//.csstag.ic li:before {
   //border-color: transparent #003399 transparent transparent;
 //}
 
-.csstags a:hover {
+.csstag a:hover {
   background-color: crimson;
   color: white;
 }
 
-.csstags a:hover::after {
+.csstag a:hover::after {
    border-left-color: crimson; 
-}
+} */
