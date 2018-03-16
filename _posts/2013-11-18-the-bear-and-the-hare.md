@@ -14,7 +14,7 @@ I guess by now you&#8217;re likely to be familiar with John Lewis&#8217; Christm
 
 Just in case you aren&#8217;t, here it is&#8230;
 
-{% include youtubePlayer.html id="NW2EmATcb6o" %}
+{% include youtubeembed.html id="NW2EmATcb6o" %}
 
 Whether you like or dislike the advert (or couldn&#8217;t care less), I expect you assumed it was created with CG. Yes? Well, you&#8217;d be wrong. Rather incredibly, they&#8217;ve drawn those 2D characters and then animated them with stop-motion on a 3D set. An extremely lengthy and delicate operation requiring thousands of models but one which has yielded a beautiful result. I really admire this sort of work, even if it is just to help a big name retailer start hawking Christmas in November.
 
