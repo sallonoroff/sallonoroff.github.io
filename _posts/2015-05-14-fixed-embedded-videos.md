@@ -13,4 +13,4 @@ It seems a load of the videos i'd embedded here over the years were broken and/o
 
 I think my favourite re-discovery in carrying out this little bit of admin is [Microsoft's vision of technology of 2019](http://www.sallonoroff.co.uk/blog/2009/03/ten-years-time/). This video is now 6 years old and so we're just 4 years away from this tech. Awesome.
 
-{% include youtubePlayer.html id="8Ff7SzP4gfg" %}
+{% include youtubeembed.html id="8Ff7SzP4gfg" %}
