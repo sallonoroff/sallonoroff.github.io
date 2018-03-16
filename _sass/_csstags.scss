@@ -12,6 +12,7 @@
 .csstag {
   background: #eee;
   border-radius: 3px 0 0 3px;
+  font-size: 50%;
   color: #999;
   display: inline-block;
   height: 26px;
@@ -20,7 +21,7 @@
   position: relative;
   margin: 0 10px 10px 0;
   text-decoration: none;
-  -webkit-transition: color 0.2s;
+  //-webkit-transition: color 0.2s;
 }
 
 .csstag::before {
@@ -49,6 +50,7 @@
 .csstag:hover {
   background-color: crimson;
   color: white;
+  text-decoration: none;
 }
 
 .csstag:hover::after {
