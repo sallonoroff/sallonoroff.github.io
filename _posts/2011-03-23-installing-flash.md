@@ -8,6 +8,7 @@ tags:
   - flash
   - software
   - windows
+  - adobe
 ---
 Something i find myself doing, more often than i&#8217;d like, is installing or updating [Adobe Flash Player](http://www.adobe.com/products/flashplayer/) on Windows PCs. It isn&#8217;t very difficult but it is a much more long-winded process than it needs to be, often resulting in Adobe wanting you to install their &#8220;Download Manager&#8221; in order to download the Flash Player. In short, the hoops you&#8217;re made to jump through by using <http://get.adobe.com/flashplayer/> are very annoying.
 
@@ -18,7 +19,5 @@ You can download the &#8220;manual&#8221; installers directly from Adobe&#8217;s
 Or, for those that prefer something a little more memorable:
 
 <http://tinyurl.com/flashinstallers>
-
-&nbsp;
 
 You&#8217;re welcome.
