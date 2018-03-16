@@ -11,7 +11,7 @@ tags:
 ---
 [Yesterday i posted](http://www.sallonoroff.co.uk/blog/2012/10/i-have-opinions-on-most-things-so/) a link to a great video of Steve Jobs talking technology. Today, on the 1st anniversary of his death, i'm posting this [video](http://youtu.be/UF8uR6Z6KLc) of his [2005 Stanford Commencement Address](http://news.stanford.edu/news/2005/june15/jobs-061505.html), in which he talks about life.
 
-{% include youtubeembed.html id=UF8uR6Z6KLc %}
+{% include youtubeembed.html id="UF8uR6Z6KLc" %}
 
 Yes, you've probably seen it before. I don't care. I think it's massively (re-)watchable and an inspiring speech. The bit that really resonates with me is towards the end:
 
