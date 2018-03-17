@@ -5,24 +5,21 @@ date: 2010-07-15T14:36:43+00:00
 author: mark
 layout: post
 tags:
-  - antenna
   - apple
   - design
   - hardware
   - iphone
   - videos
 ---
-<img class="alignright size-full wp-image-964" title="iphone4_ft" src="/images/fromwp/2010/07/iphone4_ft.jpg" alt="" width="184" height="400" srcset="/images/fromwp/2010/07/iphone4_ft.jpg 184w, /images/fromwp/2010/07/iphone4_ft-138x300.jpg 138w" sizes="(max-width: 184px) 100vw, 184px" />
-
 For those that haven&#8217;t been following this fiasco, let me summarise&#8230;
 
 Three weeks ago, on 24th June, Apple released the iPhone 4.
 
 Almost immediately someone noticed that if you touched a certain point on the external antenna then the reported signal dropped. In areas of poor network coverage, this meant no signal at all.
 
-Very shortly after this, World + Dog* was able to reproduce the effect on their iPhone 4.
+Very shortly after this, World + Dog[^fn-worldplusdog] was able to reproduce the effect on their iPhone 4.
 
-And then they carried on using them without issue**.
+And then they carried on using them without issue[^fn-withoutissue].
 
 However, the tech media, fuelled by Steve Jobs [saying something silly](http://arstechnica.com/apple/news/2010/06/jobs-on-iphone-4-antenna-avoid-holding-it-in-this-way.ars), carried on ranting and raving.
 
@@ -46,44 +43,34 @@ _The iPhone has been a huge success &#8211; we&#8217;ve shipped 3 million device
 
 Feel free to come back and laugh at this prediction after 6pm British time tomorrow.
 
-<span style="color: #c0c0c0;"><strong>&#8230;</strong></span>
+[^fn-worldplusdog]: Or around [1.7 million people](http://www.apple.com/pr/library/2010/06/28iphone.html).
 
-* Or around [1.7 million people](http://www.apple.com/pr/library/2010/06/28iphone.html).
+[^fn-withoutissue]: As i said in [my original &#8220;review&#8221;](http://www.sallonoroff.co.uk/blog/2010/07/my-first-iphone/), i can reproduce the signal drop but it has yet to actually inconvenience me. And every iPhone 4 owner i&#8217;ve asked says pretty much the same thing.
 
-** As i said in [my original &#8220;review&#8221;](http://www.sallonoroff.co.uk/blog/2010/07/my-first-iphone/), i can reproduce the signal drop but it has yet to actually inconvenience me. And every iPhone 4 owner i&#8217;ve asked says pretty much the same thing.
-
-<span style="color: #c0c0c0;"><strong>&#8230;</strong></span>
+<span style="color: #c0c0c0;">&#8230;</span>
 
 **Update:** This [opinion piece at T3KD](http://t3kd.com/blog/2010/07/14/maybe-apple-was-telling-the-truth) is worth a read. Seems like a sensible take on the antenna situation to me.
 
-<span style="color: #c0c0c0;"><strong>&#8230;</strong></span>
+<span style="color: #c0c0c0;">&#8230;</span>
 
 **Update #2:** I&#8217;ve just come across [this piece at ElectricPig](http://electricpig.co.uk/2010/07/15/apples-iphone-4-announcement-is-likely-to-be-about-ios-4-0-1/) about what to expect at tomorrow&#8217;s press conference. It&#8217;s about the most reasonable speculation i&#8217;ve seen thus far.
 
-**<span style="color: #c0c0c0;">&#8230;</span>**
+<span style="color: #c0c0c0;">&#8230;</span>
 
 **Update #3:** Wow. WOW. I praise ElectricPig for publishing the most reasonable speculation i&#8217;d seen and then they go and [post the most horrendous tripe](http://electricpig.co.uk/2010/07/16/iphone-4-announcement-how-steve-jobs-can-make-everything-ok/) i&#8217;ve read on the matter. Apparently Steve Jobs is personally to blame, &#8220;_Millions of devices now rest in the hands of unhappy, or at the least slightly confused customers_&#8221; and iPhone 4 owners deserve a public apology and &#8220;_a freebie or two as well_&#8220;. Fucking hell. What utter, utter toss. If you find the phone is so unbearably bad, take it back and spend your money elsewhere. It&#8217;s really not that difficult, is it?
 
 Meanwhile, the smart folk at Anandtech have been busy [analysing the iOS 4.0.1 update](http://www.anandtech.com/show/3821/iphone-4-redux-analyzing-apples-ios-41-signal-fix) which Apple actually pushed out last night. (Yes, my prediction is already falling apart and we&#8217;re still 6 hours or so from the press conference starting)
 
-**<span style="color: #c0c0c0;">&#8230;</span>**
+<span style="color: #c0c0c0;">&#8230;</span>
 
 **Update #4:**
 
-<span class="embed-youtube" style="text-align:center; display: block;"></span>
+{% include youtubeembed.html id="VKIcaejkpD4" %}
 
-<p style="text-align: left;">
-  <span style="color: #c0c0c0;"><strong>&#8230;</strong></span>
-</p>
+<span style="color: #c0c0c0;">&#8230;</span>
 
-<p style="text-align: left;">
-  <strong>Update #5</strong>: So, the Apple have had their say. I thought they said the right things and tried to deal with the media sensationalism as best they could. Was my above prediction correct though? In short, not really. iOS 4.0.1 was released before the event, the return window stays at 30 days and customers <em>ARE</em> going to get free cases. I was right with my estimate that sales would&#8217;ve surpassed 3 million though, so you know, i may still be related to Nostradamus. If you want to know exactly what was said at the press conference, Apple have put <a href="http://events.apple.com.edgesuite.net/100716iab73asc/event/index.html">a video of the event online</a> (the lazy amongst you could alternatively try <a href="http://www.engadget.com/2010/07/16/apple-to-give-away-free-bumpers-to-iphone-4-users/">Engadget&#8217;s summary</a>). They&#8217;ve also published a new webpage about antenna performance <a href="http://www.apple.com/antenna/">here</a>.
-</p>
+**Update #5:** So, the Apple have had their say. I thought they said the right things and tried to deal with the media sensationalism as best they could. Was my above prediction correct though? In short, not really. iOS 4.0.1 was released before the event, the return window stays at 30 days and customers <em>ARE</em> going to get free cases. I was right with my estimate that sales would&#8217;ve surpassed 3 million though, so you know, i may still be related to Nostradamus. If you want to know exactly what was said at the press conference, Apple have put [a video of the event online](http://events.apple.com.edgesuite.net/100716iab73asc/event/index.html) (the lazy amongst you could alternatively try [Engadget's summary](http://www.engadget.com/2010/07/16/apple-to-give-away-free-bumpers-to-iphone-4-users/). They&#8217;ve also published a new webpage about antenna performance [here](http://www.apple.com/antenna/).
 
-<p style="text-align: left;">
-  The one detail from the press call that left me puzzled though &#8211; the &#8220;deadline&#8221; for free cases being the end of September. Why not just say anyone who bought a case already can have the cost refunded and anyone who already bought an iPhone 4 can have a case for free? Why open it up for a couple of months? Is it just generosity/pr or will a hardware fix come by then? <a href="http://www.macpredictions.com/2010/07/possible-october-deathgrip-fix.html">That&#8217;s what Graham at MacPredictions speculates might happen</a>. Interesting idea.
-</p>
+The one detail from the press call that left me puzzled though &#8211; the &#8220;deadline&#8221; for free cases being the end of September. Why not just say anyone who bought a case already can have the cost refunded and anyone who already bought an iPhone 4 can have a case for free? Why open it up for a couple of months? Is it just generosity/pr or will a hardware fix come by then? [That's what Graham at MacPredictions speculates might happen](http://www.macpredictions.com/2010/07/possible-october-deathgrip-fix.html). Interesting idea.
 
-<p style="text-align: left;">
-  Incidentally, Graham has also written a piece about <a href="http://www.macpredictions.com/2010/07/psychology-of-antennagate-how.html">the psychology of &#8220;Antennagate&#8221;</a> which is well worth a read.
-</p>
+Incidentally, Graham has also written a piece about [the psychology of &#8220;Antennagate&#8221;](http://www.macpredictions.com/2010/07/psychology-of-antennagate-how.html) which is well worth a read.
