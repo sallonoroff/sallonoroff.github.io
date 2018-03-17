@@ -19,7 +19,7 @@ There are {{site.posts.size}} posts on the blog. They're all listed here in reve
         <ul>
       {% endif %}
     {% endunless %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> <time>{{ post.date | date: "%-d %B %Y" }}</time></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a> <time class="meta-date">{{ post.date | date: "%-d %B %Y" }}</time></li>
   {% endfor %}
   </ul>
 </section>
