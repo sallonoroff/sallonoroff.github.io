@@ -27,14 +27,14 @@ layout: default
       {% if post.url != page.url %}
         {% if page.tags contains tag %}
           {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+          {% capture tagmarkup %} <span class="relatedtag">{{ tag }}</span> {% endcapture %}
           {% assign commonTags = commonTags | append: tagmarkup %}
         {% endif %}
       {% endif %}
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <time class="post-date">{{ post.date | date: "%-d %B %Y" }}</time></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <time class="meta-date">{{ post.date | date: "%-d %B %Y" }}</time></li>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}
@@ -45,7 +45,7 @@ layout: default
     {% if maxRelatedCounter < 1 %}
       There were no related posts found but here are some recent entries...
       {% for post in site.related_posts limit:3 %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}>/a> <time class="post-date">{{ post.date | date: "%-d %B %Y" }}</time></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}>/a> <time class="meta-date">{{ post.date | date: "%-d %B %Y" }}</time></li>
       {% endfor %}
     {% endif %}
   {% endif %}
