@@ -12,7 +12,6 @@ layout: default
     {% endfor %}
   </ul>
 </article>
-
 <aside class="related">
   <h3>Related posts</h3>
   <ul class="related-posts">
@@ -38,7 +37,7 @@ layout: default
       <li>
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
-        <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>{{ commonTags }}</small>
+        <time class="post-date">{{ post.date | date: "%-d %B %Y" }}</time>
       </a>
       </li>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
@@ -47,20 +46,22 @@ layout: default
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
+  <!-- </ul> -->
   {% if site.related_posts != empty %}
     {% if maxRelatedCounter < 1 %}
-      <h3>Recent posts</h3>
-      <ul class="related-posts">
+      <!-- <h3>Recent posts</h3> -->
+      <!-- <ul class="related-posts"> -->
+      There were no related posts found but here are some recent entries...
       {% for post in site.related_posts limit:3 %}
         <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+          <time class="post-date">{{ post.date | date: "%-d %B %Y" }}</time>
         </a>
         </li>
       {% endfor %}
-      </ul>
+      <!-- </ul> -->
     {% endif %}
   {% endif %}
+  </ul>
 </aside>
