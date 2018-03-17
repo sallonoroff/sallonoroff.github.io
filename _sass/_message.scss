@@ -6,6 +6,13 @@
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
-  background-color: #f9f9f9;
+  color: $orange; //originally #717171;
+  background-color: $orange-pale; //originally #f9f9f9;
+}
+
+.message-subtle {
+  //margin-bottom: 1rem;
+  padding: 0.2rem;
+  color: $orange; //originally #717171;
+  background-color: $orange-pale; //originally #f9f9f9;
 }
