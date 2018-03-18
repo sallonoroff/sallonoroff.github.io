@@ -6,6 +6,7 @@ permalink:           /blog/:year/:month/:day/:title #changed from Poole's defaul
 title:               sallonoroff
 tagline:             some thoughts on things made with ones and noughts
 description:         some thoughts on things made with ones and noughts
+lang:                en_GB
 url:                 www.sallonoroff.co.uk
 paginate:            5
 paginate_path:       "/blog/page:num" #added to fix pagination issue with using /blog
