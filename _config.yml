@@ -7,7 +7,7 @@ title:               sallonoroff
 tagline:             some thoughts on things made with ones and noughts
 description:         some thoughts on things made with ones and noughts
 lang:                en_GB
-url:                 www.sallonoroff.co.uk
+url:                 http://www.sallonoroff.co.uk
 paginate:            5
 paginate_path:       "/blog/page:num" #added to fix pagination issue with using /blog
 baseurl:             ""
@@ -22,7 +22,7 @@ sass:
 # About/contact
 author:
   name:              Mark Wainwright
-  url:               http://www.sallonoroff.co.uk/
+  url:               http://www.sallonoroff.co.uk
   email:             mail@sallonoroff.co.uk
   rss_link:          http://www.sallonoroff.co.uk/blog/atom.xml
   twitter_link:      https://twitter.com/sallonoroff
