@@ -115,3 +115,20 @@ a[href^="#fnref:"] {
   font-size: 1.25rem;
   font-weight: 300;
 }
+
+// Prevents iOS from rendering ↩ (curved back arrow) as emoji
+// Background: http://mts.io/2015/04/21/unicode-symbol-render-text-emoji/
+// Based on: https://gist.github.com/flegfleg/f96ebf885f77c6f1961431eaae1c905e
+.reversefootnote {
+  // hides original glyph
+  visibility: hidden;
+  position: relative;
+  // adds new Symbol after
+  &:after {
+    visibility: visible;
+		position: absolute;
+		top: 0;
+		left: 0;
+  	content: "\21A9 \FE0E"; 
+  }
+}
