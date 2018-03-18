@@ -126,9 +126,9 @@ a[href^="#fnref:"] {
   // adds new Symbol after
   &:after {
     visibility: visible;
-		position: absolute;
-		top: 0;
-		left: 0;
-  	content: "\21A9 \FE0E"; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "\21A9 \FE0E"; 
   }
 }
