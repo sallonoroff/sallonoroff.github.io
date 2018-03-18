@@ -15,11 +15,12 @@ layout: null
    <email>{{ site.author.email }}</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in site.posts limit:25 %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
    <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <published>{{ post.date | date_to_xmlschema }}</published>
+		 <updated>{% if post.last_modified_at == null %}{{ post.date | date_to_xmlschema }}{% else %}{{ post.last_modified_at | date_to_xmlschema }}{% endif %}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
