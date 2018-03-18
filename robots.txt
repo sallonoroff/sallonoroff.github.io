@@ -1,0 +1,8 @@
+# hello spiders, welcome to sallonoroff.co.uk
+# humans, there's more info about the robots.txt at:
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: * # pay attention everyone
+Allow: / # index everything
+Sitemap: {{ site.url }}/sitemap.xml # the sitemap live here
