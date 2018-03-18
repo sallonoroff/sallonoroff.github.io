@@ -1,6 +1,6 @@
 # sallonoroff.github.io
 
-Hello! I'm in the process of moving my blog (sallonoroff.co.uk) from WP to Jekyll on GitHub Pages. This site is largely based on [Poole](https://github.com/poole/poole) but has had numerous modifications, hacks and bodges applied.  
+Hello! I've moved my blog (sallonoroff.co.uk) from a self-hosted WP to Jekyll on GitHub Pages. This site is largely based on [Poole](https://github.com/poole/poole) but has had numerous modifications, hacks and bodges applied. You _might_ find some of the code here useful to copy, but I'm not sure it'd be a good idea to fork the whole site.  
   
 Here's a list of pages that have helped along the way.  
   
@@ -44,4 +44,6 @@ Other useful stuff
 https://blog.webjeda.com/jekyll-related-posts/  
 https://zzz.buzz/2016/02/13/add-an-updated-field-to-your-jekyll-site/  
 http://www.benjaminday.co.uk/blog/misc/2015/01/08/github-pages-and-123-reg-dns/  
+  
+Many thanks to the authors of these articles.  
   
