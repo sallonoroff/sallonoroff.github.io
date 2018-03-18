@@ -1,6 +1,6 @@
 # Permalinks
 #permalink:           pretty
-permalink:           /blog/:year/:month/:title #changed from Poole's default to /blog/:year/:month/:day/:title then to this.
+permalink:           /blog/:year/:month/:title/ #changed from Poole's default to /blog/:year/:month/:day/:title then to this.
 
 # Setup
 title:               sallonoroff
