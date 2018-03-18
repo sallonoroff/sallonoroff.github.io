@@ -35,9 +35,11 @@ github:
 
 # Gems
 gems:
-  - jekyll-paginate
   - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
+
 
 # This is the list of pages to incldue in the header of the website for navigation
 pages_list:          {'/about':'/about', '/blog':'/blog', '/blog/archive':'/blog/archive'}
