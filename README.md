@@ -9,6 +9,7 @@ http://jmcglone.com/guides/github-pages/
 https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/  
 http://joshualande.com/jekyll-github-pages-poole  
 http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/  
+https://michaelsoolee.com/jekyll-post-page/  
   
 Plus inspiration taken from...  
 https://github.com/poole/poole  
@@ -39,5 +40,8 @@ Fixing pagination in Poole when your posts are at /blog
 https://stackoverflow.com/questions/24717458/creating-a-website-with-jekyll-that-has-a-subdirectory-for-the-blog-with-paginat  
 https://github.com/bpatra/jekyllsiteblogpaginated  
   
-Improving 'related pages'?  
+Other useful stuff  
 https://blog.webjeda.com/jekyll-related-posts/  
+https://zzz.buzz/2016/02/13/add-an-updated-field-to-your-jekyll-site/  
+http://www.benjaminday.co.uk/blog/misc/2015/01/08/github-pages-and-123-reg-dns/  
+  
