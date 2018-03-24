@@ -11,8 +11,9 @@ tags:
 ##Heading  
 **Bold**  
 _Italic_  
-*Bullet  
+- Bullet?  
 &mdash;  
+> Blockquoted text, blockquote text, blah blah blah
   
 [Link](http://www.sallonoroff.co.uk/)  
   
@@ -25,3 +26,4 @@ place a footnote[^fn-reference]
 {% include vimeoembed.html id="15630517" %}  
 
 <span style="color: #999999;">&#8230;</span>  
+<span style="color: #c0c0c0;">&#8230;</span>
