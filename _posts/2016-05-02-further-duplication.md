@@ -7,7 +7,6 @@ layout: post
 tags:
   - concepts
   - design
-  - electrics
   - innovation
   - plug
   - power
