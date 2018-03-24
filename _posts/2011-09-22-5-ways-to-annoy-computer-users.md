@@ -5,15 +5,16 @@ date: 2011-09-22T14:33:43+00:00
 author: mark
 layout: post
 tags:
-  - annoying
+  - humans
   - arbitrary
   - stupid
+  - user interface
 ---
 Are you a novice computer user? Would you like to annoy those friends, family members and colleagues that are &#8220;better&#8221; than you &#8220;at computers&#8221;? Here are 5 quite innocent techniques guaranteed to wind them up should you ever find yourselves sat together at a computer&#8230;
 
 1. Delete large bodies of text by tapping backspace to delete each character individually.
 
-2. Use Caps Lock to type a single character in upper case.
+2. Use Caps Lock to type a single character in uppercase.
 
 3. Double-click all hyperlinks.
 
