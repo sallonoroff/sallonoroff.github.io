@@ -9,7 +9,7 @@ tags:
   - errors
   - amazon
   - games
-  - hardware
+  - consumers
   - microsoft
   - xbox360
 ---
