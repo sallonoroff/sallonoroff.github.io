@@ -7,9 +7,8 @@ layout: post
 tags:
   - apple
   - design
-  - hardware
   - iphone
   - samsung
-  - thumbs
+  - user interface
 ---
-[Here&#8217;s](http://dcurt.is/2011/10/03/3-point-5-inches/) Dustin Curtis on the iPhone&#8217;s 3.5 inches versus the Samsung Galaxy S II&#8217;s 4.2 inches. Take a look. It seems bigger isn&#8217;t necessarily better.
+[Here's](http://dcurt.is/2011/10/03/3-point-5-inches/) Dustin Curtis on the iPhone's 3.5 inches versus the Samsung Galaxy S II's 4.2 inches. Take a look. It seems bigger isn't necessarily better.
