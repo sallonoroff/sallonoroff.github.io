@@ -9,4 +9,4 @@ tags:
   - design
   - retail
 ---
-[Here&#8217;s another example](http://www.ifoapplestore.com/db/2011/08/29/apples-designers-work-towards-storefront-symmetry/) of the lengths Apple goes to make things appeal to your eye, even though you&#8217;ll never consciously notice it. What other companies would pay this much attention to detail?
+[Here's another example](http://www.ifoapplestore.com/db/2011/08/29/apples-designers-work-towards-storefront-symmetry/) of the lengths Apple goes to make things appeal to your eye, even though you'll never consciously notice it. What other companies would pay this much attention to detail?
