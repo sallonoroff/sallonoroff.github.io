@@ -25,6 +25,6 @@ Sadly, the winning headphones &#8211; [Panasonic&#8217;s RP-TCM125 Ergo Fit](ht
 
 **Update:** The Wirecutter's reviewer, Lauren Dragan, [suggests](https://twitter.com/LaurenDragan/status/403970067156590592) that the Panasonic RP-HJE125 are the UK equivalent of the RP-TCM125. The uncertainty over a microphone remains but you can't really complain when paying just £6.
 
-<span style="color: #999999;">&#8230;</span>
+<span style="color: #c0c0c0;">&#8230;</span>
 
 **Update, July 2015:** I bought a pair of the RP-HJE125s some time ago, you can [read my quick review here](http://www.sallonoroff.co.uk/blog/2015/07/panasonic-rp-hje125-earphones/). Also, note that the above &#8220;Best In-Ear Headphones Under $30&#8221; link now re-directs to a newer, [updated Wirecutter review](http://thewirecutter.com/reviews/best-headphones-under-40/). If you want to see the original review text I was referring to here, [make use of the Wayback Machine](https://web.archive.org/web/20131217033758/http://thewirecutter.com/reviews/best-headphones-under-30/).
