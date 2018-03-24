@@ -13,7 +13,7 @@ tags:
   - microsoft
   - xbox360
 ---
-&#8230;or, rather, _how i got a refund on a broken XBOX360_. Still, there may be some useful pointers to help you out in here.
+&#8230;or, rather, _How i got a refund on a broken XBOX360_. Still, there may be some useful pointers to help you out in here.
 
 So, one day i turned on my 18 month old XBOX360 and instead of the usual on-screen welcome, i was presented with this:
 
@@ -31,9 +31,9 @@ In the meantime, i tried to find out more about the &#8220;E73 System Error&#822
 
 Two weeks passed and Microsoft finally responded to my email, with a thoroughly expected &#8220;Sorry, no dice, pal&#8221; (I may be paraphrasing). So i was now left with a temperamental XBOX and it seemed the only solutions available to me were 1) carry on using the toothpick treatment to reset the machine every couple of days, 2) send the machine off to Microsoft for repair (£90), or 3) buy a new console (£120-30) and stick my current XBOX hard drive (complete with all my precious saved games and downloads) on that.
 
-As time drew slowly onwards and the XBOX was needing its fix of overheating more and more frequently, i was starting to accept that option 3 was looking inevitable (3 rather than 2 since i figured i'd be able to sell the peripherals and any bundled games from a brand new console in order to make it &#8220;cost&#8221; less than £90). Then some somber, last-ditch googling struck gold &#8211; I found [this forum thread](http://www.avforums.com/forums/xbox-360-hardware/710053-just-got-my-dead-360-replaced-read.html). That short tale of consumer victory[^fn-ourhero] and the &#8220;complaint&#8221; template provided therein inspired me to take action.
+As time drew slowly onwards and the XBOX was needing its fix of overheating more and more frequently, i was starting to accept that option 3 was looking inevitable[^fn-options]. Then some somber, last-ditch googling struck gold &#8211; I found [this forum thread](http://www.avforums.com/forums/xbox-360-hardware/710053-just-got-my-dead-360-replaced-read.html). That short tale of consumer victory[^fn-ourhero] and the &#8220;complaint&#8221; template provided therein inspired me to take action.
 
-I called _Well-Known Online Retailer_ who had sold me the console, explained the problem and asked them for a refund or replacement in line with the Sales of Goods Act. Unsurprisingly, the call centre operative claimed she was unable to assist since the product had been purchased such a long time ago and that i should contact the manufacturer. I had, of course, anticipated this and was not put-off. I persisted in my claim until she finally said that she would escalate the matter and i would receive an email response &#8220;within 48 hours&#8221;.
+I called _Well-Known Online Retailer_ who had sold me the console, explained the problem and asked them for a refund or replacement in line with the Sales of Goods Act. Unsurprisingly, the call centre operative claimed she was unable to assist since the product had been purchased such a long time ago and that i should contact the manufacturer. I had, of course, anticipated this and was not put-off. I persisted in my claim until she finally said that she would escalate the matter and i would receive an email response within 48 hours.
 
 Slightly-more-than-48-hours later i received the promised email which stated:
 
@@ -65,11 +65,11 @@ So, all's well that ends well, right? Well, yes. But there's a BUT. After confir
 > 
 > _This does not imply that an item has a warranty of two years or six years respectively. It merely permits an individual to make a claim under certain circumstances within that time period, e.g. should a fault be proved to have been inherent in the first six months._
 > 
-> [Well-Known Online Retailer] do not provide the warranty. We do, however, cover our obligations under the relevant legislation such as the Sales of Goods Act 1979 in the UK. Under the Sale of Goods Act, a consumer is granted recourse against a seller of goods if those goods were defective at the time of purchase. This may include, in certain circumstances, repair, refund or replacement but only to the extent that doing so is not disproportionate to the value of the goods, having regard to the use the customer has already had of the goods and the nature of the goods._
+> _[Well-Known Online Retailer] do not provide the warranty. We do, however, cover our obligations under the relevant legislation such as the Sales of Goods Act 1979 in the UK. Under the Sale of Goods Act, a consumer is granted recourse against a seller of goods if those goods were defective at the time of purchase. This may include, in certain circumstances, repair, refund or replacement but only to the extent that doing so is not disproportionate to the value of the goods, having regard to the use the customer has already had of the goods and the nature of the goods._
 > 
 > _You purchased your product approximately twenty-one months ago and, until recently, have used it successfully and reported no fault with the product. Given your satisfactory use of the product for a period of time which exceeded the manufacturer's warranty period, it is not established that the product did not conform to the contract (i.e. was defective) at the time of purchase._
 
-So, basically, &#8220;one of my underlings fucked-up and promised a refund when he shouldn't have&#8221;. Whether this is the truth and i was lucky to get a refund, or whether this just got sent out to make it _appear_ that way and prevent me encouraging others to try and enforce their consumer rights, i do not know.
+So, basically, &#8220;one of my underlings fucked-up and promised a refund when they shouldn't have&#8221;. Whether this is the truth and i was lucky to get a refund, or whether this just got sent out to make it _appear_ that way and prevent me encouraging others to try and enforce their consumer rights, i do not know.
 
 I was pleased with my (small) victory though &#8211; it restored my faith in the power of the consumer &#8211; and i will definitely take similar action should this sort of thing ever happen again.
 
@@ -78,5 +78,7 @@ I was pleased with my (small) victory though &#8211; it restored my faith in the
 **Note:** In this particular instance, while i was pleased with a refund, i was disappointed that ultimately the retailer has had to pay for Microsoft's shoddy hardware. The XBOX360 is riddled with faults and i believe the 3 year warranty MS offer for RROD and E74 problems should actually extend to all hardware issues. That would be fairer to the consumer and the retailer, and the &#8220;compensation&#8221; costs would hopefully encourage MS to put in a little more R&D and Quality Assurance in the first place. As it stands though, most XBOX gamers, desperate to play (and tied to MS with XBOX Live subscriptions and pre-paid Microsoft Points) give-in easily and either cough up for a repair or just go out an buy a brand new console.
 
 [^fn-xboxemail]: _xboxsup2@microsoft.com_, if you fancy giving it a try.
+
+[^fn-options]: Option 3 rather than Option 2, since i figured i'd be able to sell the peripherals and any bundled games from a brand new console in order to make it &#8220;cost&#8221; less than £90.
 
 [^fn-ourhero]: If you didn't bother to follow the link, it is someone's description of how they got a replacement XBOX360 from a retailer after his original developed a fault aged 13 months.
