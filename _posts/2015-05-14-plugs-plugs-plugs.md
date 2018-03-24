@@ -7,7 +7,7 @@ layout: post
 tags:
   - apple
   - electrics
-  - folding plug
+  - videos
   - plug
   - power
   - usb
