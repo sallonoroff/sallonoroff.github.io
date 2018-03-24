@@ -8,6 +8,7 @@ tags:
   - design
   - green
   - pc
+  - cases
 ---
 Some bloke has created [a cardboard computer case for the Greener Gadgets Design Competition](http://www.core77.com/greenergadgets/entry.php?projectid=32). A little bit bulky but i kind of like it. And apparently the Core2Duo innards [won't set it ablaze](http://www.engadget.com/2009/02/05/recompute-a-closer-look-at-the-sustainable-cardboard-pc/), if you were about to point out the seemingly obvious.
 
