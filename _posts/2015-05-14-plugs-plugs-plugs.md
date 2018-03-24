@@ -6,7 +6,6 @@ author: mark
 layout: post
 tags:
   - apple
-  - electrics
   - videos
   - plug
   - power
