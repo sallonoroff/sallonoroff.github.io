@@ -24,5 +24,5 @@ place a footnote[^fn-reference]
 {% include youtubeembed.html id="NW2EmATcb6o" %}  
 {% include vimeoembed.html id="15630517" %}  
 
-<span style="color: #c0c0c0;">&#8230;</span>
+{% include mydots.html %}  (which just calls <span style="color: #c0c0c0;">&#8230;</span> )
   
