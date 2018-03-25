@@ -1,5 +1,5 @@
 ---
-title: hello world (2)
+title: hello world. (2)
 date: 2018-03-23T23:39:00+00:00
 last_modified_at: 2018-03-24T11:02:00+00:00
 layout: post
