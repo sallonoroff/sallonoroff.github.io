@@ -8,6 +8,7 @@ tags:
   - apple
   - design
   - retail
+  - details
 ---
 I was just casually perusing [Gary Allen's](http://www.ifoapplestore.com/) [photos](http://www.flickr.com/photos/ifostore/sets/72157629143777004/with/6951762181/) of the new Apple Store in Amsterdam when i was struck by the caption of [this image](http://www.flickr.com/photos/ifostore/6951762181)&#8230;
 
