@@ -14,7 +14,7 @@ As you should have already spotted, the blog now features my latest twitter upda
 
 For those of you that are interested, here's the code (based on some i found [here](http://www.designisphilosophy.com/css/create-a-twitter-box-in-your-sidebar-20081106/) btw) that i tagged onto the end of the _style.css_ file to sort things out&#8230;
 
-<code>
+{% highlight css %}
 #twitter_div {
   padding-top: 10px;
 }
@@ -44,4 +44,4 @@ For those of you that are interested, here's the code (based on some i found [he
   padding: 0;
   display: inline;
 }
-</code>
+{% endhighlight %}
