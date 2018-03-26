@@ -26,3 +26,6 @@ place a footnote[^fn-reference]
 
 {% include mydots.html %}  (which just calls <span style="color: #c0c0c0;">&#8230;</span> )
   
+{% highlight css %}
+Whatever code, not just css
+{% endhighlight %}
