@@ -6,7 +6,7 @@ author: mark
 layout: post
 tags:
   - design
-  - gui
+  - user interface
   - software
 ---
-[Here&#8217;s a great article](http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/) summarising the last 28 years of OS interface design, complete with screengrabs of the Xerox Star GUI (1981) through to today&#8217;s Vista, OSX, Gnome and KDE interfaces.
+[Here's a great article](http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/) summarising the last 28 years of OS interface design, complete with screengrabs of the Xerox Star GUI (1981) through to today's Vista, OSX, Gnome and KDE interfaces.
