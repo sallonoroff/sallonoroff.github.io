@@ -7,18 +7,11 @@ layout: post
 tags:
   - arbitrary
   - not so tech
-  - thermometer
+  - science
   - videos
 ---
-You&#8217;ve always dreamed of a thermometer that allows you to _feel_ the forecast temperature, right?
+You've always dreamed of a thermometer that allows you to _feel_ the forecast temperature, right?
 
-<div class="embed-vimeo" style="text-align: center;">
-</div>
+{% include vimeoembed.html id="36133244" %}
 
-<p style="text-align: center;">
-  <a href="http://vimeo.com/36133244">Cryoscope</a> from <a href="http://vimeo.com/robbb">Robb Godshaw</a> on <a href="http://vimeo.com">Vimeo</a>.
-</p>
-
-<p style="text-align: left;">
-  Via <a href="http://www.core77.com/blog/object_culture/a_thermometer_that_communicates_via_touch_21707.asp">Core77</a>.
-</p>
+Via [Core77](http://www.core77.com/blog/object_culture/a_thermometer_that_communicates_via_touch_21707.asp).
