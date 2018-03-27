@@ -7,7 +7,7 @@ layout: post
 tags:
   - google
   - maps
-  - street view
+  - web
 ---
 Noticed this earlier in the week but forgot to mention it here - Google have finally updated the aerial photography used in [Google Maps](http://maps.google.co.uk/). Or at least they have for South Yorkshire. Good to see the 6 or 7 year old imagery replaced with something that appears to have been collected in the last 6 months or so.
 
