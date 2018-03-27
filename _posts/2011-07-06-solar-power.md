@@ -18,6 +18,6 @@ All praise the mighty Ra!
   
 &#8220;Solar Death Ray&#8221;, via [Neatorama](http://www.neatorama.com/2011/01/31/homemade-solar-death-ray/).
 
-{% include vimeoembed.html id="25770215" %}
+{% include youtubeembed.html id="-IY2yeTlwRs" %}
 
-Markus Kayser's Solar Sinter, via [Dezeen](http://www.dezeenscreen.com/2011/06/30/the-solar-sinter-by-markus-kayser/).
+Markus Kayser's Solar Sinter, via [Dezeen](https://www.dezeen.com/2011/06/28/the-solar-sinter-by-markus-kayser/).
