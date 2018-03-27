@@ -12,7 +12,7 @@ tags:
   - software
   - hints
 ---
-If you've owned and operated an Apple Airport device for any length of time you'll probably be aware that you can downgrade to older, previously-installed versions of firmware if you should ever need or want to. It's a fairly trivial thing to do with Mac OS X's Airport Utility &#8211; finding the feature is the hardest part![^fn-reference]
+If you've owned and operated an Apple Airport device for any length of time you'll probably be aware that you can downgrade to older, previously-installed versions of firmware if you should ever need or want to. It's a fairly trivial thing to do with Mac OS X's Airport Utility &#8211; finding the feature is the hardest part![^fn-downgrading]
 
 But what about if you want to try an older firmware on an Airport that has only ever run the current version? Well, that's a little bit less straight-forward&#8230; but not terribly difficult to do.
 
