@@ -8,6 +8,7 @@ tags:
   - arbitrary
   - google
   - maps
+  - web
 ---
 Last week [i mentioned](http://www.sallonoroff.co.uk/blog/2009/03/google-aerial-photography-updated/) how we were still waiting for Google Maps' Street View in the UK. Well, we're not waiting anymore. Street View is now live and [The Register](http://www.theregister.co.uk) readers have already spotted some fine examples of Great British life captured by the Google Spycars&#8230;
 
