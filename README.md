@@ -44,6 +44,8 @@ Other useful stuff
 https://blog.webjeda.com/jekyll-related-posts/  
 https://zzz.buzz/2016/02/13/add-an-updated-field-to-your-jekyll-site/  
 http://www.benjaminday.co.uk/blog/misc/2015/01/08/github-pages-and-123-reg-dns/  
+http://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/  
+https://avexdesigns.com/responsive-youtube-embed  
   
 Many thanks to the authors of these articles.  
   
