@@ -11,7 +11,7 @@ tags:
   - innovation
   - videos
 ---
-&#8220;Everything is a remix&#8221; is a really interesting series of short films about creativity, originality and innovation. I've embedded here the 3 vids released so far &#8211; a fourth is due in the autumn. See <a href="http://www.everythingisaremix.info/">http://www.everythingisaremix.info</a> for more information.
+&#8220;Everything is a remix&#8221; is a really interesting series of short films about creativity, originality and innovation. I've embedded here the 3 vids released so far &#8211; a fourth is due in the autumn. See [everythingisaremix.info](http://www.everythingisaremix.info/) for more information.
 
 {% include vimeoembed.html id="14912890" %}
 
