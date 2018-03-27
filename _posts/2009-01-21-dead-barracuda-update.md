@@ -7,6 +7,7 @@ layout: post
 tags:
   - hard drive
   - hardware
+  - firmware
   - seagate
 ---
 ...Don't update!
