@@ -6,18 +6,14 @@ author: mark
 layout: post
 tags:
   - not so tech
-  - remix
   - videos
+  - creativity
+  - details
 ---
-It&#8217;s out a little bit later than originally planned, but here&#8217;s part 4 of Kirby Ferguson&#8217;s documentary Everything is a Remix. It&#8217;s really good. Hit play.
+It's out a little bit later than originally planned, but here's part 4 of Kirby Ferguson's documentary Everything is a Remix. It's really good. Hit play.
 
-<div class="embed-vimeo" style="text-align: center;">
-</div>
+{% include vimeoembed.html id="36881035" %}
 
-<p style="text-align: left;">
-  <span style="color: #c0c0c0;">&#8230;</span>
-</p>
+{% include mydots.html %}
 
-<p style="text-align: left;">
-  <strong>PS:</strong> Parts 1, 2 and 3 were previously embedded <a href="http://www.sallonoroff.co.uk/blog/2011/07/everything-is-a-remix/">here</a>. Be sure to watch them too.
-</p>
+**PS:** Parts 1, 2 and 3 were previously embedded [here](http://www.sallonoroff.co.uk/blog/2011/07/everything-is-a-remix/). Be sure to watch them too.
