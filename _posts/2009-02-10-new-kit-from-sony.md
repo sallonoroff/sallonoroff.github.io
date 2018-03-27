@@ -10,6 +10,7 @@ tags:
   - sony
   - videos
 ---
-<p style="text-align: center;">
-  <br /> <a href="http://www.theonion.com/content/node/93143?utm_source=embedded_video">Sony Releases New Stupid Piece Of Shit That Doesn&#8217;t Fucking Work</a>
-</p>
+
+The Onion: [Sony Releases New Stupid Piece Of Shit That Doesn't Fucking Work](https://www.theonion.com/sony-releases-new-stupid-piece-of-shit-that-doesnt-fuck-1819594774)
+
+{% include youtubeembed.html id="8AyVh1_vWYQ" %}
