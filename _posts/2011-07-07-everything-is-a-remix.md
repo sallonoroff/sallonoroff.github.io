@@ -6,24 +6,15 @@ author: mark
 layout: post
 tags:
   - not so tech
-  - remix
+  - creativity
+  - details
+  - innovation
   - videos
 ---
-<p style="text-align: left;">
-  &#8220;Everything is a remix&#8221; is a really interesting series of short films about creativity, originality and innovation. I&#8217;ve embedded here the 3 vids released so far &#8211; a fourth is due in the autumn.
-</p>
+&#8220;Everything is a remix&#8221; is a really interesting series of short films about creativity, originality and innovation. I've embedded here the 3 vids released so far &#8211; a fourth is due in the autumn. See <a href="http://www.everythingisaremix.info/">http://www.everythingisaremix.info</a> for more information.
 
-<p style="text-align: left;">
-  See <a href="http://www.everythingisaremix.info/">http://www.everythingisaremix.info</a> for more information.
-</p>
+{% include vimeoembed.html id="14912890" %}
 
-<div class="embed-vimeo" style="text-align: center;">
-</div>
+{% include vimeoembed.html id="19447662" %}
 
-<div class="embed-vimeo" style="text-align: center;">
-</div>
-
-<div class="embed-vimeo" style="text-align: center;">
-</div>
-
-&nbsp;
+{% include vimeoembed.html id="25380454" %}
