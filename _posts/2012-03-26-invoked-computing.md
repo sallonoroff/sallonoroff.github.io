@@ -6,7 +6,8 @@ author: mark
 layout: post
 tags:
   - future
-  - human-computer interaction
+  - user interface
+  - software
 ---
 [DigInfo](http://www.diginfo.tv/v/11-0232-d-en.php):
 
