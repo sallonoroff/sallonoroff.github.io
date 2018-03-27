@@ -8,9 +8,5 @@ tags:
   - games
   - xbox360
   - zero punctuation
-  - videos
 ---
-Here's the [Zero Punctuation review of Gears of War 2](http://www.escapistmagazine.com/videos/view/zero-punctuation/525-Gears-of-War-2). I haven't played the game yet but as i suspected, it's more of the same &#8211; shoot humanoid bugs from behind walls. Chest-high walls.
-
-<div class="embeds-container"><iframe src="//www.escapistmagazine.com/videos/embed/525?width=640" style="border: 0;" width="640" height="360"></iframe></div>
-                                                                                                                                            
+Here's the [Zero Punctuation review of Gears of War 2](http://www.escapistmagazine.com/videos/view/zero-punctuation/525-Gears-of-War-2). I haven't played the game yet but as i suspected, it's more of the same &#8211; shoot humanoid bugs from behind walls. Chest-high walls.                                                                                                                    
