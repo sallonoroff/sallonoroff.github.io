@@ -26,12 +26,12 @@ description:
   {% endif %}
 {% endfor %}
 {% capture monthscalc %}{{ postnM | minus: post1M | divided_by: 12.00 | round: 2 }}{% endcapture %}
-{% capture yearscalc %}{{ postnY | minus: post1Y | plus: monthscalc | round: 2 }}{% endcapture %}
+{% capture yearscalc %}{{ postnY | minus: post1Y | plus: monthscalc | round: 1 }}{% endcapture %}
 
 <p>There are {{ site.posts.size }} posts on the blog, spanning {{ yearscalc }} years!</p>
 <p>First post made: {{ post1date }}</p>
 <p>Last post made: {{ postndate }}</p>
 <p>Total words written: {{ totalwords }}</p>
-<p>Average words per year: {{ totalwords | divided_by: yearscalc | round: 2 }}</p>
-<p>Average words per post: {{ totalwords | divided_by: site.posts.size | round: 2 }}</p>
+<p>Average words per year: {{ totalwords | divided_by: yearscalc | round: 1 }}</p>
+<p>Average words per post: {{ totalwords | divided_by: site.posts.size | round: 1 }}</p>
 <p>Total tags applied: {{ site.tags.size }}</p>
