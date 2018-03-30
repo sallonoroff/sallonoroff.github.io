@@ -41,7 +41,7 @@ layout: default
   {% endfor %}
   {% if site.related_posts != empty %}
     {% if maxRelatedCounter < 1 %}
-      <p class="message-subtle">The algorithm determined no related content. Here are 3 recent posts...<p>
+      <p class="message-subtle">Algorithm determined no related content, so here are 3 recent posts...<p>
       {% for post in site.related_posts limit:3 %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <time class="meta-date">{{ post.date | date: "%-d %B %Y" }}</time></li>
       {% endfor %}
