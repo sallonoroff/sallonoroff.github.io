@@ -14,12 +14,12 @@ description:
 {% for post in site.posts %}
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% capture postnM %}{{ post.date | date: '%m' }}{% endcapture %}
+    {% capture postnM %}{{ post.date | date: '%-m' }}{% endcapture %}
     <p>The last blog post was made on {{ post.date | date: "%-d %B %Y" }}, Y:{{ postnY }}, M:{{ postnM }}</p>
   {% endif %}
   {% if forloop.last %}
     {% capture post1Y %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% capture post1M %}{{ post.date | date: '%m' }}{% endcapture %}
+    {% capture post1M %}{{ post.date | date: '%-m' }}{% endcapture %}
     <p>The first blog post was made on {{ post.date | date: "%-d %B %Y" }}, Y:{{ post1Y }}, M:{{ post1M }}</p>
   {% endif %}
 {% endfor %}
