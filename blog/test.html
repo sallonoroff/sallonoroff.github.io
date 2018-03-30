@@ -4,7 +4,7 @@ title: Testing Testing
 description: 
 ---
 
-There are {{site.posts.size}} posts on the blog.  
+<p>There are {{site.posts.size}} posts on the blog.</p>
 
 {% assign post1Y = 0 %}
 {% assign post1M = 0 %}
@@ -15,16 +15,16 @@ There are {{site.posts.size}} posts on the blog.
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture postnM %}{{ post.date | date: '%m' }}{% endcapture %}
-    The last blog post was made on {{ post.date | date: "%-d %B %Y" }}, Y:{{ postnY }}, M:{{ postnM }}  
+    <p>The last blog post was made on {{ post.date | date: "%-d %B %Y" }}, Y:{{ postnY }}, M:{{ postnM }}</p>
   {% endif %}
   {% if forloop.last %}
     {% capture post1Y %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture post1M %}{{ post.date | date: '%m' }}{% endcapture %}
-    The first blog post was made on {{ post.date | date: "%-d %B %Y" }}, Y:{{ post1Y }}, M:{{ post1M }}  
+    <p>The first blog post was made on {{ post.date | date: "%-d %B %Y" }}, Y:{{ post1Y }}, M:{{ post1M }}</p>
   {% endif %}
 {% endfor %}
 
 {% capture monthsbit %}{{ postnM | minus: post1M | divided_by: 12 | round: 1 }}{% endcapture %}
-The time between those posts is {{ postnY | minus: post1Y | plus: monthsbit | round }} years!
+<p>The time between those posts is {{ postnY | minus: post1Y | plus: monthsbit | round }} years!</p>
   
-There are {{site.tags.size}} tags used on the blog.  
+<p>There are {{site.tags.size}} tags used on the blog.</p>
