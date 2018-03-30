@@ -15,17 +15,16 @@ description:
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture postnM %}{{ post.date | date: '%-m' }}{% endcapture %}
-    <p>The last blog post was made on {{ post.date | date: "%-d %B %Y" }}, Y:{{ postnY }}, M:{{ postnM }}</p>
+    <p>The last blog post was made on {{ post.date | date: "%-d %B %Y" }}.</p>
   {% endif %}
   {% if forloop.last %}
     {% capture post1Y %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture post1M %}{{ post.date | date: '%-m' }}{% endcapture %}
-    <p>The first blog post was made on {{ post.date | date: "%-d %B %Y" }}, Y:{{ post1Y }}, M:{{ post1M }}</p>
+    <p>The first blog post was made on {{ post.date | date: "%-d %B %Y" }}.</p>
   {% endif %}
 {% endfor %}
 
 {% capture monthsbit %}{{ postnM | minus: post1M | divided_by: 12.00 | round:2 }}{% endcapture %}
-<p>monthsbit value is:{{ monthsbit }} months.</p>
 <p>The time between those posts is {{ postnY | minus: post1Y | plus: monthsbit | round: 1 }} years!</p>
 
 <p>Testing divides here, 12/5.00: {{ 12 | divided_by: 5.00 }}</p>
