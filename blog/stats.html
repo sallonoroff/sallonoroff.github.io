@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stats!
+title: Some numbers
 description: 
 ---
 {% assign post1Y = 0 %}
@@ -12,7 +12,7 @@ description:
 {% assign totalwords = 0 %}
 
 {% for post in site.posts %}
-  {% capture totalwords %}{{ post.content | strip_html | number_of_words }}{% endcapture %}
+  {% capture totalwords %}{{ post.content | number_of_words }}{% endcapture %} //post.content | strip_html | number_of_words 
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture postnM %}{{ post.date | date: '%-m' }}{% endcapture %}
@@ -27,7 +27,7 @@ description:
 {% capture monthscalc %}{{ postnM | minus: post1M | divided_by: 12.00 | round:2 }}{% endcapture %}
 
 <p>There are {{ site.posts.size }} posts on the blog, spanning {{ postnY | minus: post1Y | plus: monthscalc | round: 1 }} years!</p>
-<p>The first blog post was made on {{ post1date }}.</p>
-<p>The last blog post was made on {{ postndate }}.</p>
-<p>There are a total of {{ totalwords }} words written on the blog.</p>
-<p>There are {{ site.tags.size }} tags used on the blog.</p>
+<p>First post made: {{ post1date }}</p>
+<p>Last post made: {{ postndate }}</p>
+<p>Total words written: {{ totalwords }}</p>
+<p>Total tags applied: {{ site.tags.size }}</p>
