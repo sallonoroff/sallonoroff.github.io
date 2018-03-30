@@ -12,7 +12,7 @@ description:
 {% assign totalwords = 0 %}
 
 {% for post in site.posts %}
-  {% assign postswords = post.content | strip_html | number_of_words }}
+  {% assign postswords = post.content | strip_html | number_of_words %}
   {% capture totalwords %}{{ totalwords | plus: postswords }}{% endcapture %}
   <p>debugging - post: {{ postswords }} , total: {{ totalwords }}</p>
   {% if forloop.first %}
