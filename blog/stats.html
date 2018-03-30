@@ -14,7 +14,6 @@ description:
 {% for post in site.posts %}
   {% assign postswords = post.content | strip_html | number_of_words %}
   {% capture totalwords %}{{ totalwords | plus: postswords }}{% endcapture %}
-  <p>debugging - post: {{ postswords }} , total: {{ totalwords }}</p>
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture postnM %}{{ post.date | date: '%-m' }}{% endcapture %}
@@ -26,10 +25,13 @@ description:
     {% capture post1date %}{{ post.date | date: "%-d %B %Y" }}{% endcapture %}
   {% endif %}
 {% endfor %}
-{% capture monthscalc %}{{ postnM | minus: post1M | divided_by: 12.00 | round:2 }}{% endcapture %}
+{% capture monthscalc %}{{ postnM | minus: post1M | divided_by: 12.00 | round: 2 }}{% endcapture %}
+{% capture yearscalc %}{{ postnY | minus: post1Y | plus: monthscalc | round: 2 }}{% endcapture %}
 
-<p>There are {{ site.posts.size }} posts on the blog, spanning {{ postnY | minus: post1Y | plus: monthscalc | round: 1 }} years!</p>
+<p>There are {{ site.posts.size }} posts on the blog, spanning {{ yearscalc }} years!</p>
 <p>First post made: {{ post1date }}</p>
 <p>Last post made: {{ postndate }}</p>
 <p>Total words written: {{ totalwords }}</p>
+<p>Average words per year: {{ totalwords | divided_by: yearscalc | round: 2 }}</p>
+<p>Average words per post: {{ totalwords | divided_by: site.posts.size | round: 2 }}</p>
 <p>Total tags applied: {{ site.tags.size }}</p>
