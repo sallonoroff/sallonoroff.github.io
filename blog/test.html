@@ -3,31 +3,31 @@ layout: page
 title: Testing Testing
 description: 
 ---
-
-<p>There are {{site.posts.size}} posts on the blog.</p>
-
 {% assign post1Y = 0 %}
 {% assign post1M = 0 %}
 {% assign postnY = 0 %}
 {% assign postnM = 0 %}
+{% assign post1date = "blank" %}
+{% assign postndate = "blank" %}
+{% assign totalwords = 0 %}
 
 {% for post in site.posts %}
+  {% totalwords = post.content | strip_html | number_of_words %}
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture postnM %}{{ post.date | date: '%-m' }}{% endcapture %}
-    <p>The last blog post was made on {{ post.date | date: "%-d %B %Y" }}.</p>
+    {% capture postndate %}{{ post.date | date: "%-d %B %Y" }}{% endcapture %}
   {% endif %}
   {% if forloop.last %}
     {% capture post1Y %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture post1M %}{{ post.date | date: '%-m' }}{% endcapture %}
-    <p>The first blog post was made on {{ post.date | date: "%-d %B %Y" }}.</p>
+    {% capture post1date %}{{ post.date | date: "%-d %B %Y" }}{% endcapture %}
   {% endif %}
 {% endfor %}
+{% capture monthscalc %}{{ postnM | minus: post1M | divided_by: 12.00 | round:2 }}{% endcapture %}
 
-{% capture monthsbit %}{{ postnM | minus: post1M | divided_by: 12.00 | round:2 }}{% endcapture %}
-<p>The time between those posts is {{ postnY | minus: post1Y | plus: monthsbit | round: 1 }} years!</p>
-
-<p>Testing divides here, 12/5.00: {{ 12 | divided_by: 5.00 }}</p>
-<p>Testing divides again, 12/5: {{ 12 | divided_by: 5 }}</p>
-  
+<p>There are {{site.posts.size}} posts on the blog, spanning {{ postnY | minus: post1Y | plus: monthscalc | round: 1 }} years!</p>
+<p>The first blog post was made on {{ post1date }}.</p>
+<p>The last blog post was made on {{ postndate }}.</p>
+<p>There are a total of {{ totalwords }} words written on the blog.</p>
 <p>There are {{site.tags.size}} tags used on the blog.</p>
