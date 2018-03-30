@@ -9,12 +9,9 @@ description:
 {% assign postnM = 0 %}
 {% assign post1date = "blank" %}
 {% assign postndate = "blank" %}
-{% assign totalwords = 0 %}
 
 {% for post in site.posts %}
-  {% assign postswords = post.content | strip_html | number_of_words }}
-  {% assign totalwords = totalwords | plus: postswords %}
-<p>debugging - post: {{ postswords }} , total: {{ totalwords }}</p>
+  {% assign totalwords = post.content | strip_html | number_of_words }}
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture postnM %}{{ post.date | date: '%-m' }}{% endcapture %}
