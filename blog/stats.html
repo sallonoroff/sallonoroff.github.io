@@ -32,6 +32,6 @@ description:
 <p>First post made: {{ post1date }}</p>
 <p>Last post made: {{ postndate }}</p>
 <p>Total words written: {{ totalwords }}</p>
-<p>Average words per year: {{ totalwords | divided_by: yearscalc | round: 1 }}</p>
-<p>Average words per post: {{ totalwords | divided_by: site.posts.size | round: 1 }}</p>
+<p>Average words per year: {{ totalwords | divided_by: yearscalc | round }}</p>
+<p>Average words per post: {{ totalwords | divided_by: site.posts.size | round }}</p>
 <p>Total tags applied: {{ site.tags.size }}</p>
