@@ -12,7 +12,7 @@ description:
 {% assign totalwords = 0 %}
 
 {% for post in site.posts %}
-  {% totalwords = post.content | strip_html | number_of_words %}
+  {% capture totalwords %}{{ post.content | strip_html | number_of_words }}{% endcapture %}
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture postnM %}{{ post.date | date: '%-m' }}{% endcapture %}
