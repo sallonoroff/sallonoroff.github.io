@@ -14,15 +14,17 @@ There are {{site.posts.size}} posts on the blog.
 {% for post in site.posts %}
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% capture postnM %}{{ post.date | date: '%M' }}{% endcapture %}
+    {% capture postnM %}{{ post.date | date: '%m' }}{% endcapture %}
     The last blog post was made on {{ post.date | date: "%-d %B %Y" }}, Y:{{ postnY }}, M:{{ postnM }}  
   {% endif %}
   {% if forloop.last %}
     {% capture post1Y %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% capture post1M %}{{ post.date | date: '%M' }}{% endcapture %}
+    {% capture post1M %}{{ post.date | date: '%m' }}{% endcapture %}
     The first blog post was made on {{ post.date | date: "%-d %B %Y" }}, Y:{{ post1Y }}, M:{{ post1M }}  
   {% endif %}
 {% endfor %}
 
 {% capture monthsbit %}{{ postnM | minus: post1M | divided_by: 12 | round: 1 }}{% endcapture %}
-The time between those posts is {{ postnY | minus: post1Y | plus: monthsbit | round }} years!  
+The time between those posts is {{ postnY | minus: post1Y | plus: monthsbit | round }} years!
+  
+There are {{site.tags.size}} tags used on the blog.  
