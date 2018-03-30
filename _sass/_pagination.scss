@@ -8,6 +8,8 @@
   //margin: 0 -1.5rem 1rem;
   color: $gray-6;
   text-align: center;
+  margin: 3rem 0 0;
+  padding: 0 0 3rem;
 }
 
 // Pagination items can be `span`s or `a`s
@@ -31,9 +33,9 @@ a.pagination-item:hover {
 
 @media (min-width: 30em) {
   .pagination {
-    //margin: 3rem 0;
-    margin: 3rem 0 0;
-    padding: 0 0 3rem;
+    //margin: 3rem 0; //original
+    //margin: 3rem 0 0;
+    //padding: 0 0 3rem;
   }
 
   .pagination-item {
