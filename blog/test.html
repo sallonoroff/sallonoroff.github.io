@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testing Testing
+title: Stats!
 description: 
 ---
 {% assign post1Y = 0 %}
@@ -26,8 +26,8 @@ description:
 {% endfor %}
 {% capture monthscalc %}{{ postnM | minus: post1M | divided_by: 12.00 | round:2 }}{% endcapture %}
 
-<p>There are {{site.posts.size}} posts on the blog, spanning {{ postnY | minus: post1Y | plus: monthscalc | round: 1 }} years!</p>
+<p>There are {{ site.posts.size }} posts on the blog, spanning {{ postnY | minus: post1Y | plus: monthscalc | round: 1 }} years!</p>
 <p>The first blog post was made on {{ post1date }}.</p>
 <p>The last blog post was made on {{ postndate }}.</p>
 <p>There are a total of {{ totalwords }} words written on the blog.</p>
-<p>There are {{site.tags.size}} tags used on the blog.</p>
+<p>There are {{ site.tags.size }} tags used on the blog.</p>
