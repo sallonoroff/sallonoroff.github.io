@@ -24,7 +24,8 @@ description:
   {% endif %}
 {% endfor %}
 
-{% capture monthsbit %}{{ postnM | minus: post1M | divided_by: 12 | round: 1 }}{% endcapture %}
-<p>The time between those posts is {{ postnY | minus: post1Y | plus: monthsbit }} years!</p>
+{% capture monthsbit %}{{ postnM | minus: post1M | divided_by: 12 }}{% endcapture %}
+<p>monthsbit value is:{{ monthsbit }} months.</p>
+<p>The time between those posts is {{ postnY | minus: post1Y | plus: monthsbit | round: 1 }} years!</p>
   
 <p>There are {{site.tags.size}} tags used on the blog.</p>
