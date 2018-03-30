@@ -1,6 +1,6 @@
 .taglist {
   list-style: none;
-  margin: 1.5rem 0 0 0;
+  margin: 1.5rem 0 0 -0.5rem; //negative left margin here to counteract padding-left used (and wanted) in .archivelist ul - yeah, hacky.
   overflow: hidden; 
   padding: 0;
 }
