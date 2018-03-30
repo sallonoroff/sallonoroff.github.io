@@ -11,7 +11,7 @@ description:
 {% assign postndate = "blank" %}
 
 {% for post in site.posts %}
-  {% assign totalwords = post.content | strip_html | number_of_words }}
+  {% assign totalwords = post.content | strip_html | number_of_words %}
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture postnM %}{{ post.date | date: '%-m' }}{% endcapture %}
