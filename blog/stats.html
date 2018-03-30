@@ -14,6 +14,7 @@ description:
 {% for post in site.posts %}
   {% assign postswords = post.content | strip_html | number_of_words }}
   {% assign totalwords = totalwords | plus: postswords %}
+<p>debugging - post: {{ postswords }} , total: {{ totalwords }}</p>
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture postnM %}{{ post.date | date: '%-m' }}{% endcapture %}
