@@ -13,11 +13,11 @@
   padding: 0;
 }
 
-.taglist li {
+.taglist, .tagblock li {
   float: left; 
 }
 
-.taglist li + li {
+.taglist, .tagblock li + li {
   margin-top: 0; 
 }
 
