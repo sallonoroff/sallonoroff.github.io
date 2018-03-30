@@ -4,7 +4,7 @@ title: Archives by Tag
 description: The archives of the sallonoroff blog, arranged by tag.
 ---
 
-There are {{site.posts.size}} posts on the blog, with {{site.tags.size}} different tags applied. All tags are listed here in alphabetical order. Alternatively, you can view the <a href="/blog/archive">archives by date</a>.
+There are {{site.posts.size}} posts on the blog, with {{site.tags.size}} different tags applied. All tags are listed here alphabetically. Alternatively, you can view the <a href="/blog/archive">archives by date</a>.
 
 <section id="archive" class="archivelist">
   {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
