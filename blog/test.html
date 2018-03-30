@@ -24,8 +24,11 @@ description:
   {% endif %}
 {% endfor %}
 
-{% capture monthsbit %}{{ postnM | minus: post1M | divided_by: 12 }}{% endcapture %}
+{% capture monthsbit %}{{ postnM | minus: post1M | divided_by: 12.00 | round:2 }}{% endcapture %}
 <p>monthsbit value is:{{ monthsbit }} months.</p>
 <p>The time between those posts is {{ postnY | minus: post1Y | plus: monthsbit | round: 1 }} years!</p>
+
+<p>Testing divides here, 12/6: {{ 12 | divided_by: 6 }}</p>
+<p>Testing divides again, 12/5: {{ 12 | divided_by: 5 }}</p>
   
 <p>There are {{site.tags.size}} tags used on the blog.</p>
