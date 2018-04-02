@@ -12,7 +12,7 @@ max-width:66%;
 
 form.searchbox input[type=text] {
     padding: 5px;
-    /*font-size: 16px;*/
+    font-size: $root-font-size;
     border: 1px solid grey;
     border-radius: 5px 0 0 5px;
     float: left;
@@ -30,7 +30,7 @@ form.searchbox button {
     background-image:linear-gradient(to bottom,#ffa31a,#ff9a00);
     /*background: #ff9a00;*/
     color: white;
-    /*font-size: 16px;*/
+    font-size: $root-font-size;
     font-weight: bold;
     border: 1px solid grey;
     border-left: none;
