@@ -6,15 +6,15 @@ box-sizing: border-box;
 }
 
 form.searchbox {
-margin:auto;
-max-width:80%;
+margin: 0; //auto to centre align
+max-width: 80%;
 }
 
 form.searchbox input[type=text] {
     padding: 5px;
     font-size: $root-font-size;
     border: 1px solid grey;
-    border-radius: 5px 0 0 5px;
+    border-radius: 2px 0 0 2px;
     float: left;
     /*width: 80%;*/
     width: calc(100% - 80px);
@@ -34,7 +34,7 @@ form.searchbox button {
     font-weight: bold;
     border: 1px solid grey;
     border-left: none;
-    border-radius: 0 5px 5px 0;
+    border-radius: 0 2px 2px 0;
     cursor: pointer;
     text-transform: uppercase;
 }
