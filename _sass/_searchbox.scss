@@ -7,7 +7,11 @@ form.searchbox * {
 
 form.searchbox {
     margin: 0; //auto to centre align
-    max-width: 80%;
+    max-width: 66%;
+	
+    @media (min-width: $large-breakpoint) {
+    max-width: 100%;
+    }
 }
 
 form.searchbox input[type=text] {
