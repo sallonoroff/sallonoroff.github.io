@@ -7,10 +7,10 @@ form.searchbox * {
 
 form.searchbox {
     margin: 0; //auto to centre align
-    max-width: 66%;
+    max-width: 100%;
 	
     @media (min-width: $large-breakpoint) {
-    max-width: 100%;
+    max-width: 66%;
     }
 }
 
@@ -51,6 +51,6 @@ form.searchbox::after {
 }
 
 form.searchbox img {
-	height: 20px;
-	width: 20px;
+    height: 20px;
+    width: 20px;
 }
