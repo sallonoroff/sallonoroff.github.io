@@ -2,49 +2,51 @@
 /* Largely based on https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_search_button */
 
 form.searchbox * {
-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 form.searchbox {
-margin: 0; //auto to centre align
-max-width: 80%;
+    margin: 0; //auto to centre align
+    max-width: 80%;
 }
 
 form.searchbox input[type=text] {
-    padding: 5px;
+    padding: 10px;
     font-size: $root-font-size;
     border: 1px solid grey;
     border-radius: 2px 0 0 2px;
     float: left;
-    /*width: 80%;*/
-    width: calc(100% - 80px);
+    width: calc(100% - 38px);
+    height: 36px;
     background: #ffffff;
     box-shadow: inset 1px 1px 1px #999;
 }
 
 form.searchbox button {
     float: left;
-    /*width: 20%;*/
-    width: 80px;
-    padding: 5px;
-    background-image:linear-gradient(to bottom,#ffa31a,#ff9a00);
-    /*background: #ff9a00;*/
-    color: white;
-    font-size: $root-font-size;
-    font-weight: bold;
+    width: 38px;
+    height: 36px;
+    padding: 8px 6px 4px 6px;
+    background: #ff9a00;
     border: 1px solid grey;
     border-left: none;
     border-radius: 0 2px 2px 0;
     cursor: pointer;
-    text-transform: uppercase;
+    color: white;
+    font-size: $root-font-size;
 }
 
 form.searchbox button:hover {
-    background-image:linear-gradient(to bottom,#ff9a00,#e68a00);
+    background: #ffa31a;
 }
 
 form.searchbox::after {
     content: "";
     clear: both;
     display: table;
+}
+
+form.searchbox img {
+	height: 20px;
+	width: 20px;
 }
