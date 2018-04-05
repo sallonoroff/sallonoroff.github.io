@@ -1,7 +1,7 @@
 ---
 id: 125
 title: Recompute.
-date: 2009-02-05T16:41:34+00:00
+date: 2009-02-05 16:41:34 +00:00
 author: mark
 layout: post
 tags:
