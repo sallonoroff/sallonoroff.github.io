@@ -1,7 +1,7 @@
 ---
 id: 78
 title: Uncategorized.
-date: 2009-01-22T15:09:31+00:00
+date: 2009-01-22 15:09:31 +00:00
 author: mark
 layout: post
 tags:
