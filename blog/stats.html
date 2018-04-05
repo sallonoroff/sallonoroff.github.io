@@ -30,13 +30,13 @@ description: Some statistics about the blog, just for me (and the curious amongs
 {% capture monthscalc %}{{ postnM | minus: post1M | divided_by: 12.00 | round: 2 }}{% endcapture %}
 {% capture yearscalc %}{{ postnY | minus: post1Y | plus: monthscalc | round: 1 }}{% endcapture %}
 
-<p>Here are some statistics about the blog. There are no traffic and visitor numbers &mdash; those are too embarrassingly low to share &mdash; it's just stuff about the blog itself, like that there are {{ site.posts.size }} posts here, written across {{ yearscalc }} years. It likely of no interest to anyone but me.</p>
-<p>First post made: <em>{{ post1date }}</em></p>
-<p>Last post made: <em>{{ postndate }}</em></p>
-<p>Number of posts: <em>{{ site.posts.size }}</em></p>
-<p>Total words written: <em>{{ totalwords }}</em></p>
-<p>Total tags used: <em>{{ totaltags }}</em></p>
-<p>Unique tags: <em>{{ site.tags.size }}</em></p>
-<p>Average words per year: <em>{{ totalwords | divided_by: yearscalc | round }}</em></p>
-<p>Average words per post: <em>{{ totalwords | divided_by: site.posts.size | round }}</em></p>
-<p>Average tags per post: <em>{{ totaltags | divided_by: site.posts.size | round }}</em></p>
+<p>Here are some statistics about the blog. There are no traffic and visitor numbers &mdash; those are too embarrassingly low to share &mdash; it's just stuff about the blog itself, like that there are {{ site.posts.size }} posts here, written across {{ yearscalc }} years. It's likely of no interest to anyone but me.</p>
+<p>First post made: <strong>{{ post1date }}</strong></p>
+<p>Last post made: <strong>{{ postndate }}</strong></p>
+<p>Number of posts: <strong>{{ site.posts.size }}</strong></p>
+<p>Total words written: <strong>{{ totalwords }}</strong></p>
+<p>Total tags used: <strong>{{ totaltags }}</strong></p>
+<p>Unique tags: <strong>{{ site.tags.size }}</strong></p>
+<p>Average words per year: <strong>{{ totalwords | divided_by: yearscalc | round: 1 }}</strong></p>
+<p>Average words per post: <strong>{{ totalwords | divided_by: site.posts.size | round: 1 }}</strong></p>
+<p>Average tags per post: <strong>{{ totaltags | divided_by: site.posts.size | round: 1 }}</strong></p>
