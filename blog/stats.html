@@ -29,7 +29,7 @@ description: Some statistics about the blog, just for me (and the curious amongs
 {% endfor %}
 {% capture monthscalc %}{{ postnM | minus: post1M | divided_by: 12.00 | round: 2 }}{% endcapture %}
 {% capture yearscalc %}{{ postnY | minus: post1Y | plus: monthscalc | round: 1 }}{% endcapture %}
-{% capture totalposts %}{{ site.posts.size | times: 1.00 }}
+{% capture totalposts %}{{ site.posts.size | times: 1.00 }}{% endcapture %}
 
 <p>Here are some statistics about the blog. There are no traffic and visitor numbers &mdash; those are too embarrassingly low to share &mdash; it's just stuff about the blog itself, like that there are {{ site.posts.size }} posts here, written across {{ yearscalc }} years. It's likely of no interest to anyone but me.</p>
 <p>First post made: <strong>{{ post1date }}</strong></p>
