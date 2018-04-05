@@ -1,16 +1,15 @@
 ---
 id: 93
 title: When in Windows.
-date: 2009-01-29T14:35:37+00:00
+date: 2009-01-29 14:35:37 +00:00
 author: mark
 layout: post
 tags:
-  - irfanview
-  - paint
   - pc
   - software
   - utilities
   - windows
+  - itunes
 ---
 Two graphics programs i couldn't live without when stuck using a Windows machine (as i am everyday at work) and, if i'm totally honest, wish existed for the Mac...
 
