@@ -1,7 +1,7 @@
 ---
 id: 97
 title: Chest-high Walls.
-date: 2009-01-30T15:21:29+00:00
+date: 2009-01-30 15:21:29 +00:00
 author: mark
 layout: post
 tags:
