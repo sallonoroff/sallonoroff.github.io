@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Some numbers
-description: 
+title: Some Numbers
+description: Some statistics about the blog, just for me (and the curious amongst you).
 ---
 {% assign post1Y = 0 %}
 {% assign post1M = 0 %}
@@ -10,11 +10,12 @@ description:
 {% assign post1date = "blank" %}
 {% assign postndate = "blank" %}
 {% assign totalwords = 0 %}
+{% assign totaltags = 0 %}
 
 {% for post in site.posts %}
   {% assign postswords = post.content | strip_html | number_of_words %}
   {% capture totalwords %}{{ totalwords | plus: postswords }}{% endcapture %}
-  {{ post.title }} has {{ post.tags.size }} tags.
+  {% capture totaltags %}{{ totaltags | plus: post.tags.size }}{% endcapture %}
   {% if forloop.first %}
     {% capture postnY %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture postnM %}{{ post.date | date: '%-m' }}{% endcapture %}
@@ -29,10 +30,13 @@ description:
 {% capture monthscalc %}{{ postnM | minus: post1M | divided_by: 12.00 | round: 2 }}{% endcapture %}
 {% capture yearscalc %}{{ postnY | minus: post1Y | plus: monthscalc | round: 1 }}{% endcapture %}
 
-<p>There are {{ site.posts.size }} posts on the blog, written across {{ yearscalc }} years.</p>
-<p>First post made: {{ post1date }}</p>
-<p>Last post made: {{ postndate }}</p>
-<p>Total words written: {{ totalwords }}</p>
-<p>Average words per year: {{ totalwords | divided_by: yearscalc | round }}</p>
-<p>Average words per post: {{ totalwords | divided_by: site.posts.size | round }}</p>
-<p>Total tags applied: {{ site.tags.size }}</p>
+<p>Here are some statistics about the blog. There are no traffic and visitor numbers &mdash; those are too embarrassingly low to share &mdash; it's just stuff about the blog itself, like that there are {{ site.posts.size }} posts here, written across {{ yearscalc }} years. It likely of no interest to anyone but me.</p>
+<p>First post made: <em>{{ post1date }}</em></p>
+<p>Last post made: <em>{{ postndate }}</em></p>
+<p>Number of posts: <em>{{ site.posts.size }}</em></p>
+<p>Total words written: <em>{{ totalwords }}</em></p>
+<p>Total tags used: <em>{{ totaltags }}</em></p>
+<p>Unique tags: <em>{{ site.tags.size }}</em></p>
+<p>Average words per year: <em>{{ totalwords | divided_by: yearscalc | round }}</em></p>
+<p>Average words per post: <em>{{ totalwords | divided_by: site.posts.size | round }}</em></p>
+<p>Average tags per post: <em>{{ totaltags | divided_by: site.posts.size | round }}</em></p>
