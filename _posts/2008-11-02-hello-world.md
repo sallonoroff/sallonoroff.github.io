@@ -1,7 +1,7 @@
 ---
 id: 1
 title: hello world.
-date: 2008-11-02T22:16:14+00:00
+date: 2008-11-02 22:16:14 +00:00
 author: mark
 layout: post
 tags:
