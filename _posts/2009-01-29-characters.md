@@ -1,7 +1,7 @@
 ---
 id: 86
 title: Characters.
-date: 2009-01-29T14:05:55+00:00
+date: 2009-01-29 14:05:55 +00:00
 author: mark
 layout: post
 tags:
