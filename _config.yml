@@ -5,7 +5,7 @@ permalink:           /blog/:year/:month/:title/ #changed from Poole's default to
 # Setup
 title:               sallonoroff
 tagline:             some thoughts on things made with ones and noughts
-description:         some thoughts on things made with ones and noughts
+description:         The personal website of Mark Wainwright. Basically, some thoughts on things made with ones and noughts.
 lang:                en_GB
 url:                 http://www.sallonoroff.co.uk
 paginate:            5
@@ -41,6 +41,5 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-
 # This is the list of pages to incldue in the header of the website for navigation
-pages_list:          {'/about':'/about', '/blog':'/blog', '/blog/archive':'/blog/archive'}
+pages_list:          {'/about':'/about', '/blog':'/blog', '/blog/archive':'/blog/archive', '/blog/stats':'/blog/stats', 'search':'/search'}
