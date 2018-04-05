@@ -1,7 +1,7 @@
 ---
 id: 43
 title: Dead Barracuda?
-date: 2009-01-19T11:46:48+00:00
+date: 2009-01-19 11:46:48 +00:00
 author: mark
 layout: post
 tags:
