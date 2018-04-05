@@ -29,14 +29,17 @@ description: Some statistics about the blog, just for me (and the curious amongs
 {% endfor %}
 {% capture monthscalc %}{{ postnM | minus: post1M | divided_by: 12.00 | round: 2 }}{% endcapture %}
 {% capture yearscalc %}{{ postnY | minus: post1Y | plus: monthscalc | round: 1 }}{% endcapture %}
+{% capture totalposts %}{{ site.posts.size | times: 1.00 }}
 
 <p>Here are some statistics about the blog. There are no traffic and visitor numbers &mdash; those are too embarrassingly low to share &mdash; it's just stuff about the blog itself, like that there are {{ site.posts.size }} posts here, written across {{ yearscalc }} years. It's likely of no interest to anyone but me.</p>
 <p>First post made: <strong>{{ post1date }}</strong></p>
 <p>Last post made: <strong>{{ postndate }}</strong></p>
-<p>Number of posts: <strong>{{ site.posts.size }}</strong></p>
+<p>Number of posts: <strong>{{ totalposts | round }}</strong></p>
 <p>Total words written: <strong>{{ totalwords }}</strong></p>
 <p>Total tags used: <strong>{{ totaltags }}</strong></p>
 <p>Unique tags: <strong>{{ site.tags.size }}</strong></p>
+<!-- <p>Most used tag: <strong> COULD BE CALCULATED </strong></p> -->
+<p>Average posts per year: <strong>{{ totalposts | divided_by: yearscalc | round: 1 }}</strong></p>
 <p>Average words per year: <strong>{{ totalwords | divided_by: yearscalc | round: 1 }}</strong></p>
-<p>Average words per post: <strong>{{ totalwords | divided_by: site.posts.size | round: 1 }}</strong></p>
-<p>Average tags per post: <strong>{{ totaltags | divided_by: site.posts.size | round: 1 }}</strong></p>
+<p>Average words per post: <strong>{{ totalwords | divided_by: totalposts | round: 1 }}</strong></p>
+<p>Average tags per post: <strong>{{ totaltags | divided_by: totalposts | round: 1 }}</strong></p>
