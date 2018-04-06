@@ -1,12 +1,12 @@
 ---
 id: 145
 title: New kit from Sony.
-date: 2009-02-10T15:21:04+00:00
+date: 2009-02-10 15:21:04 +00:00
 author: mark
 layout: post
 tags:
   - arbitrary
-  - onion
+  - the onion
   - sony
   - videos
 ---
