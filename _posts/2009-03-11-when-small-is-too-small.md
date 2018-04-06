@@ -1,7 +1,7 @@
 ---
 id: 333
 title: When small is too small.
-date: 2009-03-11T16:45:31+00:00
+date: 2009-03-11 16:45:31 +00:00
 author: mark
 layout: post
 tags:

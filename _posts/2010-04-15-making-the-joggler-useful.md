@@ -1,7 +1,7 @@
 ---
 id: 883
 title: Making the Joggler useful.
-date: 2010-04-15T12:44:05+00:00
+date: 2010-04-15 12:44:05 +00:00
 author: mark
 layout: post
 tags:

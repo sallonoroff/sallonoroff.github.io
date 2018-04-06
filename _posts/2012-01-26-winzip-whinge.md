@@ -1,7 +1,7 @@
 ---
 id: 1481
 title: WinZip whinge.
-date: 2012-01-26T11:33:24+00:00
+date: 2012-01-26 11:33:24 +00:00
 author: mark
 layout: post
 tags:

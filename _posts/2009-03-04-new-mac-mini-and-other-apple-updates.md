@@ -1,7 +1,7 @@
 ---
 id: 290
 title: New Mac Mini. And other Apple updates.
-date: 2009-03-04T16:44:32+00:00
+date: 2009-03-04 16:44:32 +00:00
 author: mark
 layout: post
 tags:

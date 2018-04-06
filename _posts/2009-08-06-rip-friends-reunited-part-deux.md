@@ -1,7 +1,7 @@
 ---
 id: 614
 title: RIP Friends Reunited? Part Deux.
-date: 2009-08-06T10:41:08+00:00
+date: 2009-08-06 10:41:08 +00:00
 author: mark
 layout: post
 tags:

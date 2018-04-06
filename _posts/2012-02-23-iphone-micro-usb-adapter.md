@@ -1,7 +1,7 @@
 ---
 id: 1487
 title: iPhone Micro USB adapter.
-date: 2012-02-23T10:32:50+00:00
+date: 2012-02-23 10:32:50 +00:00
 author: mark
 layout: post
 tags:

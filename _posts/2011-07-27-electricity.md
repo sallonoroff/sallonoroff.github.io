@@ -1,7 +1,7 @@
 ---
 id: 1367
 title: Electricity.
-date: 2011-07-27T00:32:33+00:00
+date: 2011-07-27 00:32:33 +00:00
 author: mark
 layout: post
 tags:

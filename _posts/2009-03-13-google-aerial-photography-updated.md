@@ -1,7 +1,7 @@
 ---
 id: 345
 title: 'Google&#8217;s aerial photography updated.'
-date: 2009-03-13T11:56:01+00:00
+date: 2009-03-13 11:56:01 +00:00
 author: mark
 layout: post
 tags:

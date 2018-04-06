@@ -1,12 +1,12 @@
 ---
 id: 152
 title: Gorman on Gravy.
-date: 2009-02-11T22:52:08+00:00
+date: 2009-02-11 22:52:08 +00:00
 author: mark
 layout: post
 tags:
   - arbitrary
-  - bad science
+  - science
   - dave gorman
   - gravy
   - not so tech

@@ -1,7 +1,7 @@
 ---
 id: 288
 title: Not The Onion.
-date: 2009-03-03T16:02:02+00:00
+date: 2009-03-03 16:02:02 +00:00
 author: mark
 layout: post
 tags:

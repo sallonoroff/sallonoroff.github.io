@@ -1,7 +1,7 @@
 ---
 id: 1127
 title: Dear Google.
-date: 2011-01-26T10:47:34+00:00
+date: 2011-01-26 10:47:34 +00:00
 author: mark
 layout: post
 tags:

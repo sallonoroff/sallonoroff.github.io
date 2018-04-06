@@ -1,7 +1,7 @@
 ---
 id: 758
 title: Adamo Ex Pee Es.
-date: 2009-11-06T16:20:57+00:00
+date: 2009-11-06 16:20:57 +00:00
 author: mark
 layout: post
 tags:

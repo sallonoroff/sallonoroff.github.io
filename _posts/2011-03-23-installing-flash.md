@@ -1,7 +1,7 @@
 ---
 id: 1223
 title: Installing Flash.
-date: 2011-03-23T14:48:50+00:00
+date: 2011-03-23 14:48:50 +00:00
 author: mark
 layout: post
 tags:

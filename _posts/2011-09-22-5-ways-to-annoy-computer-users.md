@@ -1,7 +1,7 @@
 ---
 id: 1389
 title: 5 ways to annoy computer users.
-date: 2011-09-22T14:33:43+00:00
+date: 2011-09-22 14:33:43 +00:00
 author: mark
 layout: post
 tags:

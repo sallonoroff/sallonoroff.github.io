@@ -1,7 +1,7 @@
 ---
 id: 1701
 title: Fullscreen Firefox in Mountain Lion.
-date: 2012-08-14T12:07:02+00:00
+date: 2012-08-14 12:07:02 +00:00
 author: mark
 layout: post
 tags:

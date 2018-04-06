@@ -1,7 +1,7 @@
 ---
 id: 1757
 title: Bono on Ive.
-date: 2013-08-27T09:40:07+00:00
+date: 2013-08-27 09:40:07 +00:00
 author: mark
 layout: post
 tags:

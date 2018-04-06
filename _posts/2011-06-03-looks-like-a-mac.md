@@ -1,7 +1,7 @@
 ---
 id: 1255
 title: Looks like a Mac.
-date: 2011-06-03T08:53:15+00:00
+date: 2011-06-03 08:53:15 +00:00
 author: mark
 layout: post
 tags:

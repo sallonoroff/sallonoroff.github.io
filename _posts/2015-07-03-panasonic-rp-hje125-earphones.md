@@ -1,7 +1,7 @@
 ---
 id: 1855
 title: Panasonic RP-HJE125 earphones.
-date: 2015-07-03T17:36:40+00:00
+date: 2015-07-03 17:36:40 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 438
 title: Some things what i saw on twitter.
-date: 2009-04-08T16:02:06+00:00
+date: 2009-04-08 16:02:06 +00:00
 author: mark
 layout: post
 tags:

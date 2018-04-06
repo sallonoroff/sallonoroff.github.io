@@ -1,7 +1,7 @@
 ---
 id: 1209
 title: 'That&#8217;s how i roll.'
-date: 2011-03-04T16:12:41+00:00
+date: 2011-03-04 16:12:41 +00:00
 author: mark
 layout: post
 tags:

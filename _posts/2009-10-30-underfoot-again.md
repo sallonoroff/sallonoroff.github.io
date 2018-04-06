@@ -1,7 +1,7 @@
 ---
 id: 745
 title: Underfoot. Again.
-date: 2009-10-30T14:01:18+00:00
+date: 2009-10-30 14:01:18 +00:00
 author: mark
 layout: post
 tags:

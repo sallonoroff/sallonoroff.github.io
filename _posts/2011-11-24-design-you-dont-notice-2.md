@@ -1,7 +1,7 @@
 ---
 id: 1437
 title: 'Design you don&#8217;t notice. (2)'
-date: 2011-11-24T10:56:21+00:00
+date: 2011-11-24 10:56:21 +00:00
 author: mark
 layout: post
 tags:

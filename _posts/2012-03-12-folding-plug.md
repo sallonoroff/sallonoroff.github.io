@@ -1,7 +1,7 @@
 ---
 id: 1574
 title: Folding plug.
-date: 2012-03-12T14:05:07+00:00
+date: 2012-03-12 14:05:07 +00:00
 author: mark
 layout: post
 tags:

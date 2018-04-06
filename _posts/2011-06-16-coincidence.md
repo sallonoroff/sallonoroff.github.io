@@ -1,7 +1,7 @@
 ---
 id: 1177
 title: Coincidence.
-date: 2011-06-16T11:43:52+00:00
+date: 2011-06-16 11:43:52 +00:00
 author: mark
 layout: post
 tags:

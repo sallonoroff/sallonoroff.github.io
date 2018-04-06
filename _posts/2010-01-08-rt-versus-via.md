@@ -1,7 +1,7 @@
 ---
 id: 799
 title: RT versus Via.
-date: 2010-01-08T16:28:09+00:00
+date: 2010-01-08 16:28:09 +00:00
 author: mark
 layout: post
 tags:

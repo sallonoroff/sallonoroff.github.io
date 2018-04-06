@@ -1,7 +1,7 @@
 ---
 id: 430
 title: Opening the Guardian.
-date: 2009-04-06T10:38:13+00:00
+date: 2009-04-06 10:38:13 +00:00
 author: mark
 layout: post
 tags:

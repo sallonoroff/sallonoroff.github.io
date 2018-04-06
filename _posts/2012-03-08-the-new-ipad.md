@@ -1,7 +1,7 @@
 ---
 id: 1634
 title: The new iPad.
-date: 2012-03-08T12:40:58+00:00
+date: 2012-03-08 12:40:58 +00:00
 author: mark
 layout: post
 tags:

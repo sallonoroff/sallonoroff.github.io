@@ -1,7 +1,7 @@
 ---
 id: 262
 title: Safari 4 beta (Mac)
-date: 2009-02-26T21:58:46+00:00
+date: 2009-02-26 21:58:46 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1669
 title: The greatest geek who ever lived.
-date: 2012-05-15T12:01:32+00:00
+date: 2012-05-15 12:01:32 +00:00
 author: mark
 layout: post
 tags:

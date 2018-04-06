@@ -1,7 +1,7 @@
 ---
 id: 220
 title: 'Microsoft&#8217;s Stores all about Propaganda?'
-date: 2009-02-18T11:18:27+00:00
+date: 2009-02-18 11:18:27 +00:00
 author: mark
 layout: post
 tags:

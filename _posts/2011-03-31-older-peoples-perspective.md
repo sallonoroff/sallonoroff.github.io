@@ -1,7 +1,7 @@
 ---
 id: 1235
 title: 'Older people&#8217;s perspective.'
-date: 2011-03-31T15:14:31+00:00
+date: 2011-03-31 15:14:31 +00:00
 author: mark
 layout: post
 tags:

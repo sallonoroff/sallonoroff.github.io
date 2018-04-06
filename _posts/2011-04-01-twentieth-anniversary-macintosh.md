@@ -1,7 +1,7 @@
 ---
 id: 1237
 title: Twentieth Anniversary Macintosh.
-date: 2011-04-01T09:44:20+00:00
+date: 2011-04-01 09:44:20 +00:00
 author: mark
 layout: post
 tags:

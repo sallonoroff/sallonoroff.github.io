@@ -1,7 +1,7 @@
 ---
 id: 603
 title: Selling shiny objects to magpies.
-date: 2009-06-29T15:27:26+00:00
+date: 2009-06-29 15:27:26 +00:00
 author: mark
 layout: post
 tags:

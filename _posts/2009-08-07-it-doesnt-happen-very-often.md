@@ -1,7 +1,7 @@
 ---
 id: 622
 title: 'It doesn&#8217;t happen very often.'
-date: 2009-08-07T12:14:29+00:00
+date: 2009-08-07 12:14:29 +00:00
 author: mark
 layout: post
 tags:

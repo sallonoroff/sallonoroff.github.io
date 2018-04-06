@@ -1,7 +1,7 @@
 ---
 id: 325
 title: Problems with WordPress.com Stats.
-date: 2009-03-11T14:44:03+00:00
+date: 2009-03-11 14:44:03 +00:00
 author: mark
 layout: post
 tags:

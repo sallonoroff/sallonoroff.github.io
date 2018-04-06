@@ -1,7 +1,7 @@
 ---
 id: 1498
 title: '&#8220;I have opinions on most things, so&#8230;&#8221;'
-date: 2012-10-04T16:09:28+00:00
+date: 2012-10-04 16:09:28 +00:00
 author: mark
 layout: post
 tags:

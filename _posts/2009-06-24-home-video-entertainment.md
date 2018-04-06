@@ -1,7 +1,7 @@
 ---
 id: 576
 title: Home video entertainment.
-date: 2009-06-24T15:48:23+00:00
+date: 2009-06-24 15:48:23 +00:00
 author: mark
 layout: post
 tags:

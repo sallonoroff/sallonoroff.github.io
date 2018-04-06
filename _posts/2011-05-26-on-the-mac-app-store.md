@@ -1,7 +1,7 @@
 ---
 id: 1138
 title: On the Mac App Store.
-date: 2011-05-26T10:06:25+00:00
+date: 2011-05-26 10:06:25 +00:00
 author: mark
 layout: post
 tags:

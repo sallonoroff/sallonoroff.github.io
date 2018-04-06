@@ -1,7 +1,7 @@
 ---
 id: 349
 title: 'Apple&#8217;s virtual torch.'
-date: 2009-03-13T12:36:34+00:00
+date: 2009-03-13 12:36:34 +00:00
 author: mark
 layout: post
 tags:

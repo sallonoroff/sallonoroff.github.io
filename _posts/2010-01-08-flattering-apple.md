@@ -1,7 +1,7 @@
 ---
 id: 791
 title: Flattering Apple.
-date: 2010-01-08T14:26:52+00:00
+date: 2010-01-08 14:26:52 +00:00
 author: mark
 layout: post
 tags:

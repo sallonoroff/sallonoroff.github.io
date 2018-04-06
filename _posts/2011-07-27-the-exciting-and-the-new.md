@@ -1,7 +1,7 @@
 ---
 id: 1362
 title: The exciting and the new.
-date: 2011-07-27T00:18:41+00:00
+date: 2011-07-27 00:18:41 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1057
 title: A simple gallery.
-date: 2010-10-15T09:42:16+00:00
+date: 2010-10-15 09:42:16 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 316
 title: LED Lightbulbs.
-date: 2009-03-10T16:23:04+00:00
+date: 2009-03-10 16:23:04 +00:00
 author: mark
 layout: post
 tags:

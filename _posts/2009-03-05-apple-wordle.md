@@ -1,7 +1,7 @@
 ---
 id: 307
 title: Apple Wordle.
-date: 2009-03-05T16:39:52+00:00
+date: 2009-03-05 16:39:52 +00:00
 author: mark
 layout: post
 tags:

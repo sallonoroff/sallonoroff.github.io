@@ -1,7 +1,7 @@
 ---
 id: 249
 title: Why Gmail broke.
-date: 2009-02-25T14:42:48+00:00
+date: 2009-02-25 14:42:48 +00:00
 author: mark
 layout: post
 tags:

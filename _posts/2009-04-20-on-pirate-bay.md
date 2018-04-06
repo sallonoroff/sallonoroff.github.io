@@ -1,7 +1,7 @@
 ---
 id: 449
 title: On Pirate Bay.
-date: 2009-04-20T14:46:34+00:00
+date: 2009-04-20 14:46:34 +00:00
 author: mark
 layout: post
 tags:

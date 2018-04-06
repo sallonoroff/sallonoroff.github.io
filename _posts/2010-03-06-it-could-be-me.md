@@ -1,7 +1,7 @@
 ---
 id: 839
 title: It could be me.
-date: 2010-03-06T00:14:38+00:00
+date: 2010-03-06 00:14:38 +00:00
 author: mark
 layout: post
 tags:

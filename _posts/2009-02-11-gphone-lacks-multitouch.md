@@ -1,7 +1,7 @@
 ---
 id: 148
 title: gPhone lacks multi-touch because of Apple?
-date: 2009-02-11T12:16:00+00:00
+date: 2009-02-11 12:16:00 +00:00
 author: mark
 layout: post
 tags:

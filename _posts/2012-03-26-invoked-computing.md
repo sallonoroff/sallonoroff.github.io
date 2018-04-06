@@ -1,7 +1,7 @@
 ---
 id: 1541
 title: Invoked Computing.
-date: 2012-03-26T11:24:32+00:00
+date: 2012-03-26 11:24:32 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 236
 title: A little more on headphones.
-date: 2009-02-23T12:49:51+00:00
+date: 2009-02-23 12:49:51 +00:00
 author: mark
 layout: post
 tags:

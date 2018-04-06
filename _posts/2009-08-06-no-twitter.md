@@ -1,7 +1,7 @@
 ---
 id: 620
 title: No Twitter.
-date: 2009-08-06T16:10:42+00:00
+date: 2009-08-06 16:10:42 +00:00
 author: mark
 layout: post
 tags:

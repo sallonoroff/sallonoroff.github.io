@@ -1,7 +1,7 @@
 ---
 id: 381
 title: Imaging disk partitions.
-date: 2009-03-20T16:06:17+00:00
+date: 2009-03-20 16:06:17 +00:00
 author: mark
 layout: post
 tags:

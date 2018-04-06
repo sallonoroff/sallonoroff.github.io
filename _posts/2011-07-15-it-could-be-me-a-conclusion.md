@@ -1,7 +1,7 @@
 ---
 id: 1355
 title: It could be me. A conclusion.
-date: 2011-07-15T12:45:22+00:00
+date: 2011-07-15 12:45:22 +00:00
 author: mark
 layout: post
 tags:

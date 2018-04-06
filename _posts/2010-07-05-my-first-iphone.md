@@ -1,7 +1,7 @@
 ---
 id: 937
 title: My first iPhone.
-date: 2010-07-05T23:08:42+00:00
+date: 2010-07-05 23:08:42 +00:00
 author: mark
 layout: post
 tags:

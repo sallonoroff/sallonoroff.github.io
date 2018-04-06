@@ -1,7 +1,7 @@
 ---
 id: 374
 title: Adamo by Dell.
-date: 2009-03-17T16:30:43+00:00
+date: 2009-03-17 16:30:43 +00:00
 author: mark
 layout: post
 tags:

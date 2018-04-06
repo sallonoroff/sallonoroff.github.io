@@ -1,7 +1,7 @@
 ---
 id: 901
 title: What, this old thing?
-date: 2010-06-01T21:33:26+00:00
+date: 2010-06-01 21:33:26 +00:00
 author: mark
 layout: post
 tags:

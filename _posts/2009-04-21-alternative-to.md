@@ -1,7 +1,7 @@
 ---
 id: 464
 title: Alternative To.
-date: 2009-04-21T14:05:57+00:00
+date: 2009-04-21 14:05:57 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 467
 title: 'Mirror&#8217;s Edge &#8211; A review in exactly 200 words.'
-date: 2009-04-22T12:21:17+00:00
+date: 2009-04-22 12:21:17 +00:00
 author: mark
 layout: post
 tags:

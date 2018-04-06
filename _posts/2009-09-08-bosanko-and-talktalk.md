@@ -1,7 +1,7 @@
 ---
 id: 688
 title: Bosanko and TalkTalk.
-date: 2009-09-08T13:41:07+00:00
+date: 2009-09-08 13:41:07 +00:00
 author: mark
 layout: post
 tags:

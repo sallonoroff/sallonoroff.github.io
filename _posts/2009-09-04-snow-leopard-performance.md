@@ -1,7 +1,7 @@
 ---
 id: 674
 title: Snow Leopard performance.
-date: 2009-09-04T11:56:08+00:00
+date: 2009-09-04 11:56:08 +00:00
 author: mark
 layout: post
 tags:

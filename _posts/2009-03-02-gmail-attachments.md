@@ -1,7 +1,7 @@
 ---
 id: 269
 title: Gmail attachments.
-date: 2009-03-02T13:31:09+00:00
+date: 2009-03-02 13:31:09 +00:00
 author: mark
 layout: post
 tags:

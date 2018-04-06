@@ -1,7 +1,7 @@
 ---
 id: 1321
 title: Apple censoring mail?
-date: 2011-07-06T13:38:41+00:00
+date: 2011-07-06 13:38:41 +00:00
 author: mark
 layout: post
 tags:

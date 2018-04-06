@@ -1,7 +1,7 @@
 ---
 id: 1102
 title: Go compare.
-date: 2011-01-20T17:06:50+00:00
+date: 2011-01-20 17:06:50 +00:00
 author: mark
 layout: post
 tags:

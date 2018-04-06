@@ -1,7 +1,7 @@
 ---
 id: 1687
 title: Mountain Lion, iOS 6 and new MacBooks.
-date: 2012-06-13T15:24:03+00:00
+date: 2012-06-13 15:24:03 +00:00
 author: mark
 layout: post
 tags:

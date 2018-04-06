@@ -1,7 +1,7 @@
 ---
 id: 523
 title: 'Microsoft&#8217;s billions.'
-date: 2009-05-13T13:55:54+00:00
+date: 2009-05-13 13:55:54 +00:00
 author: mark
 layout: post
 tags:

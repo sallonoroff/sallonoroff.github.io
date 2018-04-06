@@ -1,7 +1,7 @@
 ---
 id: 960
 title: That iPhone 4 antenna problem.
-date: 2010-07-15T14:36:43+00:00
+date: 2010-07-15 14:36:43 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 606
 title: Please everybody. Please nobody.
-date: 2009-07-31T10:53:03+00:00
+date: 2009-07-31 10:53:03 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1846
 title: Cheap headphones.
-date: 2013-11-22T13:49:54+00:00
+date: 2013-11-22 13:49:54 +00:00
 author: mark
 layout: post
 tags:

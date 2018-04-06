@@ -1,7 +1,7 @@
 ---
 id: 1466
 title: Remote capture.
-date: 2012-01-24T16:16:41+00:00
+date: 2012-01-24 16:16:41 +00:00
 author: mark
 layout: post
 tags:

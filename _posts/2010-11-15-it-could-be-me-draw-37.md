@@ -1,7 +1,7 @@
 ---
 id: 1072
 title: 'It could be me. (Draw #37)'
-date: 2010-11-15T11:17:48+00:00
+date: 2010-11-15 11:17:48 +00:00
 author: mark
 layout: post
 tags:

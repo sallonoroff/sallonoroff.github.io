@@ -1,7 +1,7 @@
 ---
 id: 157
 title: White MacBook Reviewed.
-date: 2009-02-13T11:18:59+00:00
+date: 2009-02-13 11:18:59 +00:00
 author: mark
 layout: post
 tags:

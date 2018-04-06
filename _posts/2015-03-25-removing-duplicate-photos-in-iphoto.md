@@ -1,7 +1,7 @@
 ---
 id: 1853
 title: Removing duplicate photos in iPhoto.
-date: 2015-03-25T12:37:50+00:00
+date: 2015-03-25 12:37:50 +00:00
 author: mark
 layout: post
 tags:

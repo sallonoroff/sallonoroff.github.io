@@ -1,7 +1,7 @@
 ---
 id: 682
 title: 'This is a call&#8230;'
-date: 2009-09-04T13:33:27+00:00
+date: 2009-09-04 13:33:27 +00:00
 author: mark
 layout: post
 tags:

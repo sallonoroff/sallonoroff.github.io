@@ -1,7 +1,7 @@
 ---
 id: 1576
 title: Ubuntu for Android.
-date: 2012-03-07T11:12:07+00:00
+date: 2012-03-07 11:12:07 +00:00
 author: mark
 layout: post
 tags:

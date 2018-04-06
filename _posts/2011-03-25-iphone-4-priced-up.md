@@ -1,7 +1,7 @@
 ---
 id: 1225
 title: iPhone 4 priced up.
-date: 2011-03-25T16:32:48+00:00
+date: 2011-03-25 16:32:48 +00:00
 author: mark
 layout: post
 tags:

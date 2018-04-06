@@ -1,7 +1,7 @@
 ---
 id: 1451
 title: Dear Photograph.
-date: 2012-01-23T16:57:24+00:00
+date: 2012-01-23 16:57:24 +00:00
 author: mark
 layout: post
 tags:

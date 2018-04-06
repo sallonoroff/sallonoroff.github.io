@@ -1,7 +1,7 @@
 ---
 id: 1878
 title: Apple Airport firmware updates.
-date: 2015-07-03T15:52:55+00:00
+date: 2015-07-03 15:52:55 +00:00
 author: mark
 layout: post
 tags:

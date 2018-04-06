@@ -1,7 +1,7 @@
 ---
 id: 572
 title: WWDC round-up.
-date: 2009-06-23T10:58:50+00:00
+date: 2009-06-23 10:58:50 +00:00
 author: mark
 layout: post
 tags:

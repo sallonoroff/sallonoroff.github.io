@@ -1,7 +1,7 @@
 ---
 id: 1662
 title: Revealing your Facebook profile.
-date: 2012-05-18T16:55:59+00:00
+date: 2012-05-18 16:55:59 +00:00
 author: mark
 layout: post
 tags:

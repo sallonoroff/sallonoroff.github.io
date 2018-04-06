@@ -1,7 +1,7 @@
 ---
 id: 701
 title: Eee Keyboard coming soon.
-date: 2009-09-15T13:11:30+00:00
+date: 2009-09-15 13:11:30 +00:00
 author: mark
 layout: post
 tags:

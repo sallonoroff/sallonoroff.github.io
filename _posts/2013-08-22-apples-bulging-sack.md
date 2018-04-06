@@ -1,7 +1,7 @@
 ---
 id: 1763
 title: 'Apple&#8217;s bulging sack.'
-date: 2013-08-22T14:06:18+00:00
+date: 2013-08-22 14:06:18 +00:00
 author: mark
 layout: post
 tags:

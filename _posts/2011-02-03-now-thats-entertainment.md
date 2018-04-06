@@ -1,7 +1,7 @@
 ---
 id: 1122
 title: 'Now that&#8217;s entertainment.'
-date: 2011-02-03T09:49:50+00:00
+date: 2011-02-03 09:49:50 +00:00
 author: mark
 layout: post
 tags:

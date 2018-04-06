@@ -1,7 +1,7 @@
 ---
 id: 1606
 title: Lytro reviewed.
-date: 2012-03-02T10:36:51+00:00
+date: 2012-03-02 10:36:51 +00:00
 author: mark
 layout: post
 tags:

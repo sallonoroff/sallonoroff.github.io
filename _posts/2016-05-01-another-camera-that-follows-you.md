@@ -1,7 +1,7 @@
 ---
 id: 2022
 title: Another camera that follows you.
-date: 2016-05-01T21:52:32+00:00
+date: 2016-05-01 21:52:32 +00:00
 author: mark
 layout: post
 tags:

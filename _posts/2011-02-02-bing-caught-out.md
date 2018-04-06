@@ -1,7 +1,7 @@
 ---
 id: 1158
 title: Bing caught out.
-date: 2011-02-02T12:23:55+00:00
+date: 2011-02-02 12:23:55 +00:00
 author: mark
 layout: post
 tags:

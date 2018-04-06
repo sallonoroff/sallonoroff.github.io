@@ -1,7 +1,7 @@
 ---
 id: 441
 title: 'Literally &#8220;unnecessary&#8221; apostrophe&#8217;s.'
-date: 2009-04-13T20:49:26+00:00
+date: 2009-04-13 20:49:26 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 279
 title: Eee Keyboard.
-date: 2009-03-03T13:13:53+00:00
+date: 2009-03-03 13:13:53 +00:00
 author: mark
 layout: post
 tags:

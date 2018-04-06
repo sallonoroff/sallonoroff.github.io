@@ -1,7 +1,7 @@
 ---
 id: 713
 title: Those new HP ENVY notebooks.
-date: 2009-10-06T15:18:54+00:00
+date: 2009-10-06 15:18:54 +00:00
 author: mark
 layout: post
 tags:

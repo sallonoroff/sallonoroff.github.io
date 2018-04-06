@@ -1,7 +1,7 @@
 ---
 id: 927
 title: Recent technological happenings
-date: 2010-06-21T13:23:22+00:00
+date: 2010-06-21 13:23:22 +00:00
 author: mark
 layout: post
 tags:

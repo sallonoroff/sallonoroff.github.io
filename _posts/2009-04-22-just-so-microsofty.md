@@ -1,7 +1,7 @@
 ---
 id: 484
 title: 'Just so&#8230; Microsofty.'
-date: 2009-04-22T14:46:08+00:00
+date: 2009-04-22 14:46:08 +00:00
 author: mark
 layout: post
 tags:

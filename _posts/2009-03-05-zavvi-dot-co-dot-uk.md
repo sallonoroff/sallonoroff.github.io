@@ -1,7 +1,7 @@
 ---
 id: 294
 title: Zavvi dot co dot uk.
-date: 2009-03-05T16:04:02+00:00
+date: 2009-03-05 16:04:02 +00:00
 author: mark
 layout: post
 tags:

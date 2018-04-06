@@ -1,7 +1,7 @@
 ---
 id: 649
 title: Shiny new Apple products.
-date: 2009-08-19T21:57:03+00:00
+date: 2009-08-19 21:57:03 +00:00
 author: mark
 layout: post
 tags:

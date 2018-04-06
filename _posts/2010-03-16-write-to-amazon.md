@@ -1,7 +1,7 @@
 ---
 id: 808
 title: Write to Amazon.
-date: 2010-03-16T13:19:30+00:00
+date: 2010-03-16 13:19:30 +00:00
 author: mark
 layout: post
 tags:

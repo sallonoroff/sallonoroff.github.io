@@ -1,7 +1,7 @@
 ---
 id: 424
 title: The iPhone platform.
-date: 2009-04-02T10:27:40+00:00
+date: 2009-04-02 10:27:40 +00:00
 author: mark
 layout: post
 tags:

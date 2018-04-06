@@ -1,7 +1,7 @@
 ---
 id: 1175
 title: iPhone 4 ownership one year on.
-date: 2011-07-01T13:02:58+00:00
+date: 2011-07-01 13:02:58 +00:00
 author: mark
 layout: post
 tags:

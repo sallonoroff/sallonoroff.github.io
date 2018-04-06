@@ -1,7 +1,7 @@
 ---
 id: 392
 title: Adamo Again.
-date: 2009-03-23T12:58:28+00:00
+date: 2009-03-23 12:58:28 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1384
 title: A busy fortnight.
-date: 2011-08-26T16:10:14+00:00
+date: 2011-08-26 16:10:14 +00:00
 author: mark
 layout: post
 tags:

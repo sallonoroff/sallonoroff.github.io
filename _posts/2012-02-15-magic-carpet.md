@@ -1,7 +1,7 @@
 ---
 id: 1538
 title: Magic carpet.
-date: 2012-02-15T10:08:22+00:00
+date: 2012-02-15 10:08:22 +00:00
 author: mark
 layout: post
 tags:

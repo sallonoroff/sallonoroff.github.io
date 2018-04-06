@@ -1,7 +1,7 @@
 ---
 id: 363
 title: iPhone OS 3.0 speculation.
-date: 2009-03-17T14:59:13+00:00
+date: 2009-03-17 14:59:13 +00:00
 author: mark
 layout: post
 tags:

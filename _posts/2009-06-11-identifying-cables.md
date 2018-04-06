@@ -1,7 +1,7 @@
 ---
 id: 559
 title: Identifying cables.
-date: 2009-06-11T16:02:08+00:00
+date: 2009-06-11 16:02:08 +00:00
 author: mark
 layout: post
 tags:

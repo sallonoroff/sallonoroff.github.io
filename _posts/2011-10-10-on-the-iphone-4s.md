@@ -1,7 +1,7 @@
 ---
 id: 1394
 title: On the iPhone 4S.
-date: 2011-10-10T11:05:53+00:00
+date: 2011-10-10 11:05:53 +00:00
 author: mark
 layout: post
 tags:

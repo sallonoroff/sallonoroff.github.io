@@ -1,7 +1,7 @@
 ---
 id: 1980
 title: 'When the OS X Installer can&#8217;t be verified.'
-date: 2016-02-22T13:22:44+00:00
+date: 2016-02-22 13:22:44 +00:00
 author: mark
 layout: post
 tags:

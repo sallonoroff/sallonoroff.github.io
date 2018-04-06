@@ -1,7 +1,7 @@
 ---
 id: 742
 title: FAT32 formatting in Windows XP.
-date: 2009-10-22T15:54:55+00:00
+date: 2009-10-22 15:54:55 +00:00
 author: mark
 layout: post
 tags:

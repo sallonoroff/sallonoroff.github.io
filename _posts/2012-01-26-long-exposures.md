@@ -1,7 +1,7 @@
 ---
 id: 1459
 title: Long exposures.
-date: 2012-01-26T10:00:50+00:00
+date: 2012-01-26 10:00:50 +00:00
 author: mark
 layout: post
 tags:

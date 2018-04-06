@@ -1,7 +1,7 @@
 ---
 id: 817
 title: 'Apple&#8217;s Joggler.'
-date: 2010-01-28T16:22:49+00:00
+date: 2010-01-28 16:22:49 +00:00
 author: mark
 layout: post
 tags:

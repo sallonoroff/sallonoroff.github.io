@@ -1,7 +1,7 @@
 ---
 id: 1381
 title: Traffic egg-timer.
-date: 2011-08-26T15:10:18+00:00
+date: 2011-08-26 15:10:18 +00:00
 author: mark
 layout: post
 tags:

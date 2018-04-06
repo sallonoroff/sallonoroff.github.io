@@ -1,7 +1,7 @@
 ---
 id: 1548
 title: 'Dell&#8217;s MacBook Air.'
-date: 2012-02-29T13:39:12+00:00
+date: 2012-02-29 13:39:12 +00:00
 author: mark
 layout: post
 tags:

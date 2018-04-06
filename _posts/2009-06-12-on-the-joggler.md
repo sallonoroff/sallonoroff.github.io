@@ -1,7 +1,7 @@
 ---
 id: 568
 title: On the Joggler.
-date: 2009-06-12T14:51:35+00:00
+date: 2009-06-12 14:51:35 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1331
 title: Everything is a remix.
-date: 2011-07-07T12:57:26+00:00
+date: 2011-07-07 12:57:26 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 633
 title: Secondary display. On a camera.
-date: 2009-08-14T16:44:49+00:00
+date: 2009-08-14 16:44:49 +00:00
 author: mark
 layout: post
 tags:

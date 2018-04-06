@@ -1,7 +1,7 @@
 ---
 id: 1340
 title: Reducing the life of your lightbulbs.
-date: 2011-07-11T09:19:49+00:00
+date: 2011-07-11 09:19:49 +00:00
 author: mark
 layout: post
 tags:

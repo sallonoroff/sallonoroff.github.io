@@ -1,7 +1,7 @@
 ---
 id: 1936
 title: The camera that follows you.
-date: 2015-05-16T09:23:22+00:00
+date: 2015-05-16 09:23:22 +00:00
 author: mark
 layout: post
 tags:

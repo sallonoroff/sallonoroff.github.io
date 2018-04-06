@@ -1,7 +1,7 @@
 ---
 id: 2020
 title: In Case of Emergency.
-date: 2016-05-02T17:15:30+00:00
+date: 2016-05-02 17:15:30 +00:00
 author: mark
 layout: post
 tags:

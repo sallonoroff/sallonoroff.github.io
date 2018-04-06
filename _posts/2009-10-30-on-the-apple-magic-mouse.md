@@ -1,7 +1,7 @@
 ---
 id: 748
 title: On the Apple Magic Mouse.
-date: 2009-10-30T15:41:18+00:00
+date: 2009-10-30 15:41:18 +00:00
 author: mark
 layout: post
 tags:

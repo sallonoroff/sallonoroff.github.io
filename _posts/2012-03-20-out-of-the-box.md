@@ -1,7 +1,7 @@
 ---
 id: 1631
 title: Out of the box.
-date: 2012-03-20T10:19:41+00:00
+date: 2012-03-20 10:19:41 +00:00
 author: mark
 layout: post
 tags:

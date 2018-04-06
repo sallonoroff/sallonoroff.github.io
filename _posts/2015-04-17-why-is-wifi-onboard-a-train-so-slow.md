@@ -1,7 +1,7 @@
 ---
 id: 1873
 title: Why is wifi onboard a train so slow?
-date: 2015-04-17T20:04:15+00:00
+date: 2015-04-17 20:04:15 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 160
 title: A Keyboard for the XBOX360.
-date: 2009-02-13T12:21:30+00:00
+date: 2009-02-13 12:21:30 +00:00
 author: mark
 layout: post
 tags:

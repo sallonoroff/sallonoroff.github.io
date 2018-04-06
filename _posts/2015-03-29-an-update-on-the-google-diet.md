@@ -1,7 +1,7 @@
 ---
 id: 1887
 title: An update on the Google diet.
-date: 2015-03-29T16:02:24+00:00
+date: 2015-03-29 16:02:24 +00:00
 author: mark
 layout: post
 tags:

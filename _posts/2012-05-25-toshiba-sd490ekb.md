@@ -1,7 +1,7 @@
 ---
 id: 1439
 title: Toshiba SD490EKB.
-date: 2012-05-25T09:59:28+00:00
+date: 2012-05-25 09:59:28 +00:00
 author: mark
 layout: post
 tags:

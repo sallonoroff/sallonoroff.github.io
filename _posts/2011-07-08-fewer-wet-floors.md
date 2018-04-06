@@ -1,7 +1,7 @@
 ---
 id: 1344
 title: Fewer wet floors.
-date: 2011-07-08T09:16:38+00:00
+date: 2011-07-08 09:16:38 +00:00
 author: mark
 layout: post
 tags:

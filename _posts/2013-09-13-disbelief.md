@@ -1,7 +1,7 @@
 ---
 id: 1791
 title: Disbelief.
-date: 2013-09-13T12:38:22+00:00
+date: 2013-09-13 12:38:22 +00:00
 author: mark
 layout: post
 tags:

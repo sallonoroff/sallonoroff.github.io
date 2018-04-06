@@ -1,7 +1,7 @@
 ---
 id: 1118
 title: Touch-sensitive walls.
-date: 2011-01-25T10:29:56+00:00
+date: 2011-01-25 10:29:56 +00:00
 author: mark
 layout: post
 tags:

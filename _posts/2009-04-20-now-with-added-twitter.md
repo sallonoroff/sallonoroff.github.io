@@ -1,7 +1,7 @@
 ---
 id: 445
 title: Now with added twitter feed.
-date: 2009-04-20T13:59:25+00:00
+date: 2009-04-20 13:59:25 +00:00
 author: mark
 layout: post
 tags:

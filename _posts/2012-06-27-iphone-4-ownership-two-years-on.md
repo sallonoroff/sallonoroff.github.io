@@ -1,7 +1,7 @@
 ---
 id: 1694
 title: iPhone 4 ownership two years on.
-date: 2012-06-27T11:49:12+00:00
+date: 2012-06-27 11:49:12 +00:00
 author: mark
 layout: post
 tags:

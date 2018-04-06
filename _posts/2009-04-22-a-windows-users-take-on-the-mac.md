@@ -1,7 +1,7 @@
 ---
 id: 481
 title: 'A Windows-user&#8217;s take on the Mac.'
-date: 2009-04-22T14:20:56+00:00
+date: 2009-04-22 14:20:56 +00:00
 author: mark
 layout: post
 tags:

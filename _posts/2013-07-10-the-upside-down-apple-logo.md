@@ -1,7 +1,7 @@
 ---
 id: 1753
 title: The upside down Apple logo.
-date: 2013-07-10T13:38:07+00:00
+date: 2013-07-10 13:38:07 +00:00
 author: mark
 layout: post
 tags:

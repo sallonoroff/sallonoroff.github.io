@@ -1,7 +1,7 @@
 ---
 id: 358
 title: Categorizing Small, Cheap Computers.
-date: 2009-03-16T11:10:47+00:00
+date: 2009-03-16 11:10:47 +00:00
 author: mark
 layout: post
 tags:

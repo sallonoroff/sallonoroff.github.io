@@ -1,7 +1,7 @@
 ---
 id: 498
 title: The device between iPhone and Mac.
-date: 2009-04-29T12:48:07+00:00
+date: 2009-04-29 12:48:07 +00:00
 author: mark
 layout: post
 tags:

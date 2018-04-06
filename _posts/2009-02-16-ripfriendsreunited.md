@@ -1,7 +1,7 @@
 ---
 id: 176
 title: RIP Friends Reunited?
-date: 2009-02-16T17:11:58+00:00
+date: 2009-02-16 17:11:58 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1532
 title: Vee twelve.
-date: 2012-02-09T16:39:36+00:00
+date: 2012-02-09 16:39:36 +00:00
 author: mark
 layout: post
 tags:

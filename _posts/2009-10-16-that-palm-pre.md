@@ -1,7 +1,7 @@
 ---
 id: 727
 title: That Palm Pre.
-date: 2009-10-16T14:18:54+00:00
+date: 2009-10-16 14:18:54 +00:00
 author: mark
 layout: post
 tags:

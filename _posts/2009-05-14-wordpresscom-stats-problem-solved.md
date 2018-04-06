@@ -1,7 +1,7 @@
 ---
 id: 530
 title: WordPress.com Stats problem solved.
-date: 2009-05-14T12:19:54+00:00
+date: 2009-05-14 12:19:54 +00:00
 author: mark
 layout: post
 tags:

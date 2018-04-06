@@ -1,7 +1,7 @@
 ---
 id: 361
 title: Autofill any iPod.
-date: 2009-03-16T11:29:19+00:00
+date: 2009-03-16 11:29:19 +00:00
 author: mark
 layout: post
 tags:

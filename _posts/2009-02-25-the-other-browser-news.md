@@ -1,7 +1,7 @@
 ---
 id: 257
 title: The other browser news.
-date: 2009-02-25T16:46:42+00:00
+date: 2009-02-25 16:46:42 +00:00
 author: mark
 layout: post
 tags:

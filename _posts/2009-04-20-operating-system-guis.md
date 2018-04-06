@@ -1,7 +1,7 @@
 ---
 id: 456
 title: Operating System GUIs.
-date: 2009-04-20T15:11:36+00:00
+date: 2009-04-20 15:11:36 +00:00
 author: mark
 layout: post
 tags:

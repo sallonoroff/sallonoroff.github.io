@@ -1,7 +1,7 @@
 ---
 id: 1513
 title: The Hidden Radio.
-date: 2012-02-03T10:13:31+00:00
+date: 2012-02-03 10:13:31 +00:00
 author: mark
 layout: post
 tags:

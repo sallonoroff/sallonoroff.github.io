@@ -1,7 +1,7 @@
 ---
 id: 698
 title: Device Drivers Again.
-date: 2009-09-15T12:45:43+00:00
+date: 2009-09-15 12:45:43 +00:00
 author: mark
 layout: post
 tags:

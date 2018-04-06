@@ -1,7 +1,7 @@
 ---
 id: 1412
 title: iPhone 4S reviews.
-date: 2011-10-12T14:37:01+00:00
+date: 2011-10-12 14:37:01 +00:00
 author: mark
 layout: post
 tags:

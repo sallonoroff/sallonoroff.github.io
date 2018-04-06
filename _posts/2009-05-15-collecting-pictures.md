@@ -1,7 +1,7 @@
 ---
 id: 544
 title: Collecting pictures.
-date: 2009-05-15T10:59:15+00:00
+date: 2009-05-15 10:59:15 +00:00
 author: mark
 layout: post
 tags:

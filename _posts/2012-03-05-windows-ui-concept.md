@@ -1,7 +1,7 @@
 ---
 id: 1611
 title: Windows UI concept.
-date: 2012-03-05T11:27:26+00:00
+date: 2012-03-05 11:27:26 +00:00
 author: mark
 layout: post
 tags:

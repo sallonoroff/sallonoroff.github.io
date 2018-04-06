@@ -1,7 +1,7 @@
 ---
 id: 953
 title: iPhone 4 ownership one month on.
-date: 2010-08-05T11:21:40+00:00
+date: 2010-08-05 11:21:40 +00:00
 author: mark
 layout: post
 tags:

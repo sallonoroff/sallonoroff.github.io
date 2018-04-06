@@ -1,7 +1,7 @@
 ---
 id: 770
 title: Unforeseen, unfortunately.
-date: 2009-12-18T11:13:00+00:00
+date: 2009-12-18 11:13:00 +00:00
 author: mark
 layout: post
 tags:

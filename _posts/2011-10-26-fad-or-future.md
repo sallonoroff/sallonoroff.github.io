@@ -1,7 +1,7 @@
 ---
 id: 1424
 title: Fad or future?
-date: 2011-10-26T14:57:22+00:00
+date: 2011-10-26 14:57:22 +00:00
 author: mark
 layout: post
 tags:

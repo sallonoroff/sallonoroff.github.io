@@ -1,7 +1,7 @@
 ---
 id: 185
 title: On Headphones.
-date: 2009-02-18T14:29:31+00:00
+date: 2009-02-18 14:29:31 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 234
 title: Where dreams become heart attacks.
-date: 2009-02-20T11:58:47+00:00
+date: 2009-02-20 11:58:47 +00:00
 author: mark
 layout: post
 tags:

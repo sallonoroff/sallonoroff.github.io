@@ -1,7 +1,7 @@
 ---
 id: 722
 title: Underfoot.
-date: 2009-10-07T12:46:37+00:00
+date: 2009-10-07 12:46:37 +00:00
 author: mark
 layout: post
 tags:

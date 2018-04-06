@@ -1,7 +1,7 @@
 ---
 id: 804
 title: Multi-touch in OSX.
-date: 2010-01-18T16:26:06+00:00
+date: 2010-01-18 16:26:06 +00:00
 author: mark
 layout: post
 tags:

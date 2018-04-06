@@ -1,7 +1,7 @@
 ---
 id: 635
 title: On game pricing.
-date: 2009-08-14T13:34:00+00:00
+date: 2009-08-14 13:34:00 +00:00
 author: mark
 layout: post
 tags:

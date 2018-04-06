@@ -1,7 +1,7 @@
 ---
 id: 1371
 title: Running from camera.
-date: 2011-07-27T00:34:02+00:00
+date: 2011-07-27 00:34:02 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1047
 title: Protection.
-date: 2011-01-25T10:42:19+00:00
+date: 2011-01-25 10:42:19 +00:00
 author: mark
 layout: post
 tags:

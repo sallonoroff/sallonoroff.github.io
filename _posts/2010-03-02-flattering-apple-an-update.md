@@ -1,7 +1,7 @@
 ---
 id: 824
 title: Flattering Apple. An update.
-date: 2010-03-02T12:50:17+00:00
+date: 2010-03-02 12:50:17 +00:00
 author: mark
 layout: post
 tags:

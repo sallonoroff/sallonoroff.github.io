@@ -1,7 +1,7 @@
 ---
 id: 1737
 title: Beginning a Google diet.
-date: 2013-05-31T14:12:28+00:00
+date: 2013-05-31 14:12:28 +00:00
 author: mark
 layout: post
 tags:

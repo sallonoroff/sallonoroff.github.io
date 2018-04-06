@@ -1,7 +1,7 @@
 ---
 id: 1107
 title: 'You can&#8217;t believe your eyes.'
-date: 2011-01-21T12:08:29+00:00
+date: 2011-01-21 12:08:29 +00:00
 author: mark
 layout: post
 tags:

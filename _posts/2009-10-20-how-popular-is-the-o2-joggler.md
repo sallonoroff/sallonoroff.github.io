@@ -1,7 +1,7 @@
 ---
 id: 730
 title: How popular is the O2 Joggler?
-date: 2009-10-20T16:46:44+00:00
+date: 2009-10-20 16:46:44 +00:00
 author: mark
 layout: post
 tags:

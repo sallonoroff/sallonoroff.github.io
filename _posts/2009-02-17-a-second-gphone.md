@@ -1,7 +1,7 @@
 ---
 id: 180
 title: A second gPhone.
-date: 2009-02-17T12:48:38+00:00
+date: 2009-02-17 12:48:38 +00:00
 author: mark
 layout: post
 tags:

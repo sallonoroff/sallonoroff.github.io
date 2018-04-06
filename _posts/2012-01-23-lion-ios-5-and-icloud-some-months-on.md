@@ -1,7 +1,7 @@
 ---
 id: 1416
 title: Lion, iOS 5 and iCloud some months on.
-date: 2012-01-23T16:49:19+00:00
+date: 2012-01-23 16:49:19 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 238
 title: New Mac Mini?
-date: 2009-02-23T15:08:11+00:00
+date: 2009-02-23 15:08:11 +00:00
 author: mark
 layout: post
 tags:

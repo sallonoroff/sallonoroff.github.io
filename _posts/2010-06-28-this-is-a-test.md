@@ -1,7 +1,7 @@
 ---
 id: 935
 title: This is a test.
-date: 2010-06-28T12:29:26+00:00
+date: 2010-06-28 12:29:26 +00:00
 author: mark
 layout: post
 guid: http://www.sallonoroff.co.uk/blog/2010/06/this-is-a-test/2010/06/this-is-a-test/

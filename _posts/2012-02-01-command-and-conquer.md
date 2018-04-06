@@ -1,7 +1,7 @@
 ---
 id: 1501
 title: Command and Conquer.
-date: 2012-02-01T11:27:18+00:00
+date: 2012-02-01 11:27:18 +00:00
 author: mark
 layout: post
 tags:

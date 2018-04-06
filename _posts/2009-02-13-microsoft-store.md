@@ -1,7 +1,7 @@
 ---
 id: 155
 title: Microsoft Store.
-date: 2009-02-13T11:10:09+00:00
+date: 2009-02-13 11:10:09 +00:00
 author: mark
 layout: post
 tags:

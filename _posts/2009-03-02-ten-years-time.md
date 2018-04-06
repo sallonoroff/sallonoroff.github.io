@@ -1,7 +1,7 @@
 ---
 id: 275
 title: 'In ten years time&#8230;'
-date: 2009-03-02T15:21:26+00:00
+date: 2009-03-02 15:21:26 +00:00
 author: mark
 layout: post
 tags:

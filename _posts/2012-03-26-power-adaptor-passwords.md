@@ -1,7 +1,7 @@
 ---
 id: 1546
 title: Power adaptor passwords.
-date: 2012-03-26T11:11:44+00:00
+date: 2012-03-26 11:11:44 +00:00
 author: mark
 layout: post
 tags:

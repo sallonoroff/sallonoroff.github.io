@@ -1,7 +1,7 @@
 ---
 id: 305
 title: SPAM. SPAM. SPAM.
-date: 2009-03-05T16:24:29+00:00
+date: 2009-03-05 16:24:29 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 252
 title: Safari 4 beta (Windows).
-date: 2009-02-25T15:51:02+00:00
+date: 2009-02-25 15:51:02 +00:00
 author: mark
 layout: post
 tags:

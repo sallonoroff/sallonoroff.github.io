@@ -1,7 +1,7 @@
 ---
 id: 1578
 title: Everything is a remix. (part 4)
-date: 2012-02-29T16:30:59+00:00
+date: 2012-02-29 16:30:59 +00:00
 author: mark
 layout: post
 tags:

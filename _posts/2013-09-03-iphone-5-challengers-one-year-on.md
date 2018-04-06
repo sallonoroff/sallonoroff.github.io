@@ -1,7 +1,7 @@
 ---
 id: 1759
 title: iPhone 5 challengers, one year on.
-date: 2013-09-03T15:29:37+00:00
+date: 2013-09-03 15:29:37 +00:00
 author: mark
 layout: post
 tags:

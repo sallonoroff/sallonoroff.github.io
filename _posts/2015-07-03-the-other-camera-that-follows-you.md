@@ -1,7 +1,7 @@
 ---
 id: 1947
 title: The other camera that follows you.
-date: 2015-07-03T16:12:45+00:00
+date: 2015-07-03 16:12:45 +00:00
 author: mark
 layout: post
 tags:

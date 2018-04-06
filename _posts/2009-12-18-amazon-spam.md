@@ -1,7 +1,7 @@
 ---
 id: 768
 title: Amazon Spam.
-date: 2009-12-18T10:53:30+00:00
+date: 2009-12-18 10:53:30 +00:00
 author: mark
 layout: post
 tags:

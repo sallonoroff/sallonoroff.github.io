@@ -1,7 +1,7 @@
 ---
 id: 1441
 title: Alan Sailer.
-date: 2012-01-20T11:15:58+00:00
+date: 2012-01-20 11:15:58 +00:00
 author: mark
 layout: post
 tags:

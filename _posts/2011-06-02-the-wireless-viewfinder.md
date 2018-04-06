@@ -1,7 +1,7 @@
 ---
 id: 1251
 title: The wireless viewfinder.
-date: 2011-06-02T12:00:17+00:00
+date: 2011-06-02 12:00:17 +00:00
 author: mark
 layout: post
 tags:

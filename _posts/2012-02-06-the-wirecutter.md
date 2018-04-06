@@ -1,7 +1,7 @@
 ---
 id: 1485
 title: The Wirecutter.
-date: 2012-02-06T12:42:30+00:00
+date: 2012-02-06 12:42:30 +00:00
 author: mark
 layout: post
 tags:

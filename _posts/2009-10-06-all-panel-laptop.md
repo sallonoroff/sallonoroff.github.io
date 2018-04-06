@@ -1,7 +1,7 @@
 ---
 id: 716
 title: All-Panel Laptop.
-date: 2009-10-06T16:05:53+00:00
+date: 2009-10-06 16:05:53 +00:00
 author: mark
 layout: post
 tags:

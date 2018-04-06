@@ -1,7 +1,7 @@
 ---
 id: 755
 title: Digital Mockups.
-date: 2009-11-05T11:53:09+00:00
+date: 2009-11-05 11:53:09 +00:00
 author: mark
 layout: post
 tags:

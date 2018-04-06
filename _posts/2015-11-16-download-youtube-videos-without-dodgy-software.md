@@ -1,7 +1,7 @@
 ---
 id: 1902
 title: Download YouTube videos without dodgy software.
-date: 2015-11-16T14:07:06+00:00
+date: 2015-11-16 14:07:06 +00:00
 author: mark
 layout: post
 tags:

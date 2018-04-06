@@ -1,7 +1,7 @@
 ---
 id: 1260
 title: Lion, iOS 5 and iCloud.
-date: 2011-06-07T15:55:44+00:00
+date: 2011-06-07 15:55:44 +00:00
 author: mark
 layout: post
 tags:

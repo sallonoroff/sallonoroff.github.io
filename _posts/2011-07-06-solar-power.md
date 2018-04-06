@@ -1,7 +1,7 @@
 ---
 id: 1324
 title: Solar power.
-date: 2011-07-06T13:52:17+00:00
+date: 2011-07-06 13:52:17 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1134
 title: Restart computer.
-date: 2011-01-24T10:58:09+00:00
+date: 2011-01-24 10:58:09 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1651
 title: Dropbox referrals.
-date: 2012-04-10T12:51:25+00:00
+date: 2012-04-10 12:51:25 +00:00
 author: mark
 layout: post
 tags:

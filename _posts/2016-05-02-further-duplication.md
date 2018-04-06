@@ -1,7 +1,7 @@
 ---
 id: 2019
 title: Further duplication.
-date: 2016-05-02T00:29:48+00:00
+date: 2016-05-02 00:29:48 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 435
 title: On twitter.
-date: 2009-04-08T15:51:54+00:00
+date: 2009-04-08 15:51:54 +00:00
 author: mark
 layout: post
 tags:

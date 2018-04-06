@@ -1,7 +1,7 @@
 ---
 id: 1664
 title: Understanding Disney FastPlay.
-date: 2012-04-23T09:49:15+00:00
+date: 2012-04-23 09:49:15 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1173
 title: I love my dad.
-date: 2011-06-17T09:04:59+00:00
+date: 2011-06-17 09:04:59 +00:00
 author: mark
 layout: post
 tags:

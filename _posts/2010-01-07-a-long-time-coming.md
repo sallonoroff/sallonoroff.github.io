@@ -1,7 +1,7 @@
 ---
 id: 784
 title: A long time coming.
-date: 2010-01-07T17:19:52+00:00
+date: 2010-01-07 17:19:52 +00:00
 author: mark
 layout: post
 tags:

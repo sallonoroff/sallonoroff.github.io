@@ -1,7 +1,7 @@
 ---
 id: 1928
 title: Fixed embedded videos.
-date: 2015-05-14T20:27:52+00:00
+date: 2015-05-14 20:27:52 +00:00
 author: mark
 layout: post
 tags:

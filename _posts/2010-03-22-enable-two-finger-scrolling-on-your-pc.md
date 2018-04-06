@@ -1,7 +1,7 @@
 ---
 id: 870
 title: Enable two-finger scrolling on your PC.
-date: 2010-03-22T16:54:08+00:00
+date: 2010-03-22 16:54:08 +00:00
 author: mark
 layout: post
 tags:

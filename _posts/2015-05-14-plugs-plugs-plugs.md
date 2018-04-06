@@ -1,7 +1,7 @@
 ---
 id: 1932
 title: Plugs, plugs, plugs.
-date: 2015-05-14T20:48:20+00:00
+date: 2015-05-14 20:48:20 +00:00
 author: mark
 layout: post
 tags:

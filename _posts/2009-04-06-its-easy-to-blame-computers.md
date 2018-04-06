@@ -1,7 +1,7 @@
 ---
 id: 428
 title: 'It&#8217;s easy to blame computers.'
-date: 2009-04-06T11:57:40+00:00
+date: 2009-04-06 11:57:40 +00:00
 author: mark
 layout: post
 tags:

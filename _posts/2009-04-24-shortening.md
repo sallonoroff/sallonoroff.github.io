@@ -1,7 +1,7 @@
 ---
 id: 487
 title: Shortening.
-date: 2009-04-24T15:49:02+00:00
+date: 2009-04-24 15:49:02 +00:00
 author: mark
 layout: post
 tags:

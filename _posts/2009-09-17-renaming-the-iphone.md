@@ -1,7 +1,7 @@
 ---
 id: 704
 title: Renaming the iPhone.
-date: 2009-09-17T11:33:05+00:00
+date: 2009-09-17 11:33:05 +00:00
 author: mark
 layout: post
 tags:

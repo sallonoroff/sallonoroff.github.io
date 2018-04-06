@@ -1,7 +1,7 @@
 ---
 id: 1183
 title: Must reads.
-date: 2011-02-22T15:10:15+00:00
+date: 2011-02-22 15:10:15 +00:00
 author: mark
 layout: post
 tags:

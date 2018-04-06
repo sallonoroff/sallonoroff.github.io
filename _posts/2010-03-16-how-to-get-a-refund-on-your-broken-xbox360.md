@@ -1,7 +1,7 @@
 ---
 id: 810
 title: How to get a refund on your broken XBOX360.
-date: 2010-03-16T13:02:16+00:00
+date: 2010-03-16 13:02:16 +00:00
 author: mark
 layout: post
 tags:

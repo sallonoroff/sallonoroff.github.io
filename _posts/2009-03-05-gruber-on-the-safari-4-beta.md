@@ -1,7 +1,7 @@
 ---
 id: 303
 title: Gruber on the Safari 4 beta.
-date: 2009-03-05T16:13:06+00:00
+date: 2009-03-05 16:13:06 +00:00
 author: mark
 layout: post
 tags:

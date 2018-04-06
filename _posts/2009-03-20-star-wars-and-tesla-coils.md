@@ -1,7 +1,7 @@
 ---
 id: 388
 title: Star Wars and Tesla coils.
-date: 2009-03-20T16:48:17+00:00
+date: 2009-03-20 16:48:17 +00:00
 author: mark
 layout: post
 tags:

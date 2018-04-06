@@ -1,7 +1,7 @@
 ---
 id: 735
 title: External hard drive internals.
-date: 2009-10-22T15:35:15+00:00
+date: 2009-10-22 15:35:15 +00:00
 author: mark
 layout: post
 tags:

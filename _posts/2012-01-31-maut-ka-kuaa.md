@@ -1,7 +1,7 @@
 ---
 id: 1493
 title: Maut ka kuaa.
-date: 2012-01-31T14:34:48+00:00
+date: 2012-01-31 14:34:48 +00:00
 author: mark
 layout: post
 tags:

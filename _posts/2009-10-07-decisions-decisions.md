@@ -1,7 +1,7 @@
 ---
 id: 710
 title: Decisions, decisions.
-date: 2009-10-07T12:16:50+00:00
+date: 2009-10-07 12:16:50 +00:00
 author: mark
 layout: post
 tags:

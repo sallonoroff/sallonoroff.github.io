@@ -1,7 +1,7 @@
 ---
 id: 1419
 title: Celebrating Steve.
-date: 2011-10-24T22:21:20+00:00
+date: 2011-10-24 22:21:20 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 1666
 title: The Great British plug.
-date: 2012-05-15T14:17:44+00:00
+date: 2012-05-15 14:17:44 +00:00
 author: mark
 layout: post
 tags:

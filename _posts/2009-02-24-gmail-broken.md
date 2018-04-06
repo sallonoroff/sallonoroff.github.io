@@ -1,7 +1,7 @@
 ---
 id: 244
 title: Gmail broken.
-date: 2009-02-24T12:52:22+00:00
+date: 2009-02-24 12:52:22 +00:00
 author: mark
 layout: post
 tags:

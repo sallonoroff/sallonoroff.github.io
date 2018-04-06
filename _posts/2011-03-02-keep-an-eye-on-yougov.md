@@ -1,7 +1,7 @@
 ---
 id: 1140
 title: Keep an eye on YouGov.
-date: 2011-03-02T17:34:34+00:00
+date: 2011-03-02 17:34:34 +00:00
 author: mark
 layout: post
 tags:

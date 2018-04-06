@@ -1,7 +1,7 @@
 ---
 id: 1190
 title: Somebody, please make this a reality.
-date: 2011-02-24T10:37:20+00:00
+date: 2011-02-24 10:37:20 +00:00
 author: mark
 layout: post
 tags:

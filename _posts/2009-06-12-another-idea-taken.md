@@ -1,7 +1,7 @@
 ---
 id: 561
 title: Another idea taken.
-date: 2009-06-12T11:41:01+00:00
+date: 2009-06-12 11:41:01 +00:00
 author: mark
 layout: post
 tags:

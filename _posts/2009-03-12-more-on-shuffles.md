@@ -1,7 +1,7 @@
 ---
 id: 339
 title: More on Shuffles.
-date: 2009-03-12T15:09:19+00:00
+date: 2009-03-12 15:09:19 +00:00
 author: mark
 layout: post
 tags:

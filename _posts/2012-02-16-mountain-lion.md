@@ -1,7 +1,7 @@
 ---
 id: 1553
 title: Mountain Lion.
-date: 2012-02-16T15:55:14+00:00
+date: 2012-02-16 15:55:14 +00:00
 author: mark
 layout: post
 tags:

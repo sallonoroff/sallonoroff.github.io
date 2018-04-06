@@ -1,7 +1,7 @@
 ---
 id: 478
 title: LCD-screen, multi-touch trackpad.
-date: 2009-04-22T12:20:18+00:00
+date: 2009-04-22 12:20:18 +00:00
 author: mark
 layout: post
 tags:

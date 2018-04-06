@@ -1,7 +1,7 @@
 ---
 id: 410
 title: Wearable Walkman.
-date: 2009-03-30T15:40:54+00:00
+date: 2009-03-30 15:40:54 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 554
 title: Two point eight.
-date: 2009-06-11T14:33:37+00:00
+date: 2009-06-11 14:33:37 +00:00
 author: mark
 layout: post
 tags:

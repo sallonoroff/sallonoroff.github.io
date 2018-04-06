@@ -1,7 +1,7 @@
 ---
 id: 766
 title: A Joggler app store?
-date: 2009-11-16T17:44:47+00:00
+date: 2009-11-16 17:44:47 +00:00
 author: mark
 layout: post
 tags:

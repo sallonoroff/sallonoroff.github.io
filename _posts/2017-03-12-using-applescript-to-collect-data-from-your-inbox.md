@@ -1,8 +1,8 @@
 ---
 id: 1882
 title: Using AppleScript to collect data from your inbox.
-date: 2017-03-12T17:15:55+00:00
-last_modified_at: 2018-03-18T12:23:10+00:00
+date: 2017-03-12 17:15:55 +00:00
+last_modified_at: 2018-03-18 12:23:10 +00:00
 author: mark
 layout: post
 tags:

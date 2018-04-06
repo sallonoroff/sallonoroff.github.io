@@ -1,7 +1,7 @@
 ---
 id: 343
 title: When the media jumps the gun.
-date: 2009-03-12T15:22:17+00:00
+date: 2009-03-12 15:22:17 +00:00
 author: mark
 layout: post
 tags:

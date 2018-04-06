@@ -1,7 +1,7 @@
 ---
 id: 1898
 title: Cheapest headphones.
-date: 2015-07-08T21:20:00+00:00
+date: 2015-07-08 21:20:00 +00:00
 author: mark
 layout: post
 tags:

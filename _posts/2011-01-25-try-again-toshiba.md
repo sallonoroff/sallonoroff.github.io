@@ -1,7 +1,7 @@
 ---
 id: 1151
 title: Try again Toshiba.
-date: 2011-01-25T13:15:41+00:00
+date: 2011-01-25 13:15:41 +00:00
 author: mark
 layout: post
 tags:

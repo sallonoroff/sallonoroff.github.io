@@ -1,7 +1,7 @@
 ---
 id: 271
 title: Collecting the morning dew in human skulls.
-date: 2009-03-02T14:11:10+00:00
+date: 2009-03-02 14:11:10 +00:00
 author: mark
 layout: post
 tags:

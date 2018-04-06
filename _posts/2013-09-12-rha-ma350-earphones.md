@@ -1,7 +1,7 @@
 ---
 id: 1812
 title: RHA MA350 earphones.
-date: 2013-09-12T12:07:49+00:00
+date: 2013-09-12 12:07:49 +00:00
 author: mark
 layout: post
 tags:

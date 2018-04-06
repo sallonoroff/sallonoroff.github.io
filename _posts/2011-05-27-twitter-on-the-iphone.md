@@ -1,7 +1,7 @@
 ---
 id: 1087
 title: Twitter on the iPhone.
-date: 2011-05-27T10:14:56+00:00
+date: 2011-05-27 10:14:56 +00:00
 author: mark
 layout: post
 tags:

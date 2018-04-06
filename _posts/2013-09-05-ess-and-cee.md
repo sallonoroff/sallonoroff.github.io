@@ -1,7 +1,7 @@
 ---
 id: 1803
 title: Ess and cee.
-date: 2013-09-05T12:50:41+00:00
+date: 2013-09-05 12:50:41 +00:00
 author: mark
 layout: post
 tags:

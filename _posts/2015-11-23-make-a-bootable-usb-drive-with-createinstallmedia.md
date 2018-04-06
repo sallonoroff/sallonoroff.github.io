@@ -1,7 +1,7 @@
 ---
 id: 1972
 title: Make a bootable USB drive with createinstallmedia.
-date: 2015-11-23T14:24:13+00:00
+date: 2015-11-23 14:24:13 +00:00
 author: mark
 layout: post
 tags:

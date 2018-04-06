@@ -1,7 +1,7 @@
 ---
 id: 1866
 title: The Finer Things.
-date: 2014-04-15T20:48:10+00:00
+date: 2014-04-15 20:48:10 +00:00
 author: mark
 layout: post
 tags:

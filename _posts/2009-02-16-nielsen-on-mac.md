@@ -1,7 +1,7 @@
 ---
 id: 174
 title: Nielsen on Macintosh.
-date: 2009-02-16T16:53:50+00:00
+date: 2009-02-16 16:53:50 +00:00
 author: mark
 layout: post
 tags:

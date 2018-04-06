@@ -1,7 +1,7 @@
 ---
 id: 1504
 title: On John Browett.
-date: 2012-02-01T12:14:35+00:00
+date: 2012-02-01 12:14:35 +00:00
 author: mark
 layout: post
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 584
 title: Cheap laptops.
-date: 2009-06-25T11:46:46+00:00
+date: 2009-06-25 11:46:46 +00:00
 author: mark
 layout: post
 tags:

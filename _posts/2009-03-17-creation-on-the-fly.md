@@ -1,7 +1,7 @@
 ---
 id: 369
 title: Creation on the fly.
-date: 2009-03-17T15:24:09+00:00
+date: 2009-03-17 15:24:09 +00:00
 author: mark
 layout: post
 tags:

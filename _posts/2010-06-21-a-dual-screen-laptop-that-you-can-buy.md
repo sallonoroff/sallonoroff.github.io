@@ -1,7 +1,7 @@
 ---
 id: 923
 title: A dual-screen laptop that you can buy.
-date: 2010-06-21T12:36:58+00:00
+date: 2010-06-21 12:36:58 +00:00
 author: mark
 layout: post
 tags:

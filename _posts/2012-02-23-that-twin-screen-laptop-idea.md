@@ -1,7 +1,7 @@
 ---
 id: 1378
 title: That twin-screen laptop idea.
-date: 2012-02-23T11:09:00+00:00
+date: 2012-02-23 11:09:00 +00:00
 author: mark
 layout: post
 tags:

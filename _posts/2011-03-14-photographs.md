@@ -1,7 +1,7 @@
 ---
 id: 1220
 title: Photographs.
-date: 2011-03-14T10:19:10+00:00
+date: 2011-03-14 10:19:10 +00:00
 author: mark
 layout: post
 tags:

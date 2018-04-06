@@ -1,7 +1,7 @@
 ---
 id: 1707
 title: '&#8220;Today I want to tell you three stories from my life&#8230;&#8221;'
-date: 2012-10-05T21:46:32+00:00
+date: 2012-10-05 21:46:32 +00:00
 author: mark
 layout: post
 tags:

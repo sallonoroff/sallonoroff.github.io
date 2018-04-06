@@ -1,7 +1,7 @@
 ---
 id: 1584
 title: Software Update in Mountain Lion.
-date: 2012-03-05T11:26:39+00:00
+date: 2012-03-05 11:26:39 +00:00
 author: mark
 layout: post
 tags:

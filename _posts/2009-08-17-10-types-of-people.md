@@ -1,7 +1,7 @@
 ---
 id: 646
 title: 'There are only 10 types of people&#8230;'
-date: 2009-08-17T12:09:26+00:00
+date: 2009-08-17 12:09:26 +00:00
 author: mark
 layout: post
 tags:

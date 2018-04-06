@@ -1,7 +1,7 @@
 ---
 id: 515
 title: Picking fault.
-date: 2009-05-07T13:48:52+00:00
+date: 2009-05-07 13:48:52 +00:00
 author: mark
 layout: post
 tags:
