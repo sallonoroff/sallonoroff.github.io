@@ -7,9 +7,11 @@ layout: post
 tags:
   - design
   - hardware
+  - netbook
   - laptops
-  - multi-touch
+  - touchscreen
+  - trackpad
 ---
-[The Register has a peek](http://www.reghardware.co.uk/2009/04/21/sharp_mebius/) at an upcoming Small, Cheap Computer™ from Sharp called the Mebius. It&#8217;s pretty much the usual netbook fayre&#8230; except for the inclusion of a reasonably large, multi-touch trackpad which is also an LCD screen. The video of it that the Reg show just depicts it being used for doodling but there&#8217;s a ton of potential for such a component. I hope this is something we see other manufacturers pick up on.
+[The Register has a peek](http://www.reghardware.co.uk/2009/04/21/sharp_mebius/) at an upcoming Small, Cheap Computer™ from Sharp called the Mebius. It's pretty much the usual netbook fayre&#8230; except for the inclusion of a reasonably large, multi-touch trackpad which is also an LCD screen. The video of it that the Reg show just depicts it being used for doodling but there's a ton of potential for such a component. I hope this is something we see other manufacturers pick up on.
 
-Just a shame that the Mebius looks like it won&#8217;t be all that cheap, like a lot of the more recent netbooks&#8230;
+Just a shame that the Mebius looks like it won't be all that cheap, like a lot of the more recent netbooks&#8230;

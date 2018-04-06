@@ -5,7 +5,6 @@ date: 2009-03-20 16:35:37 +00:00
 author: mark
 layout: post
 tags:
-  - arbitrary
   - google
   - maps
   - web

@@ -8,8 +8,8 @@ tags:
   - hardware
   - laptops
   - netbook
-  - small cheap computers
+  - pc
 ---
-Do you have trouble distinguishing an ultra-portable from a sub-notebook? Can&#8217;t spot a netbook in a sea of ULPCs? Well, [El Reg has compiled a lovely little flowchart](http://www.theregister.co.uk/2009/03/13/miniature_computer_field_guide/) for helping you categorize your Small, Cheap Computers.
+Do you have trouble distinguishing an ultra-portable from a sub-notebook? Can't spot a netbook in a sea of ULPCs? Well, [El Reg has compiled a lovely little flowchart](http://www.theregister.co.uk/2009/03/13/miniature_computer_field_guide/) for helping you categorize those Small, Cheap Computers.
 
-Shame it doesn&#8217;t help with the conundrum of the difference between a notebook and a laptop&#8230;
+Shame it doesn't help with the conundrum of the difference between a notebook and a laptop&#8230;

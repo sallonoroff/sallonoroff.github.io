@@ -6,9 +6,8 @@ author: mark
 layout: post
 tags:
   - arbitrary
-  - blog
   - food
   - not so tech
   - web
 ---
-[Scanwiches.com](http://scanwiches.com/) &#8211; &#8220;Scans of sandwiches for education and delight&#8221;. They&#8217;re not kidding.
+[Scanwiches.com](http://scanwiches.com/) &#8211; &#8220;Scans of sandwiches for education and delight&#8221;. They're not kidding.

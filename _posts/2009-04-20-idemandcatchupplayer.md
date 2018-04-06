@@ -9,7 +9,7 @@ tags:
   - channel4
   - channel5
   - itv
-  - software
+  - web
   - tv
   - flash
 ---
@@ -17,4 +17,4 @@ It seems that the BBC being forced into making iPlayer flash-based (so that lice
 
 Here's the links if you don't already have them:
 
-[BBC iPlayer](http://www.bbc.co.uk/iplayer/)  &#8211;  [ITV Player](http://www.itv.com/itvplayer/)  &#8211;  [Channel4 4OD CatchUp](http://www.channel4.com/programmes/catch-up)  &#8211;  [Demand Five](http://demand.five.tv/)
+[BBC iPlayer](http://www.bbc.co.uk/iplayer/)  &#8211;  [ITV Player](http://www.itv.com/itvplayer/)  &#8211;  [Channel4 4OD](http://www.channel4.com/programmes/catch-up)  &#8211;  [Demand Five](http://demand.five.tv/)

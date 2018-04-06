@@ -5,7 +5,7 @@ date: 2009-04-20 14:46:34 +00:00
 author: mark
 layout: post
 tags:
-  - microsoft
+  - windows
   - piracy
   - software
   - web

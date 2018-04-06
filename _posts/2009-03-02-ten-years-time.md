@@ -9,7 +9,6 @@ tags:
   - microsoft
   - office
   - videos
-  - web
 ---
 &#8230;the world, according to Microsoft's Office Labs at least, will look like this:
 

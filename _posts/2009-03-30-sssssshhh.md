@@ -10,6 +10,6 @@ tags:
   - hardware
   - music
   - netbook
-  - small cheap computers
+  - cockup
 ---
-[Apparently](http://www.reghardware.co.uk/2009/03/27/u2_music_killed_my_hard_drive/), listening to music loudly on an Acer A1 netbook kills the device&#8217;s hard disk drive. Most bizarre thing i&#8217;ve heard in a long while. And, yes,  i&#8217;ve already double-checked the calendar &#8211; April 1st is still two days away.
+[Apparently](http://www.reghardware.co.uk/2009/03/27/u2_music_killed_my_hard_drive/), listening to music loudly on an Acer A1 netbook kills the device's hard disk drive. Most bizarre thing i've heard in a long while. And, yes, i've already double-checked the calendar &#8211; April 1st is still two days away.

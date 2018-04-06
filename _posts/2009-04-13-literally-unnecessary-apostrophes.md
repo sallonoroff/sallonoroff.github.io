@@ -6,9 +6,9 @@ author: mark
 layout: post
 tags:
   - arbitrary
-  - blog
   - grammar
   - web
+  - humans
 ---
 Three blogs publishing examples of three common grammatical/punctuational errors&#8230;
 

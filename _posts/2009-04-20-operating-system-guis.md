@@ -8,5 +8,8 @@ tags:
   - design
   - user interface
   - software
+  - linux
+  - osx
+  - windows
 ---
 [Here's a great article](http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/) summarising the last 28 years of OS interface design, complete with screengrabs of the Xerox Star GUI (1981) through to today's Vista, OSX, Gnome and KDE interfaces.

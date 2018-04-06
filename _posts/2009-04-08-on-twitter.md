@@ -8,7 +8,6 @@ tags:
   - facebook
   - this blog
   - twitter
-  - web
 ---
 Lately i've been finding it harder and harder to kill time on [Facebook](http://www.facebook.com/). I don't know whether less is _happening_ on there these days or if it's just that the recent &#8220;Home&#8221; re-design that just makes it appear that way. Anyway, regardless of the cause, i've been looking for somewhere new on the web to procrastinate (besides here) and yesterday gave-in to the pull of [twitter](http://twitter.com/).
 
@@ -18,4 +17,4 @@ It's too early to say whether twitter will be of any use to me but i can already
 
 {% include mydots.html %}
 
-You can find my (t)witterings at [twitter.com/sallonoroff](http://twitter.com/sallonoroff). (Don't worry if you can't be arsed with reading it &#8211; i aim to have my twitter feed plugged into this blog at some point, so i can bore you in stereo)
+**PS.** You can find my (t)witterings at [twitter.com/sallonoroff](http://twitter.com/sallonoroff). (Don't worry if you can't be arsed with reading it &#8211; i aim to have my twitter feed plugged into this blog at some point, so i can bore you in stereo)

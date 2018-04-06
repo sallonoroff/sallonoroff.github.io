@@ -7,5 +7,6 @@ layout: post
 tags:
   - arbitrary
   - not so tech
+  - the onion
 ---
-You&#8217;d think a news story about hospitals having to remove those alcohol-based hand-sanitizer gels because they were being drunk could only be found in [The Onion](http://www.theonion.com/). Alas no. The [BBC reports](http://news.bbc.co.uk/1/hi/england/7920576.stm) that life is stranger than fiction.
+You'd think a news story about hospitals having to remove those alcohol-based hand-sanitizer gels because they were being drunk could only be found in [The Onion](http://www.theonion.com/). Alas no. The [BBC reports](http://news.bbc.co.uk/1/hi/england/7920576.stm) that life is stranger than fiction.

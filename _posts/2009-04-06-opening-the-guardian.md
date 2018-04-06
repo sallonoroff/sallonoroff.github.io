@@ -7,7 +7,8 @@ layout: post
 tags:
   - open
   - swearies
-  - the guardian
+  - press
+  - data
   - web
 ---
 The Guardian [opened](http://www.guardian.co.uk/media/2009/mar/10/guardian-open-platform) it's archives to the world through the &#8220;[Open Platform](http://www.guardian.co.uk/open-platform)&#8221; APIs less than a month ago but already it's creating some interesting results.
