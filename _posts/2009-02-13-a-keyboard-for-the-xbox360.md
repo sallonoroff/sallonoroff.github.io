@@ -15,7 +15,7 @@ Inputting text on the XBOX360 with the game controller is very tiresome for more
 
 The solution, i thought, would be one of those dinky little, numpad-free keyboards that seem terribly undersized for everyday use on a PC&#8230; but fortunately whilst searching for one of those i came across something even better &#8211; [flexible silicone keyboards](http://www.ebuyer.com/product/134817). These can be rolled up and tucked away somewhere when not in use. Perfect.
 
-![flexible keyboard](/images/fromwp/2009/02/flexikb.jpg){:class="img-responsive"} 
+![flexible keyboard](/images/fromwp/2009/02/flexikb.jpg)
 
 Mine arrived yesterday and works well, allowing for much quicker text entry&#8230; and, unexpectedly, it also allows navigation around the XBOX dashboard interface (cursor keys to move around, Return to select, Esc for back and Windows key opens the &#8220;Quick Launch&#8221; pop-up).
 

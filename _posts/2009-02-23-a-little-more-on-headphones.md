@@ -10,11 +10,11 @@ tags:
   - headphones
   - sennheiser
 ---
-Since writing about [my new Sennheiser CX300 headphones](http://www.sallonoroff.co.uk/blog/2009/02/on-headphones/) last week i came across [these Creative Labs EP-630](http://www.amazon.co.uk/gp/product/B0009G6FQI) headphones which _look_ identical but are roughly half the price. I can't find anything concrete to say they _are_ identical internally or in terms of the audio quality but there is some (anecdotal) evidence out there on the web that suggests they might be (and some that vehemently suggests not). If you happen to be looking for some cheap but good quality headphones though I reckon they might be worth a punt.
+Since writing about [my new Sennheiser CX300 headphones](http://www.sallonoroff.co.uk/blog/2009/02/on-headphones/) last week, i came across [these Creative Labs EP-630](http://www.amazon.co.uk/gp/product/B0009G6FQI) headphones which _look_ identical but are roughly half the price. I can't find anything concrete to say they _are_ identical internally or in terms of the audio quality but there is some (anecdotal) evidence out there on the web that suggests they might be (and some that vehemently suggests not). If you happen to be looking for some cheap but good quality headphones though I reckon they might be worth a punt.
 
-Of course,  the validity of my opinion when it comes to audio-quality is quite questionable so you might prefer to look elsewhere. For instance, the Reg has just posted their [top-ten noise-isolating earphones](http://www.reghardware.co.uk/2009/02/23/review_noise_isolating_earphones/). No mention of the CX300s there sadly but then their review does cover buds costing as much as £180.
+Of course, the validity of my opinion when it comes to audio-quality is quite questionable so you might prefer to look elsewhere. For instance, the Reg has just posted their [top-ten noise-isolating earphones](http://www.reghardware.co.uk/2009/02/23/review_noise_isolating_earphones/). No mention of the CX300s there sadly but then their review does cover buds costing as much as £180.
 
-<span style="color: #c0c0c0;">&#8230;</span>
+{% include mydots.html %}
 
 **Update:** I've just noticed that in the [comments](http://www.reghardware.co.uk/2009/02/23/review_noise_isolating_earphones/comments/) section of that Reg review there are a good few mentions of the CX300s, and one in particular about the EP-630s that says, well, what i said above really. There's also a great comment by &#8220;Pete&#8221; (who says some of the things i've been trying to say but more succinctly) which is probably worth repeating in full here:
 

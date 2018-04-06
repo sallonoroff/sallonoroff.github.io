@@ -5,7 +5,7 @@ date: 2009-02-18 11:18:27 +00:00
 author: mark
 layout: post
 tags:
-  - cringely
+  - bob cringely
   - microsoft
   - retail
   - windows

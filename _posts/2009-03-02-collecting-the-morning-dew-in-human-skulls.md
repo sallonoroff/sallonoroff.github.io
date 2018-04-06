@@ -7,14 +7,9 @@ layout: post
 tags:
   - arbitrary
   - games
-  - onion
+  - the onion
   - videos
-  - web
 ---
-<p style="text-align: left;">
-  As a parent, I&#8217;m glad that at least one news outlet is debating these important matters&#8230;
-</p>
+As a parent, I'm glad that at least [one news outlet](https://www.theonion.com/are-violent-video-games-adequately-preparing-children-f-1819594778) is debating these important matters&#8230;
 
-<p style="text-align: center;">
-  <br /> <a href="http://www.theonion.com/content/video/are_violent_video_games">Are Violent Video Games Adequately Preparing Children For The Apocalypse?</a>
-</p>
+{% include youtubeembed.html id="VTbYUd1jUc4" %}

@@ -14,6 +14,4 @@ tags:
 
 > _&#8220;In fact, in terms of all-round value for money the new white MacBook might actually be the best buy in the entire Mac range at the moment. So if you’re thinking about upgrading an old Mac, or switching from a PC for the first time, the new white MacBook is almost certainly the best place to start.&#8221;_
 
-Until the iMac and Mac Mini are updated, [I would tend to agree](http://www.sallonoroff.co.uk/blog/2009/01/white/)._
-  
-_
+Until the iMac and Mac Mini are updated, [I would tend to agree](http://www.sallonoroff.co.uk/blog/2009/01/white/).
