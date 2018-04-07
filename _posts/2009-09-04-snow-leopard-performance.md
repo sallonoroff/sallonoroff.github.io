@@ -40,8 +40,6 @@ Some other titbits about Mac OSX 10.6:
 
 * For me, the upgrade installation of Snow Leopard over the existing Leopard system took 55 minutes (Installer initially estimated 1hour 3 minutes).
 
-![OSX 10.6](/images/fromwp/2009/09/106.jpg)
-
 * 10.6 supposedly uses a lot less disk space than 10.5 (since it no longer carries PPC code, etc). After the upgrade my hard disk usage dropped from 66.7GB to 62.5GB. Reclamation of over 4GB isn't half bad at all but i had expected a little more.
 
 * As can happen with any upgrade, some 3rd party apps are &#8220;broken&#8221; by the new OS. Thus far i've only run into problems with [KisMAC](http://trac.kismac-ng.org/) (couldn't find the Airport card), [CyberDuck](http://cyberduck.ch/) (wouldn't start) and [Flip4Mac](http://www.telestream.net/flip4mac-wmv/overview.htm) (WMV files played inside QT but not when via WMVPlayer). None of these are massively important to me but fortunately CyberDuck and Flip4Mac both have beta versions available that do work with Snow Leopard. KisMAC is the only app i'm still without but since i rarely (never?) use it, i'm not exactly tearful.
@@ -52,8 +50,8 @@ If you were hoping to read something a bit more in-depth than this, see MacWorld
 
 {% include mydots.html %}
 
-**Update:** There's another &#8220;real world&#8221; performance test of Leopard vs Snow Leopard [here](http://applesource.us/flow/?p=398).
+**Update:** There's another &#8220;real world&#8221; performance test of Leopard versus Snow Leopard [here](http://applesource.us/flow/?p=398).
 
 {% include mydots.html %}
 
-**Update #2:** Ooh, TUAW have joined in with the &#8220;real world&#8221; testing now too. [Look](http://www.tuaw.com/2009/09/04/will-snow-leopard-really-make-my-computer-any-faster/).
+**Update #2:** Ooh, TUAW have [joined in](http://www.tuaw.com/2009/09/04/will-snow-leopard-really-make-my-computer-any-faster/) with the &#8220;real world&#8221; testing now too.
