@@ -21,7 +21,7 @@ OK, so i deliberately misled you with the title of this piece. Apple haven't, as
 
 **The iPod/iPhone-docking MacBook (Pro)**
 
-![A terrible mock-up. Obviously the real thing would rock.](/images/fromwp/2009/08/macbookpoddock.jpg){:class="img-responsive"}
+![A terrible mock-up. Obviously the real thing would rock.](/images/fromwp/2009/08/macbookpoddock.jpg)
 A terrible mock-up.
 
 A MacBook (Pro) in which the normal multi-touch trackpad device is removable, leaving behind a iPod Touch/iPhone-shaped hole. Slip your handheld into this &#8220;dock&#8221; and while the device charges/is mounted by the Mac/etc you use its screen as your notebook's trackpad.
@@ -44,7 +44,7 @@ This really is one very much for the future but i expect you're not convinced. N
 
 This is a MacBook (Pro) with a touchscreen. Not on the main display though, that one's as normal as you might find on any present notebook. No, the touchscreen here is on the &#8220;lap&#8221; part of the laptop, replacing the physical keyboard and trackpad. Not particularly difficult to envisage but here's a little help for those that are struggling&#8230;
 
-![My MacBook Touch. No, I can't draw straight lines.](/images/fromwp/2009/08/2touch.jpg){:class="img-responsive"}
+![My MacBook Touch. No, I can't draw straight lines.](/images/fromwp/2009/08/2touch.jpg)
 No, I can't draw straight lines.
 
 By default the multi-touch, haptic-feedback touchscreen would be used as keyboard and trackpad but it could become anything you want (well, anything Apple's programmers will allow). Video-edit controls perhaps? A graphics tablet for the pro Photoshoppers? A musical keyboard? A doodle-pad? A [giant click wheel](http://www.theonion.com/content/video/apple_introduces_revolutionary)? It could become _anything_. Not to mention that Apple would longer need to manufacturer different keyboards for different languages (or even keyboard layouts &#8211; have Dvorak if you want it) since it could all be done in the software.
@@ -55,4 +55,4 @@ I believe this sort of device and functionality would be possible with current t
 
 {% include mydots.html %}
 
-PS. It looks like [MacPredictions.com](http://www.macpredictions.com/) is quite good at this sort of foresight caper. Take a look.
+**PS.** It looks like [MacPredictions.com](http://www.macpredictions.com/) is quite good at this sort of foresight caper. Take a look.
