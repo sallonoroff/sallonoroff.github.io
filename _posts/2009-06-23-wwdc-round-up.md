@@ -6,15 +6,12 @@ author: mark
 layout: post
 tags:
   - apple
-  - hardware
   - iphone
   - macbook
   - osx
   - safari
-  - software
   - steve jobs
   - tablet
-  - touchscreen
   - wwdc
 ---
 Yes, yes, yes. We can all see that I'm very late with this one. Apple's annual WorldWide Developers Conference (WWDC) ran 8-12th June and here am i two weeks later only just writing about it. So in web-terms this is ancient news. We all know[^fn-othersources] what Apple announced in their Keynote a fortnight ago so i won't repeat the details but i just wanted to share my thoughts on some of the announcements&#8230;

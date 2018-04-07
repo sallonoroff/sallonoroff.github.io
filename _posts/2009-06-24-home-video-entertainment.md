@@ -6,10 +6,10 @@ author: mark
 layout: post
 tags:
   - blu-ray
-  - convenience
-  - cringely
   - dvd
   - vhs
+  - convenience
+  - bob cringely
 ---
 The other day i was trying to make space for some new DVDs in our living room cupboard but failing miserably. No matter how i re-arranged the boxes, i couldn&#8217;t squeeze more in there &#8211; not while those videos (yes, VHS video cassettes) were in there too. It was then i decided that since i watch videos even less often than DVDs (which is rarely) i really ought to throw them out. I could replacing those films i still like with the DVD version very cheaply these days and my storage woes would be solved (albeit temporarily).
 
@@ -21,6 +21,6 @@ Though DVDs will reign for a very long time yet. Never underestimate Man&#8217;s
 
 [^fn-extras]:I note the much-touted choose-your-camera-angle options (&#8220;Multi Angle&#8221;) that we were promised in &#8220;future&#8221; DVDs never really materialised. Save in a few porn vids, of course.
 
-<span style="color: #c0c0c0;">&#8230;</span>
+{% include mydots.html %}
 
 **Update:** While i was busy committing this brain-dump to the web, it seems Bob Cringely has gone and written [something very similar](http://www.cringely.com/2009/06/is-blu-ray-a-failure/). If you&#8217;re too lazy to read it, he basically sticks with the need for an expensive HD telly being the reason Blu-Ray &#8216;ll fail. Of course I agree but I maintain that &#8220;convenience&#8221; plays a large, if not a larger, part of it.

@@ -10,7 +10,4 @@ tags:
   - xbox360
   - zero punctuation
 ---
-I&#8217;ve neglected Zero Punctuation lately but have just indulged in a mass catch-up. Last week&#8217;s &#8220;[E3 Hype Massacre](http://www.escapistmagazine.com/videos/view/zero-punctuation/779-The-Second-Annual-E3-Hype-Massacre)&#8221; is well worth a watch, if only for Yahtzee&#8217;s take on Microsoft&#8217;s fancy Project Natal (and indeed, all motion controller systems).
-
-<p style="text-align: center;">
-</p>
+I've neglected [Zero Punctuation](http://www.escapistmagazine.com/videos/view/zero-punctuation) lately but have just indulged in a mass catch-up. Last week's &#8220;[E3 Hype Massacre](http://www.escapistmagazine.com/videos/view/zero-punctuation/779-The-Second-Annual-E3-Hype-Massacre)&#8221; is well worth a watch, if only for Yahtzee's take on Microsoft's fancy Project Natal (and indeed, all motion controller systems).
