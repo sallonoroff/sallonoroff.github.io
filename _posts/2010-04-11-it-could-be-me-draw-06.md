@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Another day, another dollar-grabbing-scheme&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Bored yet? I know i am.
 
-**Lottery balance: £-6  |  Not A Lottery balance: £6**
+**Lottery balance: £-6  //  Not A Lottery balance: £6**

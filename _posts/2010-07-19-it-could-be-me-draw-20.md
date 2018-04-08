@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Here's the outcome of the 20th weekly It Could Be Me lottery draw&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Another disappointing result. I'm seriously toying with the idea of trying to employ Sod's Law to ensure i win, by promising to give two-thirds of the money away to charity or something.
 
-**Lottery balance: £-20  |  Not A Lottery balance: £20.02**
+**Lottery balance: £-20  //  Not A Lottery balance: £20.02**

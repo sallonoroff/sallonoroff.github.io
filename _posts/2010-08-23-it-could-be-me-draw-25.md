@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Is it obvious that i've lost all enthusiasm for this experiment yet?
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Next week's draw will mark the half-way point of this experiment. Given this, I might provide some in-depth analysis of the results thus far. It's quite likely that I won't though. Sorry.
 
-**Lottery balance: £-25  |  Not A Lottery balance: £25.03**
+**Lottery balance: £-25  //  Not A Lottery balance: £25.03**

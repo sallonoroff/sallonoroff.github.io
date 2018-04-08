@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Outcome of draw number 29…
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Leaving the two accounts like this:
 
-**Lottery balance: £-29  |  Not A Lottery balance: £29.04**
+**Lottery balance: £-29  //  Not A Lottery balance: £29.04**

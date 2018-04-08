@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Another week, another set of balls selected at random from a specially manufactured machine&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 I've fancied changing my numbers for weeks now but haven't yet gotten around to it. I expect there will be another penny of interest in the Not a Lottery bank account too but i haven't checked it yet. (Do you see a pattern forming here?)
 
-**Lottery balance: £-36.00  |  Not A Lottery balance: £36.05**
+**Lottery balance: £-36.00  //  Not A Lottery balance: £36.05**

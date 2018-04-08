@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Have a guess how i faired with this week's lottery numbers. Go on. Have a guess. Now check your answer below:
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 One number matched. Wooooooo!
 
-**Lottery balance: £-17  |  Not A Lottery balance: £17.01**
+**Lottery balance: £-17  //  Not A Lottery balance: £17.01**

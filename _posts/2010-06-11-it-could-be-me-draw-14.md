@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Another week, another anti-climax&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 So, no improvement in my &#8220;luck&#8221; but i have had my first &#8220;profit&#8221; in the Not A Lottery account thanks to some interest being accrued. A whole penny of interest. Look:
 
-**Lottery balance: £-14  |  Not A Lottery balance: £14.01**
+**Lottery balance: £-14  //  Not A Lottery balance: £14.01**

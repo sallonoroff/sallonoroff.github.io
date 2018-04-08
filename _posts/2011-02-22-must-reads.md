@@ -17,30 +17,30 @@ That said, there are _some_ feeds that i will always read through, no matter how
 
 **Atlas Obscura** &#8211; The Atlas describes itself as &#8220;a compendium of this age's wonders, curiosities, and esoterica&#8221; which is a nice way of saying that it's a good place to find out about some of the weird and wonderful stuff in the world.
 
-web: [atlasobscura.com](http://atlasobscura.com/)
+web: [atlasobscura.com](http://atlasobscura.com/)  
 rss: <http://atlasobscura.com/rss.xml>
 
 **Daring Fireball** &#8211; Possibly one of the most influential sites in the Apple websphere. Some call John Gruber the king of the Apple fanboys &#8211; which may or may not be true &#8211; I just love to read it for the cynical take on technological happenings (usually Apple-related).
 
-web: [daringfireball.net](http://daringfireball.net/)
+web: [daringfireball.net](http://daringfireball.net/)  
 rss: <http://daringfireball.net/index.xml>
 
 **Engadget** &#8211; One of the best sites for consumer technology news. And they seem to be loved by tech companies so often break news and have exclusive hands-on previews.
 
-web: [www.engadget.com](http://www.engadget.com/)
+web: [www.engadget.com](http://www.engadget.com/)  
 rss: <http://www.engadget.com/rss.xml>
 
 **MacRumors** &#8211; There are plenty of Apple rumour and news sites around but these guys offer a decent round-up of the latest goings-on.
 
-web: [www.macrumors.com](http://www.macrumors.com/)
+web: [www.macrumors.com](http://www.macrumors.com/)  
 rss: <http://www.macrumors.com/macrumors.xml>
 
 **Neatorama** &#8211; It's like the highlights of the web and pop-culture in one place. (I should also mention [BoingBoing](http://boingboing.net/) &#8211; it offers much the same sort of content but it's quite heavy on political stuff which often puts me off)
 
-web: [www.neatorama.com](http://www.neatorama.com/)
+web: [www.neatorama.com](http://www.neatorama.com/)  
 rss: <http://feeds2.feedburner.com/Neatorama>
 
 **The Register** &#8211; The technology news tabloid. Almost certainly the best tech news offering written from a British point of view.
 
-web: [www.theregister.co.uk](http://www.theregister.co.uk/)
+web: [www.theregister.co.uk](http://www.theregister.co.uk/)  
 rss: <http://www.theregister.co.uk/headlines.atom>

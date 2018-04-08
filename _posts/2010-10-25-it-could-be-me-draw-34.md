@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 And so, the outcome of the 34th ICBM draw&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 According to the National Lottery six hundred and eighty-three thousand, three hundred and fifteen tickets won a prize on these numbers. Not mine though, so the accounts stand like this&#8230;
 
-**Lottery balance: £-34.00  |  Not A Lottery balance: £34.05**
+**Lottery balance: £-34.00  //  Not A Lottery balance: £34.05**

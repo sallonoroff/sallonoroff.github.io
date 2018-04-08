@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 So, the penultimate ICBM draw.
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Nope, nothing. Though rather annoyingly if i had still been playing the same set of numbers that i'd started the experiment with (06, 09, 16, 23, 27, 32) then i'd now be celebrating a £10 win. And the opposing balances wouldn't look like this&#8230;
 
-**Lottery balance: -£51.00  |  Not A Lottery balance: £51.12**
+**Lottery balance: -£51.00  //  Not A Lottery balance: £51.12**

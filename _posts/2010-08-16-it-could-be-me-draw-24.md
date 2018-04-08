@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Another week, another lottery draw&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 I know you're all on tenterhooks about whether the Not A Lottery bank account had accrued another penny of interest, so i'll put you out of your misery&#8230;
 
-**Lottery balance: £-24  |  Not A Lottery balance: £24.03**
+**Lottery balance: £-24  //  Not A Lottery balance: £24.03**

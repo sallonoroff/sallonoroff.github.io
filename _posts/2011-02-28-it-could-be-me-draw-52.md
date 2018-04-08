@@ -6,8 +6,9 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
-The moment we&#8217;ve all been waiting for has finally arrived &#8211; here are the results of the **final** _It Could Be Me_ draw.
+The moment we've all been waiting for has finally arrived &#8211; here are the results of the _final_ It Could Be Me draw.
 
 Numbers drawn: **06, 08, 20, 29, 34, 36** + bonus ball **43**
 
@@ -21,8 +22,6 @@ Amount won: **£0**
 
 Financial outcome: **-£1**
 
-Yay! A big fat nothing again. One year&#8217;s worth of saturday National Lottery draws and not a penny won. Evidence, if you should need it, that your money is better off in the bank. I&#8217;ll probably undertake some &#8220;analysis&#8221; of this experiment and provide you with a conclusion. Sometime. Anyway, after a year, this is how the final balances compare…
+Yay! A big fat nothing again. One year's worth of saturday National Lottery draws and not a penny won. Evidence, if you should need it, that your money is better off in the bank. I'll probably undertake some &#8220;analysis&#8221; of this experiment and provide you with a conclusion. Sometime. Anyway, after a year, this is how the final balances compare:
 
 **Lottery balance: -£52.00  //  Not A Lottery balance: £52.14**
-
-&nbsp;

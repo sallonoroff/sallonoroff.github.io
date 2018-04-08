@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 I'm writing this, so you know i haven't hit the jackpot.
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 And thus&#8230;
 
-**Lottery balance: £-7  |  Not A Lottery balance: £7**
+**Lottery balance: £-7  //  Not A Lottery balance: £7**

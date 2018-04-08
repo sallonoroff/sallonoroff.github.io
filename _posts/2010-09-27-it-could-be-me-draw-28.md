@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Outcome of ICBM draw number 28...
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 All of which leaves the two competing balances looking like this:
 
-**Lottery balance: £-28  |  Not A Lottery balance: £28.04**
+**Lottery balance: £-28  //  Not A Lottery balance: £28.04**

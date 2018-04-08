@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 You know the score by now&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Just 19 more exciting draws and fun-packed follow-up reports to go&#8230;
 
-**Lottery balance: £-33.00  |  Not A Lottery balance: £33.05**
+**Lottery balance: £-33.00  //  Not A Lottery balance: £33.05**

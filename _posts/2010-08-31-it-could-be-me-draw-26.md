@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 This saturday's lottery draw marked the half-way point of my It Could Be Me experiment. Did anything notable happen? (No)
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 So, we're half-way. Last week i mentioned some in-depth analysis. Unfortunately i haven't got around to performing any so you'll have to make do with this for now: 6 months and i've won bugger-all.
 
-**Lottery balance: £-26  |  Not A Lottery balance: £26.03**
+**Lottery balance: £-26  //  Not A Lottery balance: £26.03**

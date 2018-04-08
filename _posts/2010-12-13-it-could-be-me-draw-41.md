@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 This week was the first use of a Lucky Dip ticket in this experiment. Let's see if a randomly selected set of numbers faired any better than the usual ones&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 One number matched. If i'd stuck with my usual numbers i'd have matched two. No prize either way so i can hardly claim to be upset or disappointed. If you'd like to play along at home and share my jubilation/disappointment next week i can tell you that my Lucky Dip numbers are 05, 11, 33, 39, 43 and 47. Meanwhile, i can report that the Not A Lottery bank account accrued _two_ pence interest last month. TWO PENCE! This shit is getting wild.
 
-**Lottery balance: £-41.00  |  Not A Lottery balance: £41.08**
+**Lottery balance: £-41.00  //  Not A Lottery balance: £41.08**

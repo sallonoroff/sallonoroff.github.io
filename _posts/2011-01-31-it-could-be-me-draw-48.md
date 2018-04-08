@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 You're all itching to know the outcome of draw number forty-eight, aren't you? NO?! Oh, well that's all i've got for you&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Another quid down the drain. Quelle surprise. 4 weeks of this shit experiement to go and i'm going to need a 4-matches ticket just to break even.
 
-**Lottery balance: -£48.00  |  Not A Lottery balance: £48.10**
+**Lottery balance: -£48.00  //  Not A Lottery balance: £48.10**

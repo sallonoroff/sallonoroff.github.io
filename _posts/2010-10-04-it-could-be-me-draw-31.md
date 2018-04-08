@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Another week, another lottery draw…
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 According to the Lotto people, over 520,000 tickets matched 3 balls and won £10 this week. Not me though. Not me. I probably earned another penny in interest on the Not A Lottery account though (i'm yet to check). Joy.
 
-**Lottery balance: £-31  |  Not A Lottery balance: £31.04**
+**Lottery balance: £-31  //  Not A Lottery balance: £31.04**

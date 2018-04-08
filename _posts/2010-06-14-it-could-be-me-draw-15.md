@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Another set of results, as perfunctory as a man's sexual activity in the shower:
 
@@ -23,6 +24,6 @@ Financial outcome: **-£1**
 
 Fifteen goes. FIFTEEN. And nothing. Not a single bean from the lottery. And yet still my sense of expectancy is not diminished, even though the other day i noticed the chances of winning a tenner are just 1 in 56 &#8211; so i'm not likely to win anything at all in my year-long[^fn-ayear] experiment.
 
-**Lottery balance: £-15  |  Not A Lottery balance: £15.01**
+**Lottery balance: £-15  //  Not A Lottery balance: £15.01**
 
 [^fn-ayear]: 52 weeks, kids!

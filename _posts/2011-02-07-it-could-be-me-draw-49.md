@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 [drum roll]
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Weird to see the numbers starting so high. To be expected in a random draw of course but i suppose the human mind spots oddities like this. Anyway, another tuppence interest in the Not A Lottery account.
 
-**Lottery balance: -£49.00  |  Not A Lottery balance: £49.12**
+**Lottery balance: -£49.00  //  Not A Lottery balance: £49.12**

@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 I think you know the score by now. Also, that i'm here writing this means i've not won anything.
 
@@ -23,7 +24,7 @@ Financial outcome: **-£1**
 
 4 attempts, 4 losses. The bank balance maintains its lead&#8230;
 
-**Lottery balance: £-4  |  Not A Lottery balance: £4**
+**Lottery balance: £-4  //  Not A Lottery balance: £4**
 
 {% include mydots.html %}
 

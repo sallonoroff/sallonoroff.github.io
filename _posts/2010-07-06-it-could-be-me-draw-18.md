@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Here we go again. You know the score by now&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Again, just one number matched. Very disappointing. Meanwhile, the Not A Lottery bank account accrues another penny in interest. GOAL!
 
-**Lottery balance: £-18  |  Not A Lottery balance: £18.02**
+**Lottery balance: £-18  //  Not A Lottery balance: £18.02**

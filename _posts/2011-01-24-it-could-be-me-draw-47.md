@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Draw number 47. FORTY-SEVEN. Well done if you've read every ICBM post to date.
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 You know this experiment will end with Lottery £52 down and Not A Lottery £52.14 up, don't you? Sorry, did i spoil it for you?
 
-**Lottery balance: -£47.00  |  Not A Lottery balance: £47.10**
+**Lottery balance: -£47.00  //  Not A Lottery balance: £47.10**

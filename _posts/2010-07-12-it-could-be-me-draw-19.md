@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Yes, here's another exciting lottery update for you.
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 No matches whatsoever. Still, i've my new iPhone to distract me from this painfully disappointing outcome.
 
-**Lottery balance: £-19  |  Not A Lottery balance: £19.02**
+**Lottery balance: £-19  //  Not A Lottery balance: £19.02**

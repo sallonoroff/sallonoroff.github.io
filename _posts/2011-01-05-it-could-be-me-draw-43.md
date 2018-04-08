@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 So, did the fact that ICBM draw number 43 fell on Christmas Day bring me any luck?
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Nope. I must have been on Santa's naughty list.
 
-**Lottery balance: £-43.00  |  Not A Lottery balance: £43.08**
+**Lottery balance: £-43.00  //  Not A Lottery balance: £43.08**

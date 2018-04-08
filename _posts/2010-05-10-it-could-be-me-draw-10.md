@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 The 10th ICBM draw (or Lotto draw #1500, if you prefer) took place on Saturday night and do you know what happened? Go on, have a guess&#8230; YES! That's right&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 After failing to win a single bean yet again i decided to make use of the wonderful stats over at [lottery.merseyworld.com](http://lottery.merseyworld.com/) in order to find out how many times &#8220;My Numbers&#8221; have won a prize in the history of the National Lottery. The answer? 14. Yes, that's fourteen. That particular set of six numbers has won a prize in just 14 Saturday draws since 1994. No wonder the two balances continue to look like this:
 
-**Lottery balance: £-10  |  Not A Lottery balance: £10**
+**Lottery balance: £-10  //  Not A Lottery balance: £10**

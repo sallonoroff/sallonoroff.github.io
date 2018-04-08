@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 So, am i a millionaire yet? Am i bollocks.
 
@@ -25,4 +26,4 @@ Meanwhile, my online savings account is now home to _two_ pound coins.
 
 All of which means that the non-lottery option continues to prove the better option...
 
-**Lottery balance: £-2  |  Not A Lottery balance: £2**
+**Lottery balance: £-2  //  Not A Lottery balance: £2**

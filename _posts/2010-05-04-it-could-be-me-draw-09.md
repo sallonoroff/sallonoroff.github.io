@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Hello there. We're now 9 weeks into this experiment and i'm boiling with a sense of entitlement to a win, such is the stupidity of this gambling lark.
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 And so the two balances now look like this&#8230;
 
-**Lottery balance: £-9  |  Not A Lottery balance: £9**
+**Lottery balance: £-9  //  Not A Lottery balance: £9**

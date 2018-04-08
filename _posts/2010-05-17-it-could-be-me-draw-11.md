@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 I'm definitely changing my numbers for next week's draw. Sod superstitions.
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Remember to check back next week, when the balances will almost certainly continue to look something like this:
 
-**Lottery balance: £-11  |  Not A Lottery balance: £11**
+**Lottery balance: £-11  //  Not A Lottery balance: £11**

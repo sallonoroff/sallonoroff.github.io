@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Hello. Apologies for the lack of updates &#8211; i know you've all been on the edge of your seats to discover how this stupid little experiment is going, especially since i swore to try some new numbers. Here's how i did on the 22nd May (ICBM draw #12)&#8230;
 
@@ -37,4 +38,4 @@ Financial outcome: **-£1**
 
 Can you tell i'm getting really, really bored of this? Gambling has never been so dull. Maybe if the balances stopped looking like this i'd be happier:
 
-**Lottery balance: £-13  |  Not A Lottery balance: £13**
+**Lottery balance: £-13  //  Not A Lottery balance: £13**

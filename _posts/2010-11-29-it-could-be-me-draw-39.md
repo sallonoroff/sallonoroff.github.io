@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 My other plan to make £100,000 continues&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 &#8230;to fail miserably. But not unexpectedly.
 
-**Lottery balance: £-39.00  |  Not A Lottery balance: £39.06**
+**Lottery balance: £-39.00  //  Not A Lottery balance: £39.06**

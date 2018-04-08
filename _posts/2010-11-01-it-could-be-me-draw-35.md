@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Saturday 30th November 2010, the day that shall forever be known for National Lottery Lotto draw #1550, AKA ICBM draw #35&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Oh, sorry, did my intro text lead you to believe that this draw would be memorable? That i'd won something? Ha. Sorry. There wasn't a jot, as usual.
 
-**Lottery balance: £-35.00  |  Not A Lottery balance: £35.05**
+**Lottery balance: £-35.00  //  Not A Lottery balance: £35.05**

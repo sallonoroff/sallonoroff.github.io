@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 And so i announce the results of the 40th draw in this 52 week experiment&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Nothing out of the ordinary there then. I expect there'll be another penny of interest in the bank account when i get around to checking. About the most exciting thing i have to report to you, dear viewer, is that i've finally changed my numbers. From next week onwards i'll be playing a Lucky Dip ticket (that's a ticket with a randomly generated set of six numbers, if you weren't aware of UK Lotto terminology). Which means you should probably go out before Saturday and buy yourself a ticket with 06, 09, 11, 23, 33, 44 selected.
 
-**Lottery balance: £-40.00  |  Not A Lottery balance: £40.06**
+**Lottery balance: £-40.00  //  Not A Lottery balance: £40.06**

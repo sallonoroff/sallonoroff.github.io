@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Blah blah blah&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 So here's how the two schemes measure up to date:
 
-**Lottery balance: £-21  |  Not A Lottery balance: £21.02**
+**Lottery balance: £-21  //  Not A Lottery balance: £21.02**

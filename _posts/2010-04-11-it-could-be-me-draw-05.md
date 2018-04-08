@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 RELEASE THE BALLS!
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 So, we're over a month into the experiment now and the bank option still leads. We would've had some interest added to the account this week too, had the balance (and/or interest rate) been higher.
 
-**Lottery balance: £-5  |  Not A Lottery balance: £5**
+**Lottery balance: £-5  //  Not A Lottery balance: £5**

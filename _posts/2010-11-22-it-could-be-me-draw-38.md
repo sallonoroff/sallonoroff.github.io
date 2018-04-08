@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Here are the results of Saturday's lottery draw&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 So, i'm still not rich enough to pack in my job. Boo!
 
-**Lottery balance: £-38.00  |  Not A Lottery balance: £38.06**
+**Lottery balance: £-38.00  //  Not A Lottery balance: £38.06**

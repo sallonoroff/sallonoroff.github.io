@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 ICBM draw number 16 (or, National Lottery Lotto draw number 1512, if you prefer) took place on the evening of Saturday 19th June 2010. Here's how i faired:
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Yet again, not a sausage.
 
-**Lottery balance: £-16  |  Not A Lottery balance: £16.01**
+**Lottery balance: £-16  //  Not A Lottery balance: £16.01**

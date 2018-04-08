@@ -3,8 +3,10 @@ id: 1055
 title: 'It could be me. (Draw #32)'
 date: 2010-10-11 10:08:00 +00:00
 author: mark
-layout: post/
-
+layout: post
+tags:
+  - it could be me
+  - lottery
 ---
 Here's another exciting instalment of the It Could Be Me experiment…
 
@@ -22,4 +24,4 @@ Financial outcome: **-£1**
 
 Another non-event. Which is to be expected really. Anyway, there _was_ another penny of interest in the bank last week&#8230;
 
-**Lottery balance: £-32  |  Not A Lottery balance: £32.05**
+**Lottery balance: £-32  //  Not A Lottery balance: £32.05**

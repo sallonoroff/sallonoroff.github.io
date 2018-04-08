@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 And, lo, not a penny was won.
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Which all, rather obviously, means that the two balances look like this&#8230;
 
-**Lottery balance: £-8  |  Not A Lottery balance: £8**
+**Lottery balance: £-8  //  Not A Lottery balance: £8**

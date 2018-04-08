@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Yes, another ICBM update. How thrilling for us all.
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Only two more draws to go until we can bring this experiment to an end and the alternative totals look like this&#8230;
 
-**Lottery balance: -£50.00  |  Not A Lottery balance: £50.12**
+**Lottery balance: -£50.00  //  Not A Lottery balance: £50.12**

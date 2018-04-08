@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Horrible weather we're having, isn't it?
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 Yes, i have completely run out of things to say about this little experiment. Still, another tuppence of interest accumulated in the Not A Lottery account, as predicted.
 
-**Lottery balance: £-46.00  |  Not A Lottery balance: £46.10**
+**Lottery balance: £-46.00  //  Not A Lottery balance: £46.10**

@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 The [Lotto](http://www.national-lottery.co.uk/player/p/lotterydrawgames/lotto.ftl) draw for Saturday 6th March 2010 marked the beginning of my &#8220;[It could be me](http://www.sallonoroff.co.uk/blog/2010/03/it-could-be-me/)&#8221; experiment. Maybe you read about it in the papers? No? Oh, i can't believe they didn't pick up on it. Oh well, maybe later on. So, how did I do? Are you now reading the ramblings of a millionaire?
 
@@ -25,4 +26,4 @@ Meanwhile, in an online savings account sits one pound coin. Shiny, unmolested a
 
 All of which means that the non-lottery option is winning comprehensively so far&#8230;
 
-**Lottery balance: £-1  |  Not A Lottery balance: £1**
+**Lottery balance: £-1  //  Not A Lottery balance: £1**

@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 The outcome of Saturday's lottery draw&#8230;
 
@@ -23,4 +24,4 @@ Financial outcome: **-£1**
 
 So the balances look something like this. Something like. I haven't checked the bank account &#8211; it's likely to have made another penny in interest since we've just started a new month.
 
-**Lottery balance: £-23  |  Not A Lottery balance: £23.02**
+**Lottery balance: £-23  //  Not A Lottery balance: £23.02**

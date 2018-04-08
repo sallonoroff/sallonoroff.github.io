@@ -6,6 +6,7 @@ author: mark
 layout: post
 tags:
   - it could be me
+  - lottery
 ---
 Saturday saw draw number 3 of &#8220;It could be me&#8221;, AKA National Lottery Lotto draw number 1486, take place. Lets see how i got on&#8230;
 
@@ -23,7 +24,7 @@ Financial outcome: **-£1**
 
 So, that's three straight lottery losses while the bank account balance continues to grow...
 
-**Lottery balance: £-3  |  Not A Lottery balance: £3**
+**Lottery balance: £-3  //  Not A Lottery balance: £3**
 
 {% include mydots.html %}
 
