@@ -7,11 +7,11 @@ layout: post
 tags:
   - it could be me
 ---
-I&#8217;m definitely changing my numbers for next week&#8217;s draw. Sod superstitions.
+I'm definitely changing my numbers for next week's draw. Sod superstitions.
 
-Numbers drawn: **01, 04, 24, 26, 27, 48** + bonus ball **28**
+Numbers drawn: **1, 4, 24, 26, 27, 48** + bonus ball **28**
 
-My Numbers: ******6**, ******9**, **16**, **23**, **27**, **32**
+My Numbers: **6, 9, 16, 23, 27, 32**
 
 No. of matching numbers: **1**
 
@@ -23,4 +23,4 @@ Financial outcome: **-£1**
 
 Remember to check back next week, when the balances will almost certainly continue to look something like this:
 
-**Lottery balance: £-11  //  Not A Lottery balance: £11**
+**Lottery balance: £-11  |  Not A Lottery balance: £11**

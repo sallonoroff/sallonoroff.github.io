@@ -5,8 +5,8 @@ date: 2010-03-16 13:02:16 +00:00
 author: mark
 layout: post
 tags:
-  - broken
-  - errors
+  - hardware
+  - bugs
   - amazon
   - games
   - consumers
@@ -17,11 +17,11 @@ tags:
 
 So, one day i turned on my 18 month old XBOX360 and instead of the usual on-screen welcome, i was presented with this:
 
-![XBOX system error](/images/fromwp/2010/03/mye73.jpg){:class="img-responsive"}
+![XBOX system error](/images/fromwp/2010/03/mye73.jpg)
 
 And on the console itself, instead of a green light i was being shown a blinking red one:
 
-![XBOX red ring](/images/fromwp/2010/03/redlight.jpg){:class="img-responsive"}
+![XBOX red ring](/images/fromwp/2010/03/redlight.jpg)
 
 I immediately tried all the usual tricks to bring the thing back to life (restarting, unplugging it for a few minutes, disconnecting everything but the power and av cables, etc) but had no luck &#8211; so i rang Microsoft.
 

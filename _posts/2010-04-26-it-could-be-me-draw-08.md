@@ -9,9 +9,9 @@ tags:
 ---
 And, lo, not a penny was won.
 
-Numbers drawn: **01, 04, 12, 23, 33, 40** + bonus ball **35**
+Numbers drawn: **1, 4, 12, 23, 33, 40** + bonus ball **35**
 
-My Numbers: ******6**, ******9**, **16**, **23**, **27**, **32**
+My Numbers:  **6, 9, 16, 23, 27, 32**
 
 No. of matching numbers: **1**
 
@@ -23,4 +23,4 @@ Financial outcome: **-£1**
 
 Which all, rather obviously, means that the two balances look like this&#8230;
 
-**Lottery balance: £-8  //  Not A Lottery balance: £8**
+**Lottery balance: £-8  |  Not A Lottery balance: £8**

@@ -7,7 +7,7 @@ layout: post
 tags:
   - it could be me
 ---
-Another set of results, as perfunctory as a man&#8217;s sexual activity in the shower:
+Another set of results, as perfunctory as a man's sexual activity in the shower:
 
 Numbers drawn: **01, 16, 17, 19, 33, 34** + bonus ball **09**
 
@@ -21,6 +21,8 @@ Amount won: **£0**
 
 Financial outcome: **-£1**
 
-Fifteen goes. FIFTEEN. And nothing.  Not a single bean from the lottery. And yet still my sense of expectancy is not diminished, even though the other day i noticed the chances of winning a tenner are just 1 in 56 &#8211; so i&#8217;m not likely to win anything at all in my year long (52 weeks, kids!) experiment.
+Fifteen goes. FIFTEEN. And nothing. Not a single bean from the lottery. And yet still my sense of expectancy is not diminished, even though the other day i noticed the chances of winning a tenner are just 1 in 56 &#8211; so i'm not likely to win anything at all in my year-long[^fn-ayear] experiment.
 
-**Lottery balance: £-15  //  Not A Lottery balance: £15.01**
+**Lottery balance: £-15  |  Not A Lottery balance: £15.01**
+
+[^fn-ayear]: 52 weeks, kids!

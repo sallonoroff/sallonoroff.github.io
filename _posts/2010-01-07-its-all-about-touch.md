@@ -1,6 +1,6 @@
 ---
 id: 777
-title: It&#8217;s all about touch.
+title: 'It&#8217;s all about touch.'
 date: 2010-01-07 16:44:09 +00:00
 author: mark
 layout: post

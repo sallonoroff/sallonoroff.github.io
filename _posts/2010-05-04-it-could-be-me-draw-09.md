@@ -7,11 +7,11 @@ layout: post
 tags:
   - it could be me
 ---
-Hello there. We&#8217;re now 9 weeks into this experiment and i&#8217;m boiling with a sense of entitlement to a win, such is the stupidity of this gambling lark.
+Hello there. We're now 9 weeks into this experiment and i'm boiling with a sense of entitlement to a win, such is the stupidity of this gambling lark.
 
-Numbers drawn: **06, 15, 28, 29, 30, 47** + bonus ball **19**
+Numbers drawn: **6, 15, 28, 29, 30, 47** + bonus ball **19**
 
-My Numbers: ******6**, ******9**, **16**, **23**, **27**, **32**
+My Numbers: **6, 9, 16, 23, 27, 32**
 
 No. of matching numbers: **1**
 
@@ -23,4 +23,4 @@ Financial outcome: **-£1**
 
 And so the two balances now look like this&#8230;
 
-**Lottery balance: £-9  //  Not A Lottery balance: £9**
+**Lottery balance: £-9  |  Not A Lottery balance: £9**

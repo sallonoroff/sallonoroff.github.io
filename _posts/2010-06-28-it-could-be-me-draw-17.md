@@ -7,7 +7,7 @@ layout: post
 tags:
   - it could be me
 ---
-Have a guess how i faired with this week&#8217;s lottery numbers. Go on. Have a guess. Now check your answer below:
+Have a guess how i faired with this week's lottery numbers. Go on. Have a guess. Now check your answer below:
 
 Numbers drawn: **18, 26, 33, 35, 37, 47** + bonus ball **03**
 
@@ -23,4 +23,4 @@ Financial outcome: **-£1**
 
 One number matched. Wooooooo!
 
-**Lottery balance: £-17  //  Not A Lottery balance: £17.01**
+**Lottery balance: £-17  |  Not A Lottery balance: £17.01**

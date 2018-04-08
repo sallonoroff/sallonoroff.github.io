@@ -1,6 +1,6 @@
 ---
 id: 772
-title: Sony&#8217;s Joggler.
+title: 'Sony&#8217;s Joggler.'
 date: 2010-01-07 15:30:40 +00:00
 author: mark
 layout: post
