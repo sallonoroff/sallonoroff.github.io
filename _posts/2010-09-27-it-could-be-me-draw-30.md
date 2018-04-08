@@ -7,9 +7,9 @@ layout: post
 tags:
   - it could be me
 ---
-Right, backlog cleared and we&#8217;re bang up-to-date. Here&#8217;s the outcome of ICBM draw number 30 (AKA National Lottery Lotto draw 1540, 25th September 2010)&#8230;
+Right, backlog cleared and we're bang up-to-date. Here's the outcome of ICBM draw number 30 (AKA National Lottery Lotto draw 1540, 25th September 2010)&#8230;
 
-Numbers drawn: **19, 22, 30, 33, 35, 39** ****+ bonus ball **05**
+Numbers drawn: **19, 22, 30, 33, 35, 39** + bonus ball **05**
 
 My Numbers: **06, 09, 11, 23, 33, 44**
 
@@ -21,6 +21,6 @@ Amount won: **£0**
 
 Financial outcome: **-£1**
 
-Well, this brings an end to a 4-draw streak of matching no numbers whatsoever&#8230; which is something i suppose but still doesn&#8217;t bag me any winnings.
+Well, this brings an end to a 4-draw streak of matching no numbers whatsoever&#8230; which is something i suppose but still doesn't bag me any winnings.
 
-**Lottery balance: £-30  //  Not A Lottery balance: £30.04**
+**Lottery balance: £-30  |  Not A Lottery balance: £30.04**

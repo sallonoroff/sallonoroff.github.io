@@ -13,7 +13,7 @@ Numbers drawn: **﻿﻿12, 22, 30, 31, 34, 39** + bonus ball **36**
 
 My Numbers: **06, 09, 11, 23, 33, 44**
 
-No. of matching numbers: ****
+No. of matching numbers: **0**
 
 Price of ticket: **£1**
 
@@ -21,6 +21,6 @@ Amount won: **£0**
 
 Financial outcome: **-£1**
 
-I&#8217;ve fancied changing my numbers for weeks now but haven&#8217;t yet gotten around to it. I expect there will be another penny of interest in the Not a Lottery bank account too but i haven&#8217;t checked it yet. (Do you see a pattern forming here?)
+I've fancied changing my numbers for weeks now but haven't yet gotten around to it. I expect there will be another penny of interest in the Not a Lottery bank account too but i haven't checked it yet. (Do you see a pattern forming here?)
 
-**Lottery balance: £-36.00  //  Not A Lottery balance: £36.05**
+**Lottery balance: £-36.00  |  Not A Lottery balance: £36.05**

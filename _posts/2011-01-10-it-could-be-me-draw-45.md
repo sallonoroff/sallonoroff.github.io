@@ -23,4 +23,4 @@ Financial outcome: **-£1**
 
 [comment about not having won anything here]
 
-**Lottery balance: £-45.00  //  Not A Lottery balance: £45.08**
+**Lottery balance: £-45.00  |  Not A Lottery balance: £45.08**

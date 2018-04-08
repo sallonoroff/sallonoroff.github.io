@@ -23,7 +23,7 @@ By way of an apology, here is the famous bikini&#8230;
 
 Lovely.
 
-Now please go and look at some of my other posts. They're not about Princess Leia, Boba Fett or even Salacious Crumb, but they are about geeky things. Geeky things like [lovely Apples](http://www.sallonoroff.co.uk/blog/tag/#apple), [device designs](http://www.sallonoroff.co.uk/blog/tag/#design), [Twitter](http://www.sallonoroff.co.uk/blog/tag/#twitter) and [general sputum from around the Internet](http://www.sallonoroff.co.uk/blog/tag/#arbitrary).
+Now please go and look at some of my other posts. They're not about Princess Leia, Boba Fett or even Salacious Crumb, but they are about geeky things. Geeky things like [lovely Apples](http://www.sallonoroff.co.uk/blog/tags#apple), [device designs](http://www.sallonoroff.co.uk/blog/tags#design), [Twitter](http://www.sallonoroff.co.uk/blog/tags#twitter) and [general sputum from around the Internet](http://www.sallonoroff.co.uk/blog/tags#arbitrary).
 
 {% include mydots.html %}
 

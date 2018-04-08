@@ -21,6 +21,6 @@ Amount won: **£0**
 
 Financial outcome: **-£1**
 
-Nope. I must have been on Santa&#8217;s naughty list.
+Nope. I must have been on Santa's naughty list.
 
-**Lottery balance: £-43.00  //  Not A Lottery balance: £43.08**
+**Lottery balance: £-43.00  |  Not A Lottery balance: £43.08**

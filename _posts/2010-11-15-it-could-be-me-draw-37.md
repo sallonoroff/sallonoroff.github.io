@@ -21,6 +21,6 @@ Amount won: **£0**
 
 Financial outcome: **-£1**
 
-I _still_ fancy changing my numbers but _still_ haven’t bothered. I _still_ expect there&#8217;ll be another penny of interest in the Not a Lottery bank account too but i _still_ haven’t checked it yet.
+I _still_ fancy changing my numbers but _still_ haven’t bothered. I _still_ expect there'll be another penny of interest in the Not a Lottery bank account too but i _still_ haven’t checked it yet.
 
-**Lottery balance: £-37.00  //  Not A Lottery balance: £37.05**
+**Lottery balance: £-37.00  |  Not A Lottery balance: £37.05**

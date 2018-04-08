@@ -21,6 +21,6 @@ Amount won: **£0**
 
 Financial outcome: **-£1**
 
-So here&#8217;s how the two schemes measure up to date:
+So here's how the two schemes measure up to date:
 
-**Lottery balance: £-21  //  Not A Lottery balance: £21.02**
+**Lottery balance: £-21  |  Not A Lottery balance: £21.02**

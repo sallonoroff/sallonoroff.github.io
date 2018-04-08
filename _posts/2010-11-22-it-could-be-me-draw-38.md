@@ -7,7 +7,7 @@ layout: post
 tags:
   - it could be me
 ---
-Here are the results of Saturday&#8217;s lottery draw&#8230;
+Here are the results of Saturday's lottery draw&#8230;
 
 Numbers drawn: **﻿﻿06, 07, 08, 17, 27, 46** + bonus ball **29**
 
@@ -21,6 +21,6 @@ Amount won: **£0**
 
 Financial outcome: **-£1**
 
-So, i&#8217;m still not rich enough to pack in my job. Boo!
+So, i'm still not rich enough to pack in my job. Boo!
 
-**Lottery balance: £-38.00  //  Not A Lottery balance: £38.06**
+**Lottery balance: £-38.00  |  Not A Lottery balance: £38.06**

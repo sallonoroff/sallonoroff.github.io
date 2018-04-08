@@ -7,7 +7,7 @@ layout: post
 tags:
   - it could be me
 ---
-In a rush. Just letting you know i&#8217;m not a millionaire, surprisingly enough.
+In a rush. Just letting you know i'm not a millionaire, surprisingly enough.
 
 Numbers drawn: **10, 24, 30, 33, 40, 45** + bonus ball **16**
 
@@ -23,4 +23,4 @@ Financial outcome: **-£1**
 
 Which leaves the totals looking like this:
 
-**Lottery balance: £-22  //  Not A Lottery balance: £22.02**
+**Lottery balance: £-22  |  Not A Lottery balance: £22.02**

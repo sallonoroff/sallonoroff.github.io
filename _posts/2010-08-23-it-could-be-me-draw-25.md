@@ -7,7 +7,7 @@ layout: post
 tags:
   - it could be me
 ---
-Is it obvious that i&#8217;ve lost all enthusiasm for this experiment yet?
+Is it obvious that i've lost all enthusiasm for this experiment yet?
 
 Numbers drawn: **08, 15, 19, 26, 33, 36** + bonus ball **01**
 
@@ -21,6 +21,6 @@ Amount won: **£0**
 
 Financial outcome: **-£1**
 
-Next week&#8217;s draw will mark the half-way point of this experiment. Given this, I might provide some in-depth analysis of the results thus far. It&#8217;s quite likely that I won&#8217;t though. Sorry.
+Next week's draw will mark the half-way point of this experiment. Given this, I might provide some in-depth analysis of the results thus far. It's quite likely that I won't though. Sorry.
 
-**Lottery balance: £-25  //  Not A Lottery balance: £25.03**
+**Lottery balance: £-25  |  Not A Lottery balance: £25.03**
