@@ -23,3 +23,4 @@ Anyway, I hope you like the changes overall. And if you spot anything that looks
 [^fn-todolist]: I'm not entirely happy with post layout, there are some broken video embeds, image-handling in the imported posts needs sorting out, lots of footnotes want neatening up, there are far too many [tags](/blog/tags), etc etc...
 
 [^fn-nostats]: Long-time readers will recall I was using Wordpress Stats, after [removing Google Analytics](/blog/2013/05/beginning-a-google-diet/), but of course that's no longer possible. It's a little disappointing to find that GitHub Pages doesn't have some sort of basic statistics.
+
