@@ -9,7 +9,7 @@ tags:
 ---
 So, the penultimate ICBM draw.
 
-Numbers drawn: **06, 16, 26, 32, 34, 46** ****+ bonus ball **33**
+Numbers drawn: **06, 16, 26, 32, 34, 46** + bonus ball **33**
 
 My Numbers: **05, 06, 14, 24, 40, 41**
 
@@ -21,6 +21,6 @@ Amount won: **£0**
 
 Financial outcome: **-£1**
 
-Nope, nothing. Though rather annoyingly if i had still been playing the same set of numbers that i&#8217;d started the experiment with (06, 09, 16, 23, 27, 32) then i&#8217;d now be celebrating a £10 win. And the opposing balances wouldn&#8217;t look like this&#8230;
+Nope, nothing. Though rather annoyingly if i had still been playing the same set of numbers that i'd started the experiment with (06, 09, 16, 23, 27, 32) then i'd now be celebrating a £10 win. And the opposing balances wouldn't look like this&#8230;
 
-**Lottery balance: -£51.00  //  Not A Lottery balance: £51.12**
+**Lottery balance: -£51.00  |  Not A Lottery balance: £51.12**

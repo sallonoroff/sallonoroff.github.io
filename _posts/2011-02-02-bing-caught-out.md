@@ -8,8 +8,9 @@ tags:
   - bing
   - google
   - microsoft
+  - search
   - web
 ---
-[Here&#8217;s an amusing entry over on Google&#8217;s blog](http://googleblog.blogspot.com/2011/02/microsofts-bing-uses-google-search.html), detailing how they&#8217;ve caught Microsoft&#8217;s Bing search engine copying their search results.
+[Here's an amusing entry over on Google's blog](http://googleblog.blogspot.com/2011/02/microsofts-bing-uses-google-search.html), detailing how they've caught Microsoft's Bing search engine copying their search results.
 
 To be honest, it still surprises me to learn that some people use a search engine other than Google.

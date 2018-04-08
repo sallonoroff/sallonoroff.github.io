@@ -10,6 +10,7 @@ tags:
   - url
   - web
   - google
+  - search
 ---
 Ah, the humble HyperLink. The URL. The Web Address. Call it what you will, it's a modern day marvel. A simple string of characters that point you to something or other. Something or other that you're interested in, be that a webpage, a photo, a video, a song, a piece of software, whatever. Oh, and that little ol' URL doesn't just point you in the right direction &#8211; this thing is an address &#8211; it points you exactly at what you wanted. So why then do i keep seeing adverts which suggest that i &#8220;search online for&#8230;&#8221; the product/service name? What's the bloody matter with these marketeers? Rather than including an address on their advert that _will_ take the potential customer directly to _whatever they want them to see_, they instead suggest searching the web for some choice word or phrase that _may_ take them where they intended eventually. That same potential customer _may_ actually come across things the advertiser doesn't want them to see, such as a competitor's website or a bad review of the product or service in question. Worse still, there's always the chance they'll never find what they were meant-to at all.
 
