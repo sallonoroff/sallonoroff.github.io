@@ -10,6 +10,6 @@ tags:
   - mobiles
   - ubuntu
 ---
-[In your hand, it&#8217;s an Android phone. At your desk, it&#8217;s an Ubuntu PC.](http://www.ubuntu.com/devices/android)
+[In your hand, it's an Android phone. At your desk, it's an Ubuntu PC.](http://www.ubuntu.com/devices/android)
 
 Clever.

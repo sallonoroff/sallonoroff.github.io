@@ -9,6 +9,7 @@ tags:
   - manual
   - mobiles
   - samsung
+  - user interface
 ---
 A novel mobile phone [packaging concept by Vitamins](http://vitaminsdesign.com/projects/out-of-the-box-for-samsung/), for Samsung&#8230;
 
@@ -17,5 +18,3 @@ A novel mobile phone [packaging concept by Vitamins](http://vitaminsdesign.com/p
 > _Each page reveals the elements of the phone in the right order, helping the user to set up the sim card, the battery and even slide the case onto the phone._
 
 [Watch the video over at Vimeo](http://vimeo.com/26489936).
-
-&nbsp;

@@ -11,7 +11,7 @@ tags:
   - ios
   - macbook
   - osx
-  - software
+  - siri
   - wwdc
 ---
 Two days ago, at their WWDC Keynote event, Apple unveiled the next version of the iPhone/iPad operating system ([iOS 6](http://www.apple.com/uk/ios/ios6/)), told us a bit more about the next version of the Macintosh operating system ([Mac OS X 10.8 – Mountain Lion](http://www.apple.com/uk/osx/)) and announced some MacBook updates, including the &#8220;next generation&#8221; [MacBook Pro](http://www.apple.com/uk/macbook-pro/). I won't write too much about all this news &#8211; in fact, i'm going to skip over those notebook upgrades altogether, other than to say &#8220;Mmmmmmm&#8230; Retina MacBook Pro&#8221; &#8211; and just quickly comment on the new features of OS X and iOS that Apple highlighted during the Keynote. (If this format feels familiar, that'll be because [i did exactly the same](http://www.sallonoroff.co.uk/blog/2011/06/lion-ios5-and-icloud/) after last year's WWDC announcements.)

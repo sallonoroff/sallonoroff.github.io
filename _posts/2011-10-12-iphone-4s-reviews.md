@@ -6,12 +6,12 @@ author: mark
 layout: post
 tags:
   - apple
-  - gruber
-  - hardware
+  - john gruber
   - ios
   - iphone
   - review
   - stephen fry
+  - siri
 ---
 The first reviews of the iPhone 4S (by those people Apple deemed worthy enough to have early access to the device) have gone online today. They are, unsurprisingly, very positive.
 

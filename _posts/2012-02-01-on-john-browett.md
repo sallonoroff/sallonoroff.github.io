@@ -8,6 +8,7 @@ tags:
   - apple
   - retail
   - john browett
+  - cockup
 ---
 Yesterday Apple [announced](http://www.apple.com/pr/library/2012/01/31John-Browett-Joins-Apple-as-Senior-Vice-President-of-Retail.html) that John Browett, CEO of UK retailer [Dixons](http://www.dixonsretail.com/), is to become their new Senior Vice President of Retail. If you follow me on twitter, you may have seen my immediate reaction to the news. It wasn't terribly positive. And that's because as someone who knows a little about consumer tech, i don't hold Dixons/Currys/PC World in very high regard. They sell some piss-poor kit (yes, Advent computers, i'm looking at you), they overprice basics like cables, they push extended warranties and the advice their shop assistants give amounts to nothing more than reading the back of the same box you just did.
 

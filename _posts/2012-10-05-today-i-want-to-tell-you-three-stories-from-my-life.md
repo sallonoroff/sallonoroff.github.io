@@ -7,6 +7,7 @@ layout: post
 tags:
   - apple
   - steve jobs
+  - history
   - videos
 ---
 [Yesterday i posted](http://www.sallonoroff.co.uk/blog/2012/10/i-have-opinions-on-most-things-so/) a link to a great video of Steve Jobs talking technology. Today, on the 1st anniversary of his death, i'm posting this [video](http://youtu.be/UF8uR6Z6KLc) of his [2005 Stanford Commencement Address](http://news.stanford.edu/news/2005/june15/jobs-061505.html), in which he talks about life.
@@ -19,6 +20,6 @@ Yes, you've probably seen it before. I don't care. I think it's massively (re-)w
 
 Everytime i watch/hear/read this I wish i had the fucking balls to live by the same sort of rule. And then almost immediately afterwards think, how can i afford not to? (Yet I change nothing. I'm an idiot.)
 
-<span style="color: #c0c0c0;">&#8230;</span>
+{% include mydots.html %}
 
-**PS.** There&#8217;s a beautiful tribute up on [apple.com](http://apple.com/) today.
+**PS.** There's a beautiful tribute up on [apple.com](http://apple.com/) today.

@@ -8,6 +8,7 @@ tags:
   - arbitrary
   - camera
   - not so tech
+  - photos
 ---
 > _The rules are simple: I put the self-timer on 2 seconds, push the button and try to get as far from the camera as I can._
 

@@ -16,7 +16,7 @@ For those of you who haven't been paying attention, the PC market is currently t
 
 But it looks like Dell are set to change all that with the release of [the XPS 13](http://www.dell.com/html/global/xps13/xps-13-ultrabook.html).
 
-![Dell XP 13 side-on](/images/fromwp/2012/02/dellxps13.jpg){:class="img-responsive"} 
+![Dell XP 13 side-on](/images/fromwp/2012/02/dellxps13.jpg) 
 
 Here's a aluminium-topped, carbon-fibre bodied laptop which squeezes a 13-inch screen onto a 12-inch laptop chassis and sports an Intel Core i5 chip, 4GB RAM and a 128GB SSD. Sure this thin-and-light design has sacrificed a few ports ([some](http://www.engadget.com/2012/01/10/dells-xps-13-ultrabook-announced/) may complain) but that hasn't stopped people buying similarly afflicted MacBook Airs. It's a very good-looking bit of kit and [apparently](http://technologizer.com/2012/01/11/dell-xps-13/) impeccably built, but best of all it has [just gone on sale](http://www.theverge.com/2012/2/27/2828576/dell-xps-13-ultrabook-shipping-date) in the US for $999. That's a price that's sure to stop some people buying Apple hardware to run Windows on.
 

@@ -9,5 +9,6 @@ tags:
   - flash
   - privacy
   - security
+  - bugs
 ---
 So, um, [you might want to consider uninstalling Adobe Flash Player](https://www.cs.columbia.edu/~smb/blog//2011-10/2011-10-21.html).

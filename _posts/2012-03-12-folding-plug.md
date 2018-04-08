@@ -10,6 +10,7 @@ tags:
   - plug
   - power
   - videos
+  - innovation
 ---
 Do you remember Min-Kyu Choi's folding plug design from a couple of years back?
 
@@ -21,7 +22,7 @@ Memory-refreshed? Right, well, after placing 3rd in the James Dyson Award 2009, 
 
 Fast forward a bit and Made In Mind has now unveiled [The Mu](https://www.themu.co.uk/), a USB power adapter built around the folding plug concept.
 
-![The Mu folding plug](/images/fromwp/2012/03/themu.jpg){:class="img-responsive"}
+![The Mu folding plug](/images/fromwp/2012/03/themu.jpg)
 
 At £25 it's rather expensive, especially given that the mass-produced reality is slightly uglier and cheaper-looking than the original design, but all credit to them for bringing the product to market. Let's hope that it won't be long until they're producing[^fn-licencing] a folding plug to be used with other devices.
 

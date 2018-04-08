@@ -9,5 +9,6 @@ tags:
   - passwords
   - power
   - security
+  - patent
 ---
-[The Register covers](http://www.theregister.co.uk/2012/01/09/apple_power_adapter_password_recovery/) the discovery of a patent awarded to Apple for the concept of storing password info in power adapters. It&#8217;s definitely an interesting idea but i can&#8217;t help but feel it&#8217;s more than a little flawed.
+[The Register covers](http://www.theregister.co.uk/2012/01/09/apple_power_adapter_password_recovery/) the discovery of a patent awarded to Apple for the concept of storing password info in power adapters. It's definitely an interesting idea but i can't help but feel it's more than a little flawed.

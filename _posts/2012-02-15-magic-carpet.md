@@ -11,4 +11,4 @@ tags:
 ---
 An almost perfect [accidental optical illusion](http://www.neatorama.com/2011/11/25/an-accidental-optical-illusion/)&#8230;
 
-![Accidental optical illusion...](/images/fromwp/2012/02/accidentalopticalillusion.jpg){:class="img-responsive"}
+![Accidental optical illusion](/images/fromwp/2012/02/accidentalopticalillusion.jpg)

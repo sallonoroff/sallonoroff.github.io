@@ -12,7 +12,7 @@ tags:
 ---
 I was just casually perusing [Gary Allen's](http://www.ifoapplestore.com/) [photos](http://www.flickr.com/photos/ifostore/sets/72157629143777004/with/6951762181/) of the new Apple Store in Amsterdam when i was struck by the caption of [this image](http://www.flickr.com/photos/ifostore/6951762181)&#8230;
 
-![Apple Store Amsterdam ceiling vents](/images/fromwp/2012/03/ifostore_amsterdam_vents.jpg){:class="img-responsive"}
+![Apple Store Amsterdam ceiling vents](/images/fromwp/2012/03/ifostore_amsterdam_vents.jpg)
 
 Another example of Apple's passion for aesthetics and fantastic attention to detail. And a fantastic spot by Gary.
 

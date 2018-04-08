@@ -7,7 +7,6 @@ layout: post
 tags:
   - fathers day
   - not so tech
-  - toys
   - humans
   - details
 ---

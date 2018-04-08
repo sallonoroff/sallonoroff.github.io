@@ -7,6 +7,7 @@ layout: post
 tags:
   - apple
   - consumers
+  - hardware
   - icloud
   - rumours
 ---
@@ -18,10 +19,10 @@ What do i think Apple should do with this surplus money? How should they ease th
 
 While improving the situation with network operators or buying media content are good ideas that I tend to agree with (especially with regards improving the Apple TV offering for _international_ customers), there are a few simpler things that i think Apple could do right now:
 
-**1) A free Newsstand and/or iBooks download for each Apple ID.** Or a book/magazine equivalent to the iTunes Store's Single of the Week. Just something that lets people see how these services work and what they're like to use. Break down that barrier. Help people get even more from their Apple devices. Music and Apps really need no pushing but, looking at the Homescreens of my friends and family, i think iBooks and Newsstand do.
+1. **A free Newsstand and/or iBooks download for each Apple ID.** Or a book/magazine equivalent to the iTunes Store's Single of the Week. Just something that lets people see how these services work and what they're like to use. Break down that barrier. Help people get even more from their Apple devices. Music and Apps really need no pushing but, looking at the Homescreens of my friends and family, i think iBooks and Newsstand do.
 
-**2) A better hardware warranty out of the door.** Let's have 2 years as standard and a (cheaper) Applecare that covers that 3rd year. Not only does this win you serious brownie points with customers, it is a hefty kick in the competitor's gonads. How many other PC and phone manufacturer's could afford to match this?
+2. **A better hardware warranty out of the door.** Let's have 2 years as standard and a (cheaper) Applecare that covers that 3rd year. Not only does this win you serious brownie points with customers, it is a hefty kick in the competitor's gonads. How many other PC and phone manufacturer's could afford to match this?
 
-**3) More free storage space in iCloud.** Currently, when I buy an Apple product i'm gifted 5GB of space in iCloud. If I buy another device I still only have that 5GB of space because i'm just using the same Apple ID. It wouldn't hurt Apple to give me the 10GB i'm really due, would it? And besides I potentially need that much space just for device backups. So, more iCloud space please. Give customers 5GB on creating an iCloud account and another 5GB for each device used with that ID, including Macs.
+3. **More free storage space in iCloud.** Currently, when I buy an Apple product i'm gifted 5GB of space in iCloud. If I buy another device I still only have that 5GB of space because i'm just using the same Apple ID. It wouldn't hurt Apple to give me the 10GB i'm really due, would it? And besides I potentially need that much space just for device backups. So, more iCloud space please. Give customers 5GB on creating an iCloud account and another 5GB for each device used with that ID, including Macs.
 
 Big, immediate gains for the individual customer in return for a very small portion of what's inside Apple's money bag.

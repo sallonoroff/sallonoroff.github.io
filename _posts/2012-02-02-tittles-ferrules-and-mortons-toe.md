@@ -10,5 +10,3 @@ tags:
   - words
 ---
 Did you know that the dot of an i or j is called a tittle? No? Seems you could do with reading this list of [25 Everyday Things You Never Knew Had Names](http://www.buzzfeed.com/daves4/25-everyday-things-you-never-knew-had-names).
-
-&nbsp;

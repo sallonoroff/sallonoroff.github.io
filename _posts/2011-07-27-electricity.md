@@ -5,20 +5,19 @@ date: 2011-07-27 00:32:33 +00:00
 author: mark
 layout: post
 tags:
-  - flowery shite
+  - artsy-fartsy
+  - poem
   - not so tech
-  - words
+  - power
 ---
 _A finger traced along my forearm,_
   
- _A hand against my neck,_
+_A hand against my neck,_
   
- _A nail scratched down my back,_
+_A nail scratched down my back,_
   
- _Your eyes and mine connect,_
+_Your eyes and mine connect,_
   
- _Harness this electricity, if only we could,_
+_Harness this electricity, if only we could,_
   
 _Then Npower would be fucked._
-
-&nbsp;

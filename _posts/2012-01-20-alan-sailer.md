@@ -11,6 +11,6 @@ tags:
   - photos
 ---
 
-![Alan Sailer's pastel M&Ms](/images/fromwp/2012/01/pastelmms450.jpg){:class="img-responsive"}
+![Alan Sailer's pastel M&Ms](/images/fromwp/2012/01/pastelmms450.jpg)
 
 Lots more fantastic high-speed photos like this on [Alan Sailer's Flickr](http://www.flickr.com/photos/8763834@N02/). The jelly-inside-a-christmas-bauble shots are particularly good.

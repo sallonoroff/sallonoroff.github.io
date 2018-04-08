@@ -11,7 +11,7 @@ tags:
   - sony
   - wireless
 ---
-![Hidden Radio](/images/fromwp/2012/02/hiddenradio1.jpg){:class="img-responsive"}
+![Hidden Radio](/images/fromwp/2012/02/hiddenradio1.jpg)
 
 This gorgeous little thing is the [Hidden Radio](http://hiddenradiodesign.com/) by designers John Van Den Nieuwenhuizen and Vitor Santa Maria. It's a battery-powered FM/AM radio but you can also use it as a wireless speaker (via bluetooth) for your computer, phone, tablet, etc. And its simple aesthetic is matched by how easy it is to use too: Just twist the top portion to turn on and adjust the volume.
 
