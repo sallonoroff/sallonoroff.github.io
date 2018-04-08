@@ -1,6 +1,6 @@
 title: post title here
-date: 2018-03-23T12:12:12+00:00
-last_modified_at: 2018-03-24T12:12:12+00:00
+date: 2018-03-23 12:12:12 +00:00
+last_modified_at: 2018-03-24 12:12:12 +00:00
 layout: post
 tags:
   - tag here

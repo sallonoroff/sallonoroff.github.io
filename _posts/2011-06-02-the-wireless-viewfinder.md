@@ -7,23 +7,22 @@ layout: post
 tags:
   - camera
   - design
-  - hardware
   - my ideas
   - stolen ideas
+  - wireless
+  - concepts
+  - videos
 ---
-Wouldn&#8217;t it be marvellous if you could separate your camera into the &#8220;picture-taking&#8221; part and the &#8220;controller&#8221; part? Perhaps you recall that [i&#8217;ve mentioned this on here](http://www.sallonoroff.co.uk/blog/2009/08/secondary-display-on-a-camera/) before. Perhaps not. Either way, here&#8217;s the (very poor) drawing i did&#8230;
+Wouldn't it be marvellous if you could separate your camera into the &#8220;picture-taking&#8221; part and the &#8220;controller&#8221; part? Perhaps you recall that [i've mentioned this on here](http://www.sallonoroff.co.uk/blog/2009/08/secondary-display-on-a-camera/) before. Perhaps not. Either way, here's the (very poor) drawing i did&#8230;
 
-<p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-639" title="mycamera" src="/images/fromwp/2009/08/mycamera.jpg" alt="" width="303" height="500" srcset="/images/fromwp/2009/08/mycamera.jpg 303w, /images/fromwp/2009/08/mycamera-181x300.jpg 181w" sizes="(max-width: 303px) 100vw, 303px" />
-</p>
+![My Camera Idea](/images/fromwp/2009/08/mycamera.jpg)
 
-I think that image conveys the idea &#8211; it&#8217;s just not very impressive, is it? No. So how about this instead&#8230;
+I think that image conveys the idea &#8211; it's just not very impressive, is it? No. So how about this instead&#8230;
 
-<p style="text-align: center;">
-</p>
+{% include vimeoembed.html id="22134219" %}
 
 This lovely piece of design is the [WVIL](http://www.artefactgroup.com/wvil/) (Wireless Viewfinder Interchangeable Lens) by the Artefact group, created in answer to the question &#8220;what’s next for camera design?&#8221;
 
-> _The patent-pending WVIL system takes the connectivity and application platform capabilities of today&#8217;s smart phones and wirelessly connects them with interchangeable full SLR-quality optics. It is the inevitable solution for photographers who expect the power of modern mobile devices but who also demand uncompromised quality._
+> _The patent-pending WVIL system takes the connectivity and application platform capabilities of today's smart phones and wirelessly connects them with interchangeable full SLR-quality optics. It is the inevitable solution for photographers who expect the power of modern mobile devices but who also demand uncompromised quality._
 
-The WVIL is just a concept at present but i don&#8217;t expect that will remain the case for very long.
+The WVIL is just a concept at present but i don't expect that will remain the case for very long.
