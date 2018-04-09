@@ -6,7 +6,7 @@ description: debugging, ignore please.
 Total posts: {{site.posts.size}}
 
 <section id="archive" class="archivelist">
-  {%for post in site.posts %}
+  {% for post in site.posts reversed %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
       <ul>
