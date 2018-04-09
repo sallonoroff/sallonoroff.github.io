@@ -19,7 +19,7 @@ Total posts: {{site.posts.size}}
         <ul>
       {% endif %}
     {% endunless %}
-      {{ forloop.rindex }} <li><a href="{{ post.url }}">{{ post.title }}</a> <time class="meta-date">{{ post.date | date: "%-d %B %Y" }}</time></li>
+      {{ forloop.index }}/{{ forloop.length }} (r{{ forloop.rindex }}) <li><a href="{{ post.url }}">{{ post.title }}</a> <time class="meta-date">{{ post.date | date: "%-d %B %Y" }}</time></li>
   {% endfor %}
   </ul>
 </section>
