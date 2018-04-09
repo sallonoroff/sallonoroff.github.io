@@ -10,6 +10,8 @@ tags:
   - plug
   - power
   - usb
+  - design
+  - engineering
 ---
 Regularly viewers will know that [I have a bit of a thing](/blog/tags#plug) for the British electric plug. Today a friend asked me to dig out the [URL](http://www.cnet.com/uk/news/plug-versus-plug/) of a CNET article [I once linked-to](/blog/2012/05/the-great-british-plug/) and it reminded me that i've been meaning to post this video for ages. It's excellent. And was the piece of evidence I used to finally persuade my wife to stop using those [stupid plastic &#8220;safety&#8221; socket covers](http://www.fatallyflawed.org.uk). Enjoy, domestic electrical system fans!
 

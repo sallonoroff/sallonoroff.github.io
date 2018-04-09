@@ -8,7 +8,9 @@ tags:
   - hardware
   - headphones
   - panasonic
+  - rha
   - review
+  - the wirecutter
 ---
 There was a time when [a gold bikini](http://www.sallonoroff.co.uk/blog/2009/09/this-is-a-call/) brought in most of my site's traffic but now i'd say its definitely all about the [Cheap Headphones](http://www.sallonoroff.co.uk/blog/2013/11/cheap-headphones/). Apparently people are very interested in Panasonic's RP-HJE125 earphones and I imagine that is because of [the Wirecutter's](https://thewirecutter.com/) recommendation in their &#8220;Best In-Ear Headphones Under $30&#8221; review[^fn-wirecutterbest]. So, despite being quite happy with [my RHAs](http://www.sallonoroff.co.uk/blog/2013/09/rha-ma350-earphones/), I bought a pair of the Panasonics to test &#8211; at just £6 it was hard not to. Here are my thoughts after more than a year's use of them.
 

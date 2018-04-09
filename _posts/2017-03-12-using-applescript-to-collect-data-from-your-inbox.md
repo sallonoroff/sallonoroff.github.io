@@ -11,7 +11,6 @@ tags:
   - data
   - email
   - geek
-  - petrol
 ---
 There are a host of ways of finding out where the cheapest fuel is for sale near you. I've been subscribed to [PetrolPrices.com](https://www.petrolprices.com/)'s notifications for years and years, and occasionally even look at the emails. On one such day, realising I had quite the history of local at-the-pump prices, I wondered if I could easily collate and chart this data[^fn-notallowed]. Being sat at a Mac, I turned to [AppleScript](https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html).
 
@@ -44,7 +43,7 @@ The output from my script (the CSV file) is rather messy, containing as it does 
 
 Anyway, post-manual-processing of the output file, here's the historical petrol price graph that I was able to produce with the gathered data...[^fn-spottedthedates]
 
-![Sheffield petrol prices graph](/images/fromwp/2017/03/sheffield-petrol-prices.png){:class="img-responsive"}
+![Sheffield petrol prices graph](/images/fromwp/2017/03/sheffield-petrol-prices.png)
 
 For motorists, that line is a bit depressing. For me, it's pleasingly similar [to this one](http://www.racfoundation.org/data/uk-pump-prices-over-time).
 
