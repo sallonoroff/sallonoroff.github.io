@@ -8,7 +8,7 @@ layout: default
   {{ content }}
   <ul class="taglist">
     {% for tag in page.tags %}
-      <li><a href="{{ site.baseurl }}/blog/tags#{{ tag | cgi_escape }}" class="csstag">{{ tag }} <span>({{ site.tags[tag] | size }})</span></a></li>
+      <li><a href="{{ site.baseurl }}/blog/tags/#{{ tag | cgi_escape }}" class="csstag">{{ tag }} <span>({{ site.tags[tag] | size }})</span></a></li>
     {% endfor %}
   </ul>
 </article>
