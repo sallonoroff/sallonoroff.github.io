@@ -8,7 +8,6 @@ tags:
   - a review in exactly 200 words
   - review
   - games
-  - microsoft
   - xbox360
 ---
 Imagine the jumpy, ledge-grabby bits of Tomb Raider or the jumpy, ledge-grabby bits of Assassin's Creed played in first-person and you pretty much have [Mirror's Edge](http://www.mirrorsedge.com/). It's essentially a game of &#8220;[free-running](http://en.wikipedia.org/wiki/Freerunning)&#8220;. I won't bother describing the story as it's pretty atrocious &#8211; much like the 2D-cartoon cut-scenes in which it is played out &#8211; suffice to say that in the near-future portrayed, postmen jump about rooftops.

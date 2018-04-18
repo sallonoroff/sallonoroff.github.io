@@ -9,7 +9,7 @@ tags:
   - lottery
   - not so tech
 ---
-For 52 weeks, from March 2010 to March 2011, I ran a daft experiment that i referred to as &#8220;[It Could Be Me](http://www.sallonoroff.co.uk/blog/tags#it+could+be+me/)&#8220;. The idea was that i'd &#8220;invest&#8221; £1 every week in playing Saturday's National Lottery and at the same time i'd put £1 in a savings account, then after a year see which was most profitable. In the [end](http://www.sallonoroff.co.uk/blog/2011/02/it-could-be-me-draw-52/), the results were unsurprising but i promised further analysis and a conclusion, so here it is. (Just a few months late.)
+For 52 weeks, from March 2010 to March 2011, I ran a daft experiment that i referred to as &#8220;[It Could Be Me](http://www.sallonoroff.co.uk/blog/tags/#it+could+be+me/)&#8220;. The idea was that i'd &#8220;invest&#8221; £1 every week in playing Saturday's National Lottery and at the same time i'd put £1 in a savings account, then after a year see which was most profitable. In the [end](http://www.sallonoroff.co.uk/blog/2011/02/it-could-be-me-draw-52/), the results were unsurprising but i promised further analysis and a conclusion, so here it is. (Just a few months late.)
 
 **What happened?**
 Over the year i played several different sets of numbers. I started with 06, 09, 16, 23, 27, 32 (now to be known as Set1), playing that line for 11 weeks. It won nothing. For the next 29 weeks i played the line 06, 09, 11, 23, 33, 44 (Set2) but they won nothing either. In desperation, for the last 12 weeks of the experiment i switched to Lucky Dip numbers (lines of numbers drawn randomly for you). These were unfruitful too.

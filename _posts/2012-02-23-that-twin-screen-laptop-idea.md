@@ -15,7 +15,7 @@ tags:
   - toshiba
   - touchscreen
 ---
-I've not mentioned [dual-screen laptops](http://www.sallonoroff.co.uk/blog/tags#dual+screen/) in a while, so i thought i'd just post a brief update&#8230;
+I've not mentioned [dual-screen laptops](http://www.sallonoroff.co.uk/blog/tags/#dual+screen/) in a while, so i thought i'd just post a brief update&#8230;
 
 Back in August 2010, Toshiba released (in very limited numbers) the Libretto W100 &#8220;netbook&#8221;. It had two 7 inch screens and sold for $1100. Engadget [had this to say](http://www.engadget.com/2010/09/08/toshiba-libretto-w105-review/) about it:
 
