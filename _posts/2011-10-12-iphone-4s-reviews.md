@@ -19,7 +19,7 @@ For a fairly quick, straight-forward review [head over to Daring Fireball](http:
 
 > _iOS is explicit and visual. Everything you can do in iOS is something you can see and touch on screen. The limits are visible and obvious. Siri, on the other hand, feels limitless. It’s fuzzy, and fuzzy on purpose. There’s no way to tell what will work and what won’t. You must explore. I found it extremely fun to explore Siri — primarily because so many of the things I tried actually worked. It’s a completely different interface for interacting with your iPhone. You’re not driving or commanding the existing iPhone interface with commands. There is no syntax to memorize. You’re just, well, talking to your iPhone._
 
-Meanwhile, [Stephen Fry offers a short review](http://www.stephenfry.com/2011/10/12/iphone-4s/single-page/) of the 4S and iOS 5 on his blog.
+Meanwhile, [Stephen Fry offers a short review](http://www.stephenfry.com/2011/10/12/iphone-4s/) of the 4S and iOS 5 on his blog.
 
 > _Siri, the high quality and ultra-fast camera, 30 fps 1080p HD video, globally available voice recognition and the introduction of two antennae (the phone seamlessly switches between whichever is getting the strongest signal) are features that make the 4S irresistible; what is more, the unchanged form means that a whole new range of covers and accessories won’t be required._
 > 
