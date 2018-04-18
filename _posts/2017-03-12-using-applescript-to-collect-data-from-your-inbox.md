@@ -47,7 +47,7 @@ Anyway, post-manual-processing of the output file, here's the historical petrol 
 
 For motorists, that line is a bit depressing. For me, it's pleasingly similar [to this one](http://www.racfoundation.org/data/uk-pump-prices-over-time).
 
-[^fn-notallowed]: Strictly speaking, the [PetrolPrices.com](https://www.petrolprices.com/) terms and conditions probably forbid me from doing any of this. Back in the real world, however, I don't see why the company would have any cause for complaint with the above. If you work at PetrolPrices and disagree, please [get in touch](http://www.sallonoroff.co.uk/blog/about).
+[^fn-notallowed]: Strictly speaking, the [PetrolPrices.com](https://www.petrolprices.com/) terms and conditions probably forbid me from doing any of this. Back in the real world, however, I don't see why the company would have any cause for complaint with the above. If you work at PetrolPrices and disagree, please [get in touch](http://www.sallonoroff.co.uk/about/).
 
 [^fn-plaintext]: If you want to use it, you might like to fetch [the full, plaintext version](/images/fromwp/2017/03/subjects-and-dates-in-mailbox.txt) which will be viewable in-browser but that can also be opened in OS X's Script Editor. It also shows the important file-writing function.
 
